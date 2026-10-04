@@ -1,0 +1,6 @@
+241 Saunas and Steam Rooms
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#241-saunas-and-steam-rooms (fetched 2026-10-04)
+
+241 General. Where provided, saunas and steam rooms shall comply with 612.
+EXCEPTION: Where saunas or steam rooms are clustered at a single location, no more than 5 percent of the saunas and steam rooms, but no fewer than one, of each type in each cluster shall be required to comply with 612.

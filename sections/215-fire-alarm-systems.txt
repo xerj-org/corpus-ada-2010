@@ -1,0 +1,12 @@
+215 Fire Alarm Systems
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#215-fire-alarm-systems (fetched 2026-10-04)
+
+215.1 General. Where fire alarm systems provide audible alarm coverage, alarms shall comply with 215.
+EXCEPTION: In existing facilities, visible alarms shall not be required except where an existing fire alarm system is upgraded or replaced, or a new fire alarm system is installed.
+Advisory 215.1 General.
+Unlike audible alarms, visible alarms must be located within the space they serve so that the signal is visible. Facility alarm systems (other than fire alarm systems) such as those used for tornado warnings and other emergencies are not required to comply with the technical criteria for alarms in Section 702. Every effort should be made to ensure that such alarms can be differentiated in their signal from fire alarms systems and that people who need to be notified of emergencies are adequately safeguarded. Consult local fire departments and prepare evacuation plans taking into consideration the needs of every building occupant, including people with disabilities.
+215.2 Public and Common Use Areas. Alarms in public use areas and common use areas shall comply with 702.
+215.3 Employee Work Areas. Where employee work areas have audible alarm coverage, the wiring system shall be designed so that visible alarms complying with 702 can be integrated into the alarm system.
+215.4 Transient Lodging. Guest rooms required to comply with 224.4 shall provide alarms complying with 702.
+215.5 Residential Facilities. Where provided in residential dwelling units required to comply with 809.5, alarms shall comply with 702.

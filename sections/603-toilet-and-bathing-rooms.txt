@@ -1,0 +1,18 @@
+603 Toilet and Bathing Rooms
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#603-toilet-and-bathing-rooms (fetched 2026-10-04)
+
+603.1 General. Toilet and bathing rooms shall comply with 603.
+603.2 Clearances. Clearances shall comply with 603.2.
+603.2.1 Turning Space. Turning space complying with 304 shall be provided within the room.
+603.2.2 Overlap. Required clear floor spaces, clearance at fixtures, and turning space shall be permitted to overlap.
+603.2.3 Door Swing. Doors shall not swing into the clear floor space or clearance required for any fixture. Doors shall be permitted to swing into the required turning space.
+EXCEPTIONS:
+- Doors to a toilet room or bathing room for a single occupant accessed only through a private office and not for common use or public use shall be permitted to swing into the clear floor space or clearance provided the swing of the door can be reversed to comply with 603.2.3.
+- Where the toilet room or bathing room is for individual use and a clear floor space complying with 305.3 is provided within the room beyond the arc of the door swing, doors shall be permitted to swing into the clear floor space or clearance required for any fixture.
+Advisory 603.2.3 Door Swing Exception 1.
+At the time the door is installed, and if the door swing is reversed in the future, the door must meet all the requirements specified in 404. Additionally, the door swing cannot reduce the required width of an accessible route. Also, avoid violating other building or life safety codes when the door swing is reversed.
+603.3 Mirrors. Mirrors located above lavatories or countertops shall be installed with the bottom edge of the reflecting surface 40 inches (1015 mm) maximum above the finish floor or ground. Mirrors not located above lavatories or countertops shall be installed with the bottom edge of the reflecting surface 35 inches (890 mm) maximum above the finish floor or ground.
+Advisory 603.3 Mirrors.
+A single full-length mirror can accommodate a greater number of people, including children. In order for mirrors to be usable by people who are ambulatory and people who use wheelchairs, the top edge of mirrors should be 74 inches (1880 mm) minimum from the floor or ground.
+603.4 Coat Hooks and Shelves. Coat hooks shall be located within one of the reach ranges specified in 308. Shelves shall be located 40 inches (1015 mm) minimum and 48 inches (1220 mm) maximum above the finish floor.

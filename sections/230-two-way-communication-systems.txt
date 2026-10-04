@@ -1,0 +1,7 @@
+230 Two-Way Communication Systems
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#230-two-way-communication-systems (fetched 2026-10-04)
+
+230.1 General. Where a two-way communication system is provided to gain admittance to a building or facility or to restricted areas within a building or facility, the system shall comply with 708.
+Advisory 230.1 General.
+This requirement applies to facilities such as office buildings, courthouses, and other facilities where admittance to the building or restricted spaces is dependent on two-way communication systems.

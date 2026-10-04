@@ -1,0 +1,8 @@
+229 Windows
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#229-windows (fetched 2026-10-04)
+
+229.1 General. Where glazed openings are provided in accessible rooms or spaces for operation by occupants, at least one opening shall comply with 309. Each glazed opening required by an administrative authority to be operable shall comply with 309.
+EXCEPTION:
+- Glazed openings in residential dwelling units required to comply with 809 shall not be required to comply with 229.
+- Glazed openings in guest rooms required to provide communication features and in guest rooms required to comply with 206.5.3 shall not be required to comply with 229.

@@ -1,0 +1,14 @@
+304 Turning Space
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#304-turning-space (fetched 2026-10-04)
+
+304.1 General. Turning space shall comply with 304.
+304.2 Floor or Ground Surfaces. Floor or ground surfaces of a turning space shall comply with 302. Changes in level are not permitted.
+EXCEPTION: Slopes not steeper than 1:48 shall be permitted.
+Advisory 304.2 Floor or Ground Surface Exception.
+As used in this section, the phrase “changes in level” refers to surfaces with slopes and to surfaces with abrupt rise exceeding that permitted in Section 303.3. Such changes in level are prohibited in required clear floor and ground spaces, turning spaces, and in similar spaces where people using wheelchairs and other mobility devices must park their mobility aids such as in wheelchair spaces, or maneuver to use elements such as at doors, fixtures, and telephones. The exception permits slopes not steeper than 1:48.
+304.3 Size. Turning space shall comply with 304.3.1 or 304.3.2.
+304.3.1 Circular Space. The turning space shall be a space of 60 inches (1525 mm) diameter minimum. The space shall be permitted to include knee and toe clearance complying with 306.
+304.3.2 T-Shaped Space. The turning space shall be a T-shaped space within a 60 inch (1525 mm) square minimum with arms and base 36 inches (915 mm) wide minimum. Each arm of the T shall be clear of obstructions 12 inches (305 mm) minimum in each direction and the base shall be clear of obstructions 24 inches (610 mm) minimum. The space shall be permitted to include knee and toe clearance complying with 306 only at the end of either the base or one arm.
+[Figure: T-Shaped Turning Space — The T shape space is 36 inches (915 mm) wide at the top and stem within a 60 inch by 60 inch (1525 mm by 1525 mm) square.]
+304.4 Door Swing. Doors shall be permitted to swing into turning spaces.

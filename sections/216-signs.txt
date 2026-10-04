@@ -1,0 +1,42 @@
+216 Signs
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#216-signs (fetched 2026-10-04)
+
+216.1 General. Signs shall be provided in accordance with 216 and shall comply with 703.
+EXCEPTIONS:
+- Building directories, menus, seat and row designations in assembly areas, occupant names, building addresses, and company names and logos shall not be required to comply with 216.
+- In parking facilities, signs shall not be required to comply with 216.2, 216.3, and 216.6 through 216.12.
+- Temporary, 7 days or less, signs shall not be required to comply with 216.
+- In detention and correctional facilities, signs not located in public use areas shall not be required to comply with 216.
+216.2 Designations. Interior and exterior signs identifying permanent rooms and spaces shall comply with 703.1, 703.2, and 703.5. Where pictograms are provided as designations of permanent interior rooms and spaces, the pictograms shall comply with 703.6 and shall have text descriptors complying with 703.2 and 703.5.
+EXCEPTION: Exterior signs that are not located at the door to the space they serve shall not be required to comply with 703.2.
+Advisory 216.2 Designations.
+Section 216.2 applies to signs that provide designations, labels, or names for interior rooms or spaces where the sign is not likely to change over time. Examples include interior signs labeling restrooms, room and floor numbers or letters, and room names. Tactile text descriptors are required for pictograms that are provided to label or identify a permanent room or space. Pictograms that provide information about a room or space, such as “no smoking,” occupant logos, and the International Symbol of Accessibility, are not required to have text descriptors.
+216.3 Directional and Informational Signs. Signs that provide direction to or information about interior spaces and facilities of the site shall comply with 703.5.
+Advisory 216.3 Directional and Informational Signs.
+Information about interior spaces and facilities includes rules of conduct, occupant load, and similar signs. Signs providing direction to rooms or spaces include those that identify egress routes.
+216.4 Means of Egress. Signs for means of egress shall comply with 216.4.
+216.4.1 Exit Doors. Doors at exit passageways, exit discharge, and exit stairways shall be identified by tactile signs complying with 703.1, 703.2, and 703.5.
+Advisory 216.4.1 Exit Doors.
+An exit passageway is a horizontal exit component that is separated from the interior spaces of the building by fire-resistance-rated construction and that leads to the exit discharge or public way. The exit discharge is that portion of an egress system between the termination of an exit and a public way.
+216.4.2 Areas of Refuge. Signs required by section 1003.2.13.5.4 of the International Building Code (2000 edition) or section 1007.6.4 of the International Building Code (2003 edition) (incorporated by reference, see “Referenced Standards” in Chapter 1) to provide instructions in areas of refuge shall comply with 703.5.
+216.4.3 Directional Signs. Signs required by section 1003.2.13.6 of the International Building Code (2000 edition) or section 1007.7 of the International Building Code (2003 edition) (incorporated by reference, see “Referenced Standards” in Chapter 1) to provide directions to accessible means of egress shall comply with 703.5.
+216.5 Parking. Parking spaces complying with 502 shall be identified by signs complying with 502.6.
+EXCEPTIONS:
+- Where a total of four or fewer parking spaces, including accessible parking spaces, are provided on a site, identification of accessible parking spaces shall not be required.
+- In residential facilities, where parking spaces are assigned to specific residential dwelling units, identification of accessible parking spaces shall not be required.
+216.6 Entrances. Where not all entrances comply with 404, entrances complying with 404 shall be identified by the International Symbol of Accessibility complying with 703.7.2.1. Directional signs complying with 703.5 that indicate the location of the nearest entrance complying with 404 shall be provided at entrances that do not comply with 404.
+Advisory 216.6 Entrances.
+Where a directional sign is required, it should be located to minimize backtracking. In some cases, this could mean locating a sign at the beginning of a route, not just at the inaccessible entrances to a building.
+216.7 Elevators. Where existing elevators do not comply with 407, elevators complying with 407 shall be clearly identified with the International Symbol of Accessibility complying with 703.7.2.1.
+216.8 Toilet Rooms and Bathing Rooms. Where existing toilet rooms or bathing rooms do not comply with 603, directional signs indicating the location of the nearest toilet room or bathing room complying with 603 within the facility shall be provided. Signs shall comply with 703.5 and shall include the International Symbol of Accessibility complying with 703.7.2.1. Where existing toilet rooms or bathing rooms do not comply with 603, the toilet rooms or bathing rooms complying with 603 shall be identified by the International Symbol of Accessibility complying with 703.7.2.1. Where clustered single user toilet rooms or bathing facilities are permitted to use exceptions to 213.2, toilet rooms or bathing facilities complying with 603 shall be identified by the International Symbol of Accessibility complying with 703.7.2.1 unless all toilet rooms and bathing facilities comply with 603.
+216.9 TTYs. Identification and directional signs for public TTYs shall be provided in accordance with 216.9.
+216.9.1 Identification Signs. Public TTYs shall be identified by the International Symbol of TTY complying with 703.7.2.2.
+216.9.2 Directional Signs. Directional signs indicating the location of the nearest public TTY shall be provided at all banks of public pay telephones not containing a public TTY. In addition, where signs provide direction to public pay telephones, they shall also provide direction to public TTYs. Directional signs shall comply with 703.5 and shall include the International Symbol of TTY complying with 703.7.2.2.
+216.10 Assistive Listening Systems. Each assembly area required by 219 to provide assistive listening systems shall provide signs informing patrons of the availability of the assistive listening system. Assistive listening signs shall comply with 703.5 and shall include the International Symbol of Access for Hearing Loss complying with 703.7.2.4.
+EXCEPTION: Where ticket offices or windows are provided, signs shall not be required at each assembly area provided that signs are displayed at each ticket office or window informing patrons of the availability of assistive listening systems.
+216.11 Check-Out Aisles. Where more than one check-out aisle is provided, check-out aisles complying with 904.3 shall be identified by the International Symbol of Accessibility complying with 703.7.2.1. Where check-out aisles are identified by numbers, letters, or functions, signs identifying check-out aisles complying with 904.3 shall be located in the same location as the check-out aisle identification.
+EXCEPTION: Where all check-out aisles serving a single function comply with 904.3, signs complying with 703.7.2.1 shall not be required.
+216.12 Amusement Rides. Signs identifying the type of access provided on amusement rides shall be provided at entries to queues and waiting lines. In addition, where accessible unload areas also serve as accessible load areas, signs indicating the location of the accessible load and unload areas shall be provided at entries to queues and waiting lines.
+Advisory 216.12 Amusement Rides.
+Amusement rides designed primarily for children, amusement rides that are controlled or operated by the rider, and amusement rides without seats, are not required to provide wheelchair spaces, transfer seats, or transfer systems, and need not meet the sign requirements in 216.12. The load and unload areas of these rides must, however, be on an accessible route and must provide turning space.

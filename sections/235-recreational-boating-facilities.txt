@@ -1,0 +1,26 @@
+235 Recreational Boating Facilities
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#235-recreational-boating-facilities (fetched 2026-10-04)
+
+235.1 General. Recreational boating facilities shall comply with 235.
+235.2 Boat Slips. Boat slips complying with 1003.3.1 shall be provided in accordance with Table 235.2. Where the number of boat slips is not identified, each 40 feet (12 m) of boat slip edge provided along the perimeter of the pier shall be counted as one boat slip for the purpose of this section.
+Total Number of Boat Slips Provided in Facility | Minimum Number of Required Accessible Boat Slips
+1 to 25 | 1
+26 to 50 | 2
+51 to 100 | 3
+101 to 150 | 4
+151 to 300 | 5
+301 to 400 | 6
+401 to 500 | 7
+501 to 600 | 8
+601 to 700 | 9
+701 to 800 | 10
+801 to 900 | 11
+901 to 1000 | 12
+1001 and over | 12, plus 1 for every 100, or fraction thereof, over 1000
+Advisory 235.2 Boat Slips.
+The requirement for boat slips also applies to piers where boat slips are not demarcated. For example, a single pier 25 feet (7620 mm) long and 5 feet (1525 mm) wide (the minimum width specified by Section 1003.3) allows boats to moor on three sides. Because the number of boat slips is not demarcated, the total length of boat slip edge (55 feet, 17 m) must be used to determine the number of boat slips provided (two). This number is based on the specification in Section 235.2 that each 40 feet (12 m) of boat slip edge, or fraction thereof, counts as one boat slip. In this example, Table 235.2 would require one boat slip to be accessible.
+235.2.1 Dispersion. Boat slips complying with 1003.3.1 shall be dispersed throughout the various types of boat slips provided. Where the minimum number of boat slips required to comply with 1003.3.1 has been met, no further dispersion shall be required.
+Advisory 235.2.1 Dispersion.
+Types of boat slips are based on the size of the boat slips; whether single berths or double berths, shallow water or deep water, transient or longer-term lease, covered or uncovered; and whether slips are equipped with features such as telephone, water, electricity or cable connections. The term “boat slip” is intended to cover any pier area other than launch ramp boarding piers where recreational boats are moored for purposes of berthing, embarking, or disembarking. For example, a fuel pier may contain boat slips, and this type of short term slip would be included in determining compliance with 235.2.
+235.3 Boarding Piers at Boat Launch Ramps. Where boarding piers are provided at boat launch ramps, at least 5 percent, but no fewer than one, of the boarding piers shall comply with 1003.3.2.

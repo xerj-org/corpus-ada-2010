@@ -1,0 +1,9 @@
+611 Washing Machines and Clothes Dryers
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#611-washing-machines-and-clothes-dryers (fetched 2026-10-04)
+
+611.1 General. Washing machines and clothes dryers shall comply with 611.
+611.2 Clear Floor Space. A clear floor or ground space complying with 305 positioned for parallel approach shall be provided. The clear floor or ground space shall be centered on the appliance.
+611.3 Operable Parts. Operable parts, including doors, lint screens, and detergent and bleach compartments shall comply with 309.
+611.4 Height. Top loading machines shall have the door to the laundry compartment located 36 inches (915 mm) maximum above the finish floor. Front loading machines shall have the bottom of the opening to the laundry compartment located 15 inches (380 mm) minimum and 36 inches (915 mm) maximum above the finish floor.
+[Figure: Height of Laundry Compartment Opening — Figure (a) shows a top loading machine with the door to the laundry compartment 36 inches (915 mm) maximum above the floor.  Figure (b) shows a front loading machine with the bottom of the opening to the laundry compartment 15 to 36 inches (380 to 915 mm) above the floor.]

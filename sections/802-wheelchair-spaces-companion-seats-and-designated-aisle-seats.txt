@@ -1,0 +1,36 @@
+802 Wheelchair Spaces, Companion Seats, and Designated Aisle Seats
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#802-wheelchair-spaces-companion-seats-and-designated-aisle-seats (fetched 2026-10-04)
+
+802.1 Wheelchair Spaces. Wheelchair spaces shall comply with 802.1.
+802.1.1 Floor or Ground Surface. The floor or ground surface of wheelchair spaces shall comply with 302. Changes in level are not permitted.
+EXCEPTION: Slopes not steeper than 1:48 shall be permitted.
+802.1.2 Width. A single wheelchair space shall be 36 inches (915 mm) wide minimum Where two adjacent wheelchair spaces are provided, each wheelchair space shall be 33 inches (840 mm) wide minimum.
+[Figure: Width of Wheelchair Spaces in Assembly Areas — Figure (a) is a plan view of a single wheelchair space 36 inches (915 mm) wide minimum.  Figure (b) is a plan view of two wheelchair spaces side by side.  Each space is 33 inches (840 mm) wide minimum.]
+802.1.3 Depth. Where a wheelchair space can be entered from the front or rear, the wheelchair space shall be 48 inches (1220 mm) deep minimum. Where a wheelchair space can be entered only from the side, the wheelchair space shall be 60 inches (1525 mm) deep minimum.
+[Figure: Depth of Wheelchair Spaces in Assembly Areas — Figure (a) shows a wheelchair space that can be entered from the front or rear that is 48 inches (1220 mm) deep minimum.  Figure (b) shows a wheelchair space entered from the side that is 60 inches (1525 mm) deep minimum.]
+802.1.4 Approach. Wheelchair spaces shall adjoin accessible routes. Accessible routes shall not overlap wheelchair spaces.
+Advisory 802.1.4 Approach.
+Because accessible routes serving wheelchair spaces are not permitted to overlap the clear floor space at wheelchair spaces, access to any wheelchair space cannot be through another wheelchair space.
+802.1.5 Overlap. Wheelchair spaces shall not overlap circulation paths.
+Advisory 802.1.5 Overlap.
+The term “circulation paths” used in Section 802.1.5 means aisle width required by applicable building or life safety codes for the specific assembly occupancy. Where the circulation path provided is wider than the required aisle width, the wheelchair space may intrude into that portion of the circulation path that is provided in excess of the required aisle width.
+802.2 Lines of Sight. Lines of sight to the screen, performance area, or playing field for spectators in wheelchair spaces shall comply with 802.2.
+802.2.1 Lines of Sight Over Seated Spectators. Where spectators are expected to remain seated during events, spectators in wheelchair spaces shall be afforded lines of sight complying with 802.2.1.
+802.2.1.1 Lines of Sight Over Heads. Where spectators are provided lines of sight over the heads of spectators seated in the first row in front of their seats, spectators seated in wheelchair spaces shall be afforded lines of sight over the heads of seated spectators in the first row in front of wheelchair spaces.
+[Figure: Lines of Sight Over the Heads of Seated Spectators — Elevation drawing shows a person using a wheelchair on an upper level of tiered seating having a line of sight over the heads of spectators seated in front.]
+802.2.1.2 Lines of Sight Between Heads. Where spectators are provided lines of sight over the shoulders and between the heads of spectators seated in the first row in front of their seats, spectators seated in wheelchair spaces shall be afforded lines of sight over the shoulders and between the heads of seated spectators in the first row in front of wheelchair spaces.
+[Figure: Lines of Sight Between the Heads of Seated Spectators — Elevation drawing shows a person using a wheelchair on an upper level of tiered seating having a line of sight between the heads of spectators seated in front.]
+802.2.2 Lines of Sight Over Standing Spectators. Where spectators are expected to stand during events, spectators in wheelchair spaces shall be afforded lines of sight complying with 802.2.2.
+802.2.2.1 Lines of Sight Over Heads. Where standing spectators are provided lines of sight over the heads of spectators standing in the first row in front of their seats, spectators seated in wheelchair spaces shall be afforded lines of sight over the heads of standing spectators in the first row in front of wheelchair spaces.
+[Figure: Lines of Sight Over the Heads of Standing Spectators — Elevation drawing shows a person using a wheelchair on an upper level of tiered seating elevated sufficiently to have a line of sight over the heads of spectators standing in front.]
+802.2.2.2 Lines of Sight Between Heads. Where standing spectators are provided lines of sight over the shoulders and between the heads of spectators standing in the first row in front of their seats, spectators seated in wheelchair spaces shall be afforded lines of sight over the shoulders and between the heads of standing spectators in the first row in front of wheelchair spaces.
+[Figure: Lines of Sight Between the Heads of Standing Spectators — Elevation drawing shows a person using a wheelchair on an upper level of tiered seating elevated sufficiently to have a line of sight between the heads of spectators standing in front.]
+802.3 Companion Seats. Companion seats shall comply with 802.3.
+802.3.1 Alignment. In row seating, companion seats shall be located to provide shoulder alignment with adjacent wheelchair spaces. The shoulder alignment point of the wheelchair space shall be measured 36 inches (915 mm) from the front of the wheelchair space. The floor surface of the companion seat shall be at the same elevation as the floor surface of the wheelchair space.
+802.3.2 Type. Companion seats shall be equivalent in size, quality, comfort, and amenities to the seating in the immediate area. Companion seats shall be permitted to be movable.
+802.4 Designated Aisle Seats. Designated aisle seats shall comply with 802.4.
+802.4.1 Armrests. Where armrests are provided on the seating in the immediate area, folding or retractable armrests shall be provided on the aisle side of the seat.
+802.4.2 Identification. Each designated aisle seat shall be identified by a sign or marker.
+Advisory 802.4.2 Identification.
+Seats with folding or retractable armrests are intended for use by individuals who have difficulty walking. Consider identifying such seats with signs that contrast (light-on-dark or dark-on-light) and that are also photo luminescent.

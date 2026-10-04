@@ -1,0 +1,11 @@
+605 Urinals
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#605-urinals (fetched 2026-10-04)
+
+605.1 General. Urinals shall comply with 605.
+Advisory 605.1 General.
+Stall-type urinals provide greater accessibility for a broader range of persons, including people of short stature.
+605.2 Height and Depth. Urinals shall be the stall-type or the wall-hung type with the rim 17 inches (430 mm) maximum above the finish floor or ground. Urinals shall be 13 1/2 inches (345 mm) deep minimum measured from the outer face of the urinal rim to the back of the fixture.
+[Figure: Height and Depth of Urinals — Figure (a) is an elevation drawing of a wall hung type having the urinal rim 17 inches (430 mm) maximum above the floor with a minimum depth of 13 1/2 inches (350 mm) measured from the outer face of the rim to the back of the fixture.  Figure (b) is an elevation drawing of a stall (floor) type having a minimum depth of 13 1/2 inches (350 mm) measured from the outer face of the rim to the back of the fixture.]
+605.3 Clear Floor Space. A clear floor or ground space complying with 305 positioned for forward approach shall be provided.
+605.4 Flush Controls. Flush controls shall be hand operated or automatic. Hand operated flush controls shall comply with 309.

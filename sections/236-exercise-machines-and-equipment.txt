@@ -1,0 +1,8 @@
+236 Exercise Machines and Equipment
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#236-exercise-machines-and-equipment (fetched 2026-10-04)
+
+236.1 General. At least one of each type of exercise machine and equipment shall comply with 1004.
+Advisory 236.1 General.
+Most strength training equipment and machines are considered different types. Where operators provide a biceps curl machine and cable-cross-over machine, both machines are required to meet the provisions in this section, even though an individual may be able to work on their biceps through both types of equipment.
+Similarly, there are many types of cardiovascular exercise machines, such as stationary bicycles, rowing machines, stair climbers, and treadmills. Each machine provides a cardiovascular exercise and is considered a different type for purposes of these requirements.

@@ -1,0 +1,8 @@
+805 Medical Care and Long-Term Care Facilities
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#805-medical-care-and-long-term-care-facilities (fetched 2026-10-04)
+
+805.1 General. Medical care facility and long-term care facility patient or resident sleeping rooms required to provide mobility features shall comply with 805.
+805.2 Turning Space. Turning space complying with 304 shall be provided within the room.
+805.3 Clear Floor or Ground Space. A clear floor space complying with 305 shall be provided on each side of the bed. The clear floor space shall be positioned for parallel approach to the side of the bed.
+805.4 Toilet and Bathing Rooms. Toilet and bathing rooms that are provided as part of a patient or resident sleeping room shall comply with 603. Where provided, no fewer than one water closet, one lavatory, and one bathtub or shower shall comply with the applicable requirements of 603 through 610.

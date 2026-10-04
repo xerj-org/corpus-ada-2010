@@ -1,0 +1,20 @@
+403 Walking Surfaces
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#403-walking-surfaces (fetched 2026-10-04)
+
+403.1 General. Walking surfaces that are a part of an accessible route shall comply with 403.
+403.2 Floor or Ground Surface. Floor or ground surfaces shall comply with 302.
+403.3 Slope. The running slope of walking surfaces shall not be steeper than 1:20. The cross slope of walking surfaces shall not be steeper than 1:48.
+403.4 Changes in Level. Changes in level shall comply with 303.
+403.5 Clearances. Walking surfaces shall provide clearances complying with 403.5.
+EXCEPTION: Within employee work areas, clearances on common use circulation paths shall be permitted to be decreased by work area equipment provided that the decrease is essential to the function of the work being performed.
+403.5.1 Clear Width. Except as provided in 403.5.2 and 403.5.3, the clear width of walking surfaces shall be 36 inches (915 mm) minimum.
+EXCEPTION: The clear width shall be permitted to be reduced to 32 inches (815 mm) minimum for a length of 24 inches (610 mm) maximum provided that reduced width segments are separated by segments that are 48 inches (1220 mm) long minimum and 36 inches (915 mm) wide minimum.
+[Figure: Clear Width of an Accessible Route — Shown in plan view, the minimum clear width of walking surfaces is 36 inches (915 mm) minimum, but can be reduced to 32 inches (815 mm) for a length of 24 inches (610 mm) maximum, provided that the reduced width segments are at least 48 inches (1220 mm) apart.]
+403.5.2 Clear Width at Turn. Where the accessible route makes a 180 degree turn around an element which is less than 48 inches (1220 mm) wide, clear width shall be 42 inches (1065 mm) minimum approaching the turn, 48 inches (1220 mm) minimum at the turn and 42 inches (1065 mm) minimum leaving the turn.
+EXCEPTION: Where the clear width at the turn is 60 inches (1525 mm) minimum compliance with 403.5.2 shall not be required.
+[Figure: Clear Width at Turn — Two alternative plan views are shown of an accessible route that has a 180 degree turn about an object less than 48 inches (1220 mm) wide.  In figure (a), the clear width is 42 inches (1065 mm) minimum approaching the turn, 48 inches (1220 mm) minimum at the turn, and 42 inches (1065 mm) minimum leaving the turn.  In figure (b), the clear width is 36 inches (915 mm) minimum approaching the turn, 60 inches (1525 mm) minimum at the turn, and 36 inches (915 mm) minimum leaving the turn.]
+403.5.3 Passing Spaces. An accessible route with a clear width less than 60 inches (1525 mm) shall provide passing spaces at intervals of 200 feet (61 m) maximum. Passing spaces shall be either: a space 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum; or, an intersection of two walking surfaces providing a T-shaped space complying with 304.3.2 where the base and arms of the T-shaped space extend 48 inches (1220 mm) minimum beyond the intersection.
+403.6 Handrails. Where handrails are provided along walking surfaces with running slopes not steeper than 1:20 they shall comply with 505.
+Advisory 403.6 Handrails.
+Handrails provided in elevator cabs and platform lifts are not required to comply with the requirements for handrails on walking surfaces.

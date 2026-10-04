@@ -1,0 +1,12 @@
+210 Stairways
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#210-stairways (fetched 2026-10-04)
+
+210.1 General. Interior and exterior stairs that are part of a means of egress shall comply with 504.
+EXCEPTIONS:
+- In detention and correctional facilities, stairs that are not located in public use areas shall not be required to comply with 504.
+- In alterations, stairs between levels that are connected by an accessible route shall not be required to comply with 504, except that handrails complying with 505 shall be provided when the stairs are altered.
+- In assembly areas, aisle stairs shall not be required to comply with 504.
+- Stairs that connect play components shall not be required to comply with 504.
+Advisory 210.1 General.
+Although these requirements do not mandate handrails on stairs that are not part of a means of egress, State or local building codes may require handrails or guards.

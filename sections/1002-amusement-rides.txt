@@ -1,0 +1,51 @@
+1002 Amusement Rides
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#1002-amusement-rides (fetched 2026-10-04)
+
+1002.1 General. Amusement rides shall comply with 1002.
+1002.2 Accessible Routes. Accessible routes serving amusement rides shall comply with Chapter 4.
+EXCEPTIONS:
+- In load or unload areas and on amusement rides, where compliance with 405.2 is not structurally or operationally feasible, ramp slope shall be permitted to be 1:8 maximum.
+- In load or unload areas and on amusement rides, handrails provided along walking surfaces complying with 403 and required on ramps complying with 405 shall not be required to comply with 505 where compliance is not structurally or operationally feasible.
+Advisory 1002.2 Accessible Routes Exception 1.
+Steeper slopes are permitted on accessible routes connecting the amusement ride in the load and unload position where it is “structurally or operationally infeasible.” In most cases, this will be limited to areas where the accessible route leads directly to the amusement ride and where there are space limitations on the ride, not the queue line. Where possible, the least possible slope should be used on the accessible route that serves the amusement ride.
+1002.3 Load and Unload Areas. A turning space complying with 304.2 and 304.3 shall be provided in load and unload areas.
+1002.4 Wheelchair Spaces in Amusement Rides. Wheelchair spaces in amusement rides shall comply with 1002.4.
+1002.4.1 Floor or Ground Surface. The floor or ground surface of wheelchair spaces shall be stable and firm.
+1002.4.2 Slope. The floor or ground surface of wheelchair spaces shall have a slope not steeper than 1:48 when in the load and unload position.
+1002.4.3 Gaps. Floors of amusement rides with wheelchair spaces and floors of load and unload areas shall be coordinated so that, when amusement rides are at rest in the load and unload position, the vertical difference between the floors shall be within plus or minus 5/8 inches (16 mm) and the horizontal gap shall be 3 inches (75 mm) maximum under normal passenger load conditions.
+EXCEPTION: Where compliance is not operationally or structurally feasible, ramps, bridge plates, or similar devices complying with the applicable requirements of 36 CFR 1192.83(c) shall be provided.
+Advisory 1002.4.3 Gaps Exception.
+36 CFR 1192.83(c) ADA Accessibility Guidelines for Transportation Vehicles - Light Rail Vehicles and Systems - Mobility Aid Accessibility is available at www.access-board.gov . It includes provisions for bridge plates and ramps that can be used at gaps between wheelchair spaces and floors of load and unload areas.
+1002.4.4 Clearances. Clearances for wheelchair spaces shall comply with 1002.4.4.
+EXCEPTIONS:
+- Where provided, securement devices shall be permitted to overlap required clearances.
+- Wheelchair spaces shall be permitted to be mechanically or manually repositioned.
+- Wheelchair spaces shall not be required to comply with 307.4.
+Advisory 1002.4.4 Clearances Exception 3.
+This exception for protruding objects applies to the ride devices, not to circulation areas or accessible routes in the queue lines or the load and unload areas.
+1002.4.4.1 Width and Length. Wheelchair spaces shall provide a clear width of 30 inches (760 mm) minimum and a clear length of 48 inches (1220 mm) minimum measured to 9 inches (230 mm) minimum above the floor surface.
+1002.4.4.2 Side Entry. Where wheelchair spaces are entered only from the side, amusement rides shall be designed to permit sufficient maneuvering clearance for individuals using a wheelchair or mobility aid to enter and exit the ride.
+Advisory 1002.4.4.2 Side Entry.
+The amount of clear space needed within the ride, and the size and position of the opening are interrelated. A 32 inch (815 mm) clear opening will not provide sufficient width when entered through a turn into an amusement ride. Additional space for maneuvering and a wider door will be needed where a side opening is centered on the ride. For example, where a 42 inch (1065 mm) opening is provided, a minimum clear space of 60 inches (1525 mm) in length and 36 inches (915mm) in depth is needed to ensure adequate space for maneuvering.
+1002.4.4.3 Permitted Protrusions in Wheelchair Spaces. Objects are permitted to protrude a distance of 6 inches (150 mm) maximum along the front of the wheelchair space, where located 9 inches (230 mm) minimum and 27 inches (685 mm) maximum above the floor or ground surface of the wheelchair space. Objects are permitted to protrude a distance of 25 inches (635 mm) maximum along the front of the wheelchair space, where located more than 27 inches (685 mm) above the floor or ground surface of the wheelchair space.
+[Figure: Protrusions in Wheelchair Spaces in Amusement Rides — An elevation drawing of a person seated in a wheelchair on an amusement ride shows that objects may protrude 6 inches (150 mm) maximum along the front of the wheelchair space where located 9 inches (230 mm) minimum and 27 inches (685 mm) maximum above the floor or ground surface of the wheelchair space.  Objects may protrude a distance of 25 inches maximum along the front of the wheelchair space, where located more than 27 inches above the floor or ground surface.]
+1002.4.5 Ride Entry. Openings providing entry to wheelchair spaces on amusement rides shall be 32 inches (815 mm) minimum clear.
+1002.4.6 Approach. One side of the wheelchair space shall adjoin an accessible route when in the load and unload position.
+1002.4.7 Companion Seats. Where the interior width of the amusement ride is greater than 53 inches (1345 mm), seating is provided for more than one rider, and the wheelchair is not required to be centered within the amusement ride, a companion seat shall be provided for each wheelchair space.
+1002.4.7.1 Shoulder-to-Shoulder Seating. Where an amusement ride provides shoulder-to-shoulder seating, companion seats shall be shoulder-to-shoulder with the adjacent wheelchair space.
+EXCEPTION: Where shoulder-to-shoulder companion seating is not operationally or structurally feasible, compliance with this requirement shall be required to the maximum extent practicable.
+1002.5 Amusement Ride Seats Designed for Transfer. Amusement ride seats designed for transfer shall comply with 1002.5 when positioned for loading and unloading.
+Advisory 1002.5 Amusement Ride Seats Designed for Transfer.
+The proximity of the clear floor or ground space next to an element and the height of the element one is transferring to are both critical for a safe and independent transfer. Providing additional clear floor or ground space both in front of and diagonal to the element will provide flexibility and will increase usability for a more diverse population of individuals with disabilities. Ride seats designed for transfer should involve only one transfer. Where possible, designers are encouraged to locate the ride seat no higher than 17 to 19 inches (430 to 485 mm) above the load and unload surface. Where greater distances are required for transfers, providing gripping surfaces, seat padding, and avoiding sharp objects in the path of transfer will facilitate the transfer.
+1002.5.1 Clear Floor or Ground Space. A clear floor or ground space complying with 305 shall be provided in the load and unload area adjacent to the amusement ride seats designed for transfer.
+1002.5.2 Transfer Height. The height of amusement ride seats designed for transfer shall be 14 inches (355 mm) minimum and 24 inches (610 mm) maximum measured from the surface of the load and unload area.
+1002.5.3 Transfer Entry. Where openings are provided for transfer to amusement ride seats, the openings shall provide clearance for transfer from a wheelchair or mobility aid to the amusement ride seat.
+1002.5.4 Wheelchair Storage Space. Wheelchair storage spaces complying with 305 shall be provided in or adjacent to unload areas for each required amusement ride seat designed for transfer and shall not overlap any required means of egress or accessible route.
+1002.6 Transfer Devices for Use with Amusement Rides. Transfer devices for use with amusement rides shall comply with 1002.6 when positioned for loading and unloading.
+Advisory 1002.6 Transfer Devices for Use with Amusement Rides.
+Transfer devices for use with amusement rides should permit individuals to make independent transfers to and from their wheelchairs or mobility devices. There are a variety of transfer devices available that could be adapted to provide access onto an amusement ride. Examples of devices that may provide for transfers include, but are not limited to, transfer systems, lifts, mechanized seats, and custom designed systems. Operators and designers have flexibility in developing designs that will facilitate individuals to transfer onto amusement rides. These systems or devices should be designed to be reliable and sturdy.
+Designs that limit the number of transfers required from a wheelchair or mobility device to the ride seat are encouraged. When using a transfer device to access an amusement ride, the least number of transfers and the shortest distance is most usable. Where possible, designers are encouraged to locate the transfer device seat no higher than 17 to 19 inches (430 to 485 mm) above the load and unload surface. Where greater distances are required for transfers, providing gripping surfaces, seat padding, and avoiding sharp objects in the path of transfer will facilitate the transfer. Where a series of transfers are required to reach the amusement ride seat, each vertical transfer should not exceed 8 inches (205 mm).
+1002.6.1 Clear Floor or Ground Space. A clear floor or ground space complying with 305 shall be provided in the load and unload area adjacent to the transfer device.
+1002.6.2 Transfer Height. The height of transfer device seats shall be 14 inches (355 mm) minimum and 24 inches (610 mm) maximum measured from the load and unload surface.
+1002.6.3 Wheelchair Storage Space. Wheelchair storage spaces complying with 305 shall be provided in or adjacent to unload areas for each required transfer device and shall not overlap any required means of egress or accessible route.

@@ -1,0 +1,44 @@
+405 Ramps
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#405-ramps (fetched 2026-10-04)
+
+405.1 General. Ramps on accessible routes shall comply with 405.
+EXCEPTION: In assembly areas, aisle ramps adjacent to seating and not serving elements required to be on an accessible route shall not be required to comply with 405.
+405.2 Slope. Ramp runs shall have a running slope not steeper than 1:12.
+EXCEPTION: In existing sites, buildings, and facilities, ramps shall be permitted to have running slopes steeper than 1:12 complying with Table 405.2 where such slopes are necessary due to space limitations.
+Slope (A slope steeper > than 1:8 is prohibited.) | Maximum Rise
+Steeper than 1:10 but not steeper than 1:8 | 3 inches (75 mm)
+Steeper than 1:12 but not steeper than 1:10 | 6 inches (150 mm)
+Advisory 405.2 Slope.
+To accommodate the widest range of users, provide ramps with the least possible running slope and, wherever possible, accompany ramps with stairs for use by those individuals for whom distance presents a greater barrier than steps, e.g., people with heart disease or limited stamina.
+405.3 Cross Slope. Cross slope of ramp runs shall not be steeper than 1:48.
+Advisory 405.3 Cross Slope.
+Cross slope is the slope of the surface perpendicular to the direction of travel. Cross slope is measured the same way as slope is measured (i.e., the rise over the run).
+405.4 Floor or Ground Surfaces. Floor or ground surfaces of ramp runs shall comply with 302. Changes in level other than the running slope and cross slope are not permitted on ramp runs.
+405.5 Clear Width. The clear width of a ramp run and, where handrails are provided, the clear width between handrails shall be 36 inches (915 mm) minimum.
+EXCEPTION: Within employee work areas, the required clear width of ramps that are a part of common use circulation paths shall be permitted to be decreased by work area equipment provided that the decrease is essential to the function of the work being performed.
+405.6 Rise. The rise for any ramp run shall be 30 inches (760 mm) maximum.
+405.7 Landings. Ramps shall have landings at the top and the bottom of each ramp run. Landings shall comply with 405.7.
+Advisory 405.7 Landings.
+Ramps that do not have level landings at changes in direction can create a compound slope that will not meet the requirements of this document. Circular or curved ramps continually change direction. Curvilinear ramps with small radii also can create compound cross slopes and cannot, by their nature, meet the requirements for accessible routes. A level landing is needed at the accessible door to permit maneuvering and simultaneously door operation.
+[Figure: Ramp Landings — Figure (a) shows in plan view a ramp with two landings, each 60 inches (1525 mm) long in the direction of the ramp run and as wide as the connecting ramp run.  Figure (b) shows a ramp that has two runs connected by a landing 60 by 60 inches (1525 by 1525 mm); each run is oriented at 90 degrees from the other run, which connect to an adjacent sides of the landing.]
+405.7.1 Slope. Landings shall comply with 302. Changes in level are not permitted.
+EXCEPTION: Slopes not steeper than 1:48 shall be permitted.
+405.7.2 Width. The landing clear width shall be at least as wide as the widest ramp run leading to the landing.
+405.7.3 Length. The landing clear length shall be 60 inches (1525 mm) long minimum.
+405.7.4 Change in Direction. Ramps that change direction between runs at landings shall have a clear landing 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum.
+405.7.5 Doorways. Where doorways are located adjacent to a ramp landing, maneuvering clearances required by 404.2.4 and 404.3.2 shall be permitted to overlap the required landing area.
+405.8 Handrails. Ramp runs with a rise greater than 6 inches (150 mm) shall have handrails complying with 505.
+EXCEPTION: Within employee work areas, handrails shall not be required where ramps that are part of common use circulation paths are designed to permit the installation of handrails complying with 505. Ramps not subject to the exception to 405.5 shall be designed to maintain a 36 inch (915 mm) minimum clear width when handrails are installed.
+405.9 Edge Protection. Edge protection complying with 405.9.1 or 405.9.2 shall be provided on each side of ramp runs and at each side of ramp landings.
+EXCEPTIONS:
+- Edge protection shall not be required on ramps that are not required to have handrails and have sides complying with 406.3.
+- Edge protection shall not be required on the sides of ramp landings serving an adjoining ramp run or stairway.
+- Edge protection shall not be required on the sides of ramp landings having a vertical drop-off of 1/2 inch (13 mm) maximum within 10 inches (255 mm) horizontally of the minimum landing area specified in 405.7.
+405.9.1 Extended Floor or Ground Surface. The floor or ground surface of the ramp run or landing shall extend 12 inches (305 mm) minimum beyond the inside face of a handrail complying with 505.
+Advisory 405.9.1 Extended Floor or Ground Surface.
+The extended surface prevents wheelchair casters and crutch tips from slipping off the ramp surface.
+[Figure: Extended Floor or Ground Surface Edge Protection — The cross section of a ramp with handrails is shown where the ramp surface extends 12 inches (305 mm) minimum to the outside of the handrails.]
+405.9.2 Curb or Barrier. A curb or barrier shall be provided that prevents the passage of a 4 inch (100 mm) diameter sphere, where any portion of the sphere is within 4 inches (100 mm) of the finish floor or ground surface.
+[Figure: Curb or Barrier Edge Protection — An elevation drawing shows a vertical clearance of less than 4 inches (100 mm) between the ramp surface and the bottom edge of a horizontal rail.]
+405.10 Wet Conditions. Landings subject to wet conditions shall be designed to prevent the accumulation of water.

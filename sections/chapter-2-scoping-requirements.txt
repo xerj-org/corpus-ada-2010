@@ -1,0 +1,49 @@
+CHAPTER 2: SCOPING REQUIREMENTS
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#chapter-2-scoping-requirements (fetched 2026-10-04)
+
+Index of subsections in this division:
+
+  201 Application
+  202 Existing Buildings and Facilities
+  203 General Exceptions
+  204 Protruding Objects
+  205 Operable Parts
+  206 Accessible Routes
+  207 Accessible Means of Egress
+  208 Parking Spaces
+  209 Passenger Loading Zones and Bus Stops
+  210 Stairways
+  211 Drinking Fountains
+  212 Kitchens, Kitchenettes, and Sinks
+  213 Toilet Facilities and Bathing Facilities
+  214 Washing Machines and Clothes Dryers
+  215 Fire Alarm Systems
+  216 Signs
+  217 Telephones
+  218 Transportation Facilities
+  219 Assistive Listening Systems
+  220 Automatic Teller Machines and Fare Machines
+  221 Assembly Areas
+  222 Dressing, Fitting, and Locker Rooms
+  223 Medical Care and Long-Term Care Facilities
+  224 Transient Lodging Guest Rooms
+  225 Storage
+  226 Dining Surfaces and Work Surfaces
+  227 Sales and Service
+  228 Depositories, Vending Machines, Change Machines, Mail Boxes, and Fuel Dispensers
+  229 Windows
+  230 Two-Way Communication Systems
+  231 Judicial Facilities
+  232 Detention Facilities and Correctional Facilities
+  233 Residential Facilities
+  234 Amusement Rides
+  235 Recreational Boating Facilities
+  236 Exercise Machines and Equipment
+  237 Fishing Piers and Platforms
+  238 Golf Facilities
+  239 Miniature Golf Facilities
+  240 Play Areas
+  241 Saunas and Steam Rooms
+  242 Swimming Pools, Wading Pools, and Spas
+  243 Shooting Facilities with Firing Positions

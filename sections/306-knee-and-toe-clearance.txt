@@ -1,0 +1,21 @@
+306 Knee and Toe Clearance
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#306-knee-and-toe-clearance (fetched 2026-10-04)
+
+306.1 General. Where space beneath an element is included as part of clear floor or ground space or turning space, the space shall comply with 306. Additional space shall not be prohibited beneath an element but shall not be considered as part of the clear floor or ground space or turning space.
+Advisory 306.1 General.
+Clearances are measured in relation to the usable clear floor space, not necessarily to the vertical support for an element. When determining clearance under an object for required turning or maneuvering space, care should be taken to ensure the space is clear of any obstructions.
+306.2 Toe Clearance.
+306.2.1 General. Space under an element between the finish floor or ground and 9 inches (230 mm) above the finish floor or ground shall be considered toe clearance and shall comply with 306.2.
+306.2.2 Maximum Depth. Toe clearance shall extend 25 inches (635 mm) maximum under an element.
+306.2.3 Minimum Required Depth. Where toe clearance is required at an element as part of a clear floor space, the toe clearance shall extend 17 inches (430 mm) minimum under the element.
+306.2.4 Additional Clearance. Space extending greater than 6 inches (150 mm) beyond the available knee clearance at 9 inches (230 mm) above the finish floor or ground shall not be considered toe clearance.
+306.2.5 Width. Toe clearance shall be 30 inches (760 mm) wide minimum.
+[Figure: Toe Clearance — Toe Clearance: Elevation.  Toes of a person in a wheelchair are shown extending for a maximum depth of 6 inches (150 mm) under an object that is 9 inches (230 mm) high minimum.  Figure 306.2(b) Toe Clearance: Plan.  Toe clearance at an element, as part of clear floor space, shall extend 17 to 25 inches (430 to 635 mm) under the element.  The clear floor space is 30 inches (760 mm) wide minimum.]
+306.3 Knee Clearance.
+306.3.1 General. Space under an element between 9 inches (230 mm) and 27 inches (685 mm) above the finish floor or ground shall be considered knee clearance and shall comply with 306.3.
+306.3.2 Maximum Depth. Knee clearance shall extend 25 inches (635 mm) maximum under an element at 9 inches (230 mm) above the finish floor or ground.
+306.3.3 Minimum Required Depth. Where knee clearance is required under an element as part of a clear floor space, the knee clearance shall be 11 inches (280 mm) deep minimum at 9 inches (230 mm) above the finish floor or ground, and 8 inches (205 mm) deep minimum at 27 inches (685 mm) above the finish floor or ground.
+306.3.4 Clearance Reduction. Between 9 inches (230 mm) and 27 inches (685 mm) above the finish floor or ground, the knee clearance shall be permitted to reduce at a rate of 1 inch (25 mm) in depth for each 6 inches (150 mm) in height.
+306.3.5 Width. Knee clearance shall be 30 inches (760 mm) wide minimum.
+[Figure: Knee Clearance — Knee Clearance: Elevation. Knee clearance is 27 inches (685 mm) high minimum above the floor or ground for a minimum depth of 8 inches (205 mm), measured from the leading edge of the element.  The vertical clearance decreases beyond this depth to a height of 9 inches (230 mm) minimum at depth of 11 inches (280 mm) minimum measured from the leading edge of the element.  Figure 306.3(b) Knee Clearance: Plan.  Combined knee and toe clearance can extend 25 inches (635 mm) maximum under an element.]

@@ -1,0 +1,8 @@
+212 Kitchens, Kitchenettes, and Sinks
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#212-kitchens-kitchenettes-and-sinks (fetched 2026-10-04)
+
+212.1 General. Where provided, kitchens, kitchenettes, and sinks shall comply with 212.
+212.2 Kitchens and Kitchenettes. Kitchens and kitchenettes shall comply with 804.
+212.3 Sinks. Where sinks are provided, at least 5 percent, but no fewer than one, of each type provided in each accessible room or space shall comply with 606.
+EXCEPTION: Mop or service sinks shall not be required to comply with 212.3.

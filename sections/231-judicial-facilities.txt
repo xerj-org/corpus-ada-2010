@@ -1,0 +1,13 @@
+231 Judicial Facilities
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#231-judicial-facilities (fetched 2026-10-04)
+
+231.1 General. Judicial facilities shall comply with 231.
+231.2 Courtrooms. Each courtroom shall comply with 808.
+231.3 Holding Cells. Where provided, central holding cells and court-floor holding cells shall comply with 231.3.
+231.3.1 Central Holding Cells. Where separate central holding cells are provided for adult male, juvenile male, adult female, or juvenile female, one of each type shall comply with 807.2. Where central holding cells are provided and are not separated by age or sex, at least one cell complying with 807.2 shall be provided.
+231.3.2 Court-Floor Holding Cells. Where separate court-floor holding cells are provided for adult male, juvenile male, adult female, or juvenile female, each courtroom shall be served by one cell of each type complying with 807.2. Where court-floor holding cells are provided and are not separated by age or sex, courtrooms shall be served by at least one cell complying with 807.2. Cells may serve more than one courtroom.
+231.4 Visiting Areas. Visiting areas shall comply with 231.4.
+231.4.1 Cubicles and Counters. At least 5 percent, but no fewer than one, of cubicles shall comply with 902 on both the visitor and detainee sides. Where counters are provided, at least one shall comply with 904.4.2 on both the visitor and detainee sides.
+EXCEPTION: The detainee side of cubicles or counters at non-contact visiting areas not serving holding cells required to comply with 231 shall not be required to comply with 902 or 904.4.2.
+231.4.2 Partitions. Where solid partitions or security glazing separate visitors from detainees at least one of each type of cubicle or counter partition shall comply with 904.6.

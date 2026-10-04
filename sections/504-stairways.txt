@@ -1,0 +1,15 @@
+504 Stairways
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#504-stairways (fetched 2026-10-04)
+
+504.1 General. Stairs shall comply with 504.
+504.2 Treads and Risers. All steps on a flight of stairs shall have uniform riser heights and uniform tread depths. Risers shall be 4 inches (100 mm) high minimum and 7 inches (180 mm) high maximum. Treads shall be 11 inches (280 mm) deep minimum.
+504.3 Open Risers. Open risers are not permitted.
+504.4 Tread Surface. Stair treads shall comply with 302. Changes in level are not permitted.
+EXCEPTION: Treads shall be permitted to have a slope not steeper than 1:48.
+Advisory 504.4 Tread Surface.
+Consider providing visual contrast on tread nosings, or at the leading edges of treads without nosings, so that stair treads are more visible for people with low vision.
+504.5 Nosings. The radius of curvature at the leading edge of the tread shall be 1/2 inch (13 mm) maximum. Nosings that project beyond risers shall have the underside of the leading edge curved or beveled. Risers shall be permitted to slope under the tread at an angle of 30 degrees maximum from vertical. The permitted projection of the nosing shall extend 1 1/2 inches (38 mm) maximum over the tread below.
+[Figure: Stair Nosings — Figure (a) shows vertical risers where the radius of curvature of the leading edge of each tread is 2 inch (13 mm) maximum. Figure (b) shows angled risers. Risers can slope at an angle of 30 degrees maximum from the vertical. Figures (c) and (d) show curved and beveled nosings, respectively. The maximum projection of the nosing is 1 2 inches (38 mm) beyond the rear of the tread below.]
+504.6 Handrails. Stairs shall have handrails complying with 505.
+504.7 Wet Conditions. Stair treads and landings subject to wet conditions shall be designed to prevent the accumulation of water.

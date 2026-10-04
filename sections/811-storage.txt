@@ -1,0 +1,8 @@
+811 Storage
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#811-storage (fetched 2026-10-04)
+
+811.1 General. Storage shall comply with 811.
+811.2 Clear Floor or Ground Space. A clear floor or ground space complying with 305 shall be provided.
+811.3 Height. Storage elements shall comply with at least one of the reach ranges specified in 308.
+811.4 Operable Parts. Operable parts shall comply with 309.

@@ -1,0 +1,14 @@
+209 Passenger Loading Zones and Bus Stops
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#209-passenger-loading-zones-and-bus-stops (fetched 2026-10-04)
+
+209.1 General. Passenger loading zones shall be provided in accordance with 209.
+209.2 Type. Where provided, passenger loading zones shall comply with 209.2.
+209.2.1 Passenger Loading Zones. Passenger loading zones, except those required to comply with 209.2.2 and 209.2.3, shall provide at least one passenger loading zone complying with 503 in every continuous 100 linear feet (30 m) of loading zone space, or fraction thereof.
+209.2.2 Bus Loading Zones. In bus loading zones restricted to use by designated or specified public transportation vehicles, each bus bay, bus stop, or other area designated for lift or ramp deployment shall comply with 810.2.
+Advisory 209.2.2 Bus Loading Zones.
+The terms “designated public transportation” and “specified public transportation” are defined by the Department of Transportation at 49 CFR 37.3 in regulations implementing the Americans with Disabilities Act. These terms refer to public transportation services provided by public or private entities, respectively. For example, designated public transportation vehicles include buses and vans operated by public transit agencies, while specified public transportation vehicles include tour and charter buses, taxis and limousines, and hotel shuttles operated by private entities.
+209.2.3 On-Street Bus Stops. On-street bus stops shall comply with 810.2 to the maximum extent practicable.
+209.3 Medical Care and Long-Term Care Facilities. At least one passenger loading zone complying with 503 shall be provided at an accessible entrance to licensed medical care and licensed long-term care facilities where the period of stay exceeds twenty-four hours.
+209.4 Valet Parking. Parking facilities that provide valet parking services shall provide at least one passenger loading zone complying with 503.
+209.5 Mechanical Access Parking Garages. Mechanical access parking garages shall provide at least one passenger loading zone complying with 503 at vehicle drop-off and vehicle pick-up areas.

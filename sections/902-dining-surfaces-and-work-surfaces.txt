@@ -1,0 +1,14 @@
+902 Dining Surfaces and Work Surfaces
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#902-dining-surfaces-and-work-surfaces (fetched 2026-10-04)
+
+902.1 General. Dining surfaces and work surfaces shall comply with 902.2 and 902.3.
+EXCEPTION: Dining surfaces and work surfaces for children’s use shall be permitted to comply with 902.4.
+Advisory 902.1 General.
+Dining surfaces include, but are not limited to, bars, tables, lunch counters, and booths. Examples of work surfaces include writing surfaces, study carrels, student laboratory stations, baby changing and other tables or fixtures for personal grooming, coupon counters, and where covered by the ABA scoping provisions, employee work stations.
+902.2 Clear Floor or Ground Space. A clear floor space complying with 305 positioned for a forward approach shall be provided. Knee and toe clearance complying with 306 shall be provided.
+902.3 Height. The tops of dining surfaces and work surfaces shall be 28 inches (710 mm) minimum and 34 inches (865 mm) maximum above the finish floor or ground.
+902.4 Dining Surfaces and Work Surfaces for Children’s Use. Accessible dining surfaces and work surfaces for children’s use shall comply with 902.4.
+EXCEPTION: Dining surfaces and work surfaces that are used primarily by children 5 years and younger shall not be required to comply with 902.4 where a clear floor or ground space complying with 305 positioned for a parallel approach is provided.
+902.4.1 Clear Floor or Ground Space. A clear floor space complying with 305 positioned for forward approach shall be provided. Knee and toe clearance complying with 306 shall be provided, except that knee clearance 24 inches (610 mm) minimum above the finish floor or ground shall be permitted.
+902.4.2 Height. The tops of tables and counters shall be 26 inches (660 mm) minimum and 30 inches (760 mm) maximum above the finish floor or ground.

@@ -1,0 +1,14 @@
+708 Two-Way Communication Systems
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#708-two-way-communication-systems (fetched 2026-10-04)
+
+708.1 General. Two-way communication systems shall comply with 708.
+Advisory 708.1 General.
+Devices that do not require handsets are easier to use by people who have a limited reach.
+708.2 Audible and Visual Indicators. The system shall provide both audible and visual signals.
+Advisory 708.2 Audible and Visual Indicators.
+A light can be used to indicate visually that assistance is on the way. Signs indicating the meaning of visual signals should be provided.
+708.3 Handsets. Handset cords, if provided, shall be 29 inches (735 mm) long minimum.
+708.4 Residential Dwelling Unit Communication Systems. Communications systems between a residential dwelling unit and a site, building, or floor entrance shall comply with 708.4.
+708.4.1 Common Use or Public Use System Interface. The common use or public use system interface shall include the capability of supporting voice and TTY communication with the residential dwelling unit interface.
+708.4.2 Residential Dwelling Unit Interface. The residential dwelling unit system interface shall include a telephone jack capable of supporting voice and TTY communication with the common use or public use system interface.

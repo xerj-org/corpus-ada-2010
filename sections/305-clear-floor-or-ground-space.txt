@@ -1,0 +1,18 @@
+305 Clear Floor or Ground Space
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#305-clear-floor-or-ground-space (fetched 2026-10-04)
+
+305.1 General. Clear floor or ground space shall comply with 305.
+305.2 Floor or Ground Surfaces. Floor or ground surfaces of a clear floor or ground space shall comply with 302. Changes in level are not permitted.
+EXCEPTION: Slopes not steeper than 1:48 shall be permitted.
+305.3 Size. The clear floor or ground space shall be 30 inches (760 mm) minimum by 48 inches (1220 mm) minimum.
+[Figure: Clear Floor or Ground Space — Clear floor or ground space is 30 inches by 48 inches (760 mm by 1220 mm) minimum.]
+305.4 Knee and Toe Clearance. Unless otherwise specified, clear floor or ground space shall be permitted to include knee and toe clearance complying with 306.
+305.5 Position. Unless otherwise specified, clear floor or ground space shall be positioned for either forward or parallel approach to an element.
+[Figure: Position of Clear Floor or Ground Space — For a forward approach to an element, a clear floor or ground space, 30 inches by 48 inches (760 mm by 1220 mm) minimum, is shown with the shorter dimension parallel to the wall or element. For a parallel approach to an element, a clear floor or ground space, 30 inches by 48 inches (760 mm by 1220 mm) minimum, is shown with the longer dimension parallel to the wall or element.]
+305.6 Approach. One full unobstructed side of the clear floor or ground space shall adjoin an accessible route or adjoin another clear floor or ground space.
+305.7 Maneuvering Clearance. Where a clear floor or ground space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearance shall be provided in accordance with 305.7.1 and 305.7.2.
+305.7.1 Forward Approach. Alcoves shall be 36 inches (915 mm)wide minimum where the depth exceeds 24 inches (610 mm).
+[Figure: Maneuvering Clearance in an Alcove, Forward Approach — For a forward approach, if the depth of the alcove is greater than 24 inches (610 mm), the clear floor or ground space within the alcove must be 36 inches (915 mm) wide minimum.]
+305.7.2 Parallel Approach. Alcoves shall be 60 inches (1525 mm) wide minimum where the depth exceeds 15 inches (380 mm).
+[Figure: Maneuvering Clearance in an Alcove, Parallel Approach — For a parallel approach, if the depth of the alcove is greater than 15 inches (380 mm), then the length of the clear floor or ground space within the alcove must be 60 inches (1525 mm) minimum.]

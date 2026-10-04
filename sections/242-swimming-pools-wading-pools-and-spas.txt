@@ -1,0 +1,17 @@
+242 Swimming Pools, Wading Pools, and Spas
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#242-swimming-pools-wading-pools-and-spas (fetched 2026-10-04)
+
+242.1 General. Swimming pools, wading pools, and spas shall comply with 242.
+242.2 Swimming Pools. At least two accessible means of entry shall be provided for swimming pools. Accessible means of entry shall be swimming pool lifts complying with 1009.2; sloped entries complying with 1009.3; transfer walls complying with 1009.4; transfer systems complying with 1009.5; and pool stairs complying with 1009.6. At least one accessible means of entry provided shall comply with 1009.2 or 1009.3.
+EXCEPTIONS:
+- Where a swimming pool has less than 300 linear feet (91 m) of swimming pool wall, no more than one accessible means of entry shall be required provided that the accessible means of entry is a swimming pool lift complying with 1009.2 or sloped entry complying with 1009.3.
+- Wave action pools, leisure rivers, sand bottom pools, and other pools where user access is limited to one area shall not be required to provide more than one accessible means of entry provided that the accessible means of entry is a swimming pool lift complying with 1009.2, a sloped entry complying with 1009.3, or a transfer system complying with 1009.5.
+- Catch pools shall not be required to provide an accessible means of entry provided that the catch pool edge is on an accessible route.
+Advisory 242.2 Swimming Pools.
+Where more than one means of access is provided into the water, it is recommended that the means be different. Providing different means of access will better serve the varying needs of people with disabilities in getting into and out of a swimming pool. It is also recommended that where two or more means of access are provided, they not be provided in the same location in the pool. Different locations will provide increased options for entry and exit, especially in larger pools.
+Advisory 242.2 Swimming Pools Exception 1.
+Pool walls at diving areas and areas along pool walls where there is no pool entry because of landscaping or adjacent structures are to be counted when determining the number of accessible means of entry required.
+242.3 Wading Pools. At least one accessible means of entry shall be provided for wading pools. Accessible means of entry shall comply with sloped entries complying with 1009.3.
+242.4 Spas. At least one accessible means of entry shall be provided for spas. Accessible means of entry shall comply with swimming pool lifts complying with1009.2; transfer walls complying with 1009.4; or transfer systems complying with 1009.5.
+EXCEPTION: Where spas are provided in a cluster, no more than 5 percent, but no fewer than one, spa in each cluster shall be required to comply with 242.4.

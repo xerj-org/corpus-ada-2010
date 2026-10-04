@@ -1,0 +1,37 @@
+804 Kitchens and Kitchenettes
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#804-kitchens-and-kitchenettes (fetched 2026-10-04)
+
+804.1 General. Kitchens and kitchenettes shall comply with 804.
+804.2 Clearance. Where a pass through kitchen is provided, clearances shall comply with 804.2.1. Where a U-shaped kitchen is provided, clearances shall comply with 804.2.2.
+EXCEPTION: Spaces that do not provide a cooktop or conventional range shall not be required to comply with 804.2.
+Advisory 804.2 Clearance.
+Clearances are measured from the furthest projecting face of all opposing base cabinets, counter tops, appliances, or walls, excluding hardware.
+804.2.1 Pass Through Kitchen. In pass through kitchens where counters, appliances or cabinets are on two opposing sides, or where counters, appliances or cabinets are opposite a parallel wall, clearance between all opposing base cabinets, counter tops, appliances, or walls within kitchen work areas shall be 40 inches (1015 mm) minimum. Pass through kitchens shall have two entries.
+[Figure: Pass Through Kitchens — A plan view of a kitchen with appliances and cabinets on both sides of an aisle open on both ends shows the width of the central aisle as 40 inches (1015 mm) minimum.]
+804.2.2 U-Shaped. In U-shaped kitchens enclosed on three contiguous sides, clearance between all opposing base cabinets, counter tops, appliances, or walls within kitchen work areas shall be 60 inches (1525 mm) minimum.
+[Figure: U-Shaped Kitchens — Figure (a) is a plan view of a kitchen with appliances and cabinets on three sides.  Figure (b) is a plan view of a kitchen with appliances and cabinets on two opposites with a wall at the rear.  The width of the kitchen entry opening is 60 inches (1525 mm) minimum.]
+804.3 Kitchen Work Surface. In residential dwelling units required to comply with 809, at least one 30 inches (760 mm) wide minimum section of counter shall provide a kitchen work surface that complies with 804.3.
+804.3.1 Clear Floor or Ground Space. A clear floor space complying with 305 positioned for a forward approach shall be provided. The clear floor or ground space shall be centered on the kitchen work surface and shall provide knee and toe clearance complying with 306.
+EXCEPTION: Cabinetry shall be permitted under the kitchen work surface provided that all of the following conditions are met:
+(a) the cabinetry can be removed without removal or replacement of the kitchen work surface;
+(b) the finish floor extends under the cabinetry; and
+(c) the walls behind and surrounding the cabinetry are finished.
+804.3.2 Height. The kitchen work surface shall be 34 inches (865 mm) maximum above the finish floor or ground.
+EXCEPTION: A counter that is adjustable to provide a kitchen work surface at variable heights, 29 inches (735 mm) minimum and 36 inches (915 mm) maximum, shall be permitted.
+804.3.3 Exposed Surfaces. There shall be no sharp or abrasive surfaces under the work surface counters.
+804.4 Sinks. Sinks shall comply with 606.
+804.5 Storage. At least 50 percent of shelf space in storage facilities shall comply with 811.
+804.6 Appliances. Where provided, kitchen appliances shall comply with 804.6.
+804.6.1 Clear Floor or Ground Space. A clear floor or ground space complying with 305 shall be provided at each kitchen appliance. Clear floor or ground spaces shall be permitted to overlap.
+804.6.2 Operable Parts. All appliance controls shall comply with 309.
+EXCEPTIONS:
+- Appliance doors and door latching devices shall not be required to comply with 309.4.
+- Bottom-hinged appliance doors, when in the open position, shall not be required to comply with 309.3.
+804.6.3 Dishwasher. Clear floor or ground space shall be positioned adjacent to the dishwasher door. The dishwasher door, in the open position, shall not obstruct the clear floor or ground space for the dishwasher or the sink.
+804.6.4 Range or Cooktop. Where a forward approach is provided, the clear floor or ground space shall provide knee and toe clearance complying with 306. Where knee and toe space is provided, the underside of the range or cooktop shall be insulated or otherwise configured to prevent burns, abrasions, or electrical shock. The location of controls shall not require reaching across burners.
+804.6.5 Oven. Ovens shall comply with 804.6.5.
+804.6.5.1 Side-Hinged Door Ovens. Side-hinged door ovens shall have the work surface required by 804.3 positioned adjacent to the latch side of the oven door.
+804.6.5.2 Bottom-Hinged Door Ovens. Bottom-hinged door ovens shall have the work surface required by 804.3 positioned adjacent to one side of the door.
+804.6.5.3 Controls. Ovens shall have controls on front panels.
+804.6.6 Refrigerator/Freezer. Combination refrigerators and freezers shall have at least 50 percent of the freezer space 54 inches (1370 mm) maximum above the finish floor or ground. The clear floor or ground space shall be positioned for a parallel approach to the space dedicated to a refrigerator/freezer with the centerline of the clear floor or ground space offset 24 inches (610 mm) maximum from the centerline of the dedicated space.

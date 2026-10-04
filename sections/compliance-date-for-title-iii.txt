@@ -1,0 +1,9 @@
+Compliance Date for Title III
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#compliance-date-for-title-iii (fetched 2026-10-04)
+
+The compliance date for the 2010 Standards for new construction and alterations is determined by:
+- the date the last application for a building permit or permit extension is certified to be complete by a State, county, or local government;
+- the date the last application for a building permit or permit extension is received by a State, county, or local government, where the government does not certify the completion of applications; or
+- the start of physical construction or alteration, if no permit is required.
+If that date is on or after March 15, 2012, then new construction and alterations must comply with the 2010 Standards. If that date is on or after September 15, 2010, and before March 15, 2012, then new construction and alterations must comply with either the 1991 or the 2010 Standards.

@@ -1,0 +1,14 @@
+903 Benches
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#903-benches (fetched 2026-10-04)
+
+903.1 General. Benches shall comply with 903.
+903.2 Clear Floor or Ground Space. Clear floor or ground space complying with 305 shall be provided and shall be positioned at the end of the bench seat and parallel to the short axis of the bench.
+903.3 Size. Benches shall have seats that are 42 inches (1065 mm) long minimum and 20 inches (510 mm) deep minimum and 24 inches (610 mm) deep maximum.
+903.4 Back Support. The bench shall provide for back support or shall be affixed to a wall. Back support shall be 42 inches (1065 mm) long minimum and shall extend from a point 2 inches (51 mm) maximum above the seat surface to a point 18 inches (455 mm) minimum above the seat surface. Back support shall be 2 1/2 inches (64 mm) maximum from the rear edge of the seat measured horizontally.
+Advisory 903.4 Back Support.
+To assist in transferring to the bench, consider providing grab bars on a wall adjacent to the bench, but not on the seat back. If provided, grab bars cannot obstruct transfer to the bench.
+[Figure: Bench Back Support — Figure (a) is an elevation drawing of a bench with a back.  The bottom edge of the back is 2 inches (51 mm) maximum above the seat surface and the top edge of the back is 18 inches (455 mm) above the seat surface.  Figure (b) shows the distance between the rear edge of the seat and the front face of the back support as 2 ½ inches (64 mm) maximum.]
+903.5 Height. The top of the bench seat surface shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum above the finish floor or ground.
+903.6 Structural Strength. Allowable stresses shall not be exceeded for materials used when a vertical or horizontal force of 250 pounds (1112 N) is applied at any point on the seat, fastener, mounting device, or supporting structure.
+903.7 Wet Locations. Where installed in wet locations, the surface of the seat shall be slip resistant and shall not accumulate water.

@@ -1,0 +1,7 @@
+214 Washing Machines and Clothes Dryers
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#214-washing-machines-and-clothes-dryers (fetched 2026-10-04)
+
+214.1 General. Where provided, washing machines and clothes dryers shall comply with 214.
+214.2 Washing Machines. Where three or fewer washing machines are provided, at least one shall comply with 611. Where more than three washing machines are provided, at least two shall comply with 611.
+214.3 Clothes Dryers. Where three or fewer clothes dryers are provided, at least one shall comply with 611. Where more than three clothes dryers are provided, at least two shall comply with 611.

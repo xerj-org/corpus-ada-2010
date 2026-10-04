@@ -1,0 +1,15 @@
+602 Drinking Fountains
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#602-drinking-fountains (fetched 2026-10-04)
+
+602.1 General. Drinking fountains shall comply with 307 and 602.
+602.2 Clear Floor Space. Units shall have a clear floor or ground space complying with 305 positioned for a forward approach and centered on the unit. Knee and toe clearance complying with 306 shall be provided.
+EXCEPTION: A parallel approach complying with 305 shall be permitted at units for children’s use where the spout is 30 inches (760 mm) maximum above the finish floor or ground and is 3 1/2 inches (90 mm) maximum from the front edge of the unit, including bumpers.
+602.3 Operable Parts. Operable parts shall comply with 309.
+602.4 Spout Height. Spout outlets shall be 36 inches (915 mm) maximum above the finish floor or ground.
+602.5 Spout Location. The spout shall be located 15 inches (380 mm) minimum from the vertical support and 5 inches (125 mm) maximum from the front edge of the unit, including bumpers.
+[Figure: Drinking Fountain Spout Location — In plan view, the spout is shown to be 15 inches (380 mm) minimum from the vertical support and 5 inches (125 mm) from the front edge of the unit.]
+602.6 Water Flow. The spout shall provide a flow of water 4 inches (100 mm) high minimum and shall be located 5 inches (125 mm) maximum from the front of the unit. The angle of the water stream shall be measured horizontally relative to the front face of the unit. Where spouts are located less than 3 inches (75 mm) of the front of the unit, the angle of the water stream shall be 30 degrees maximum. Where spouts are located between 3 inches (75 mm) and 5 inches (125 mm) maximum from the front of the unit, the angle of the water stream shall be 15 degrees maximum.
+Advisory 602.6 Water Flow.
+The purpose of requiring the drinking fountain spout to produce a flow of water 4 inches (100 mm) high minimum is so that a cup can be inserted under the flow of water to provide a drink of water for an individual who, because of a disability, would otherwise be incapable of using the drinking fountain.
+602.7 Drinking Fountains for Standing Persons. Spout outlets of drinking fountains for standing persons shall be 38 inches (965 mm) minimum and 43 inches (1090 mm) maximum above the finish floor or ground.

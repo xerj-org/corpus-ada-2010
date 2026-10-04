@@ -1,0 +1,9 @@
+207 Accessible Means of Egress
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#207-accessible-means-of-egress (fetched 2026-10-04)
+
+207.1 General. Means of egress shall comply with section 1003.2.13 of the International Building Code (2000 edition and 2001 Supplement) or section 1007 of the International Building Code (2003 edition) (incorporated by reference, see “Referenced Standards” in Chapter 1).
+EXCEPTIONS:
+- Where means of egress are permitted by local building or life safety codes to share a common path of egress travel, accessible means of egress shall be permitted to share a common path of egress travel.
+- Areas of refuge shall not be required in detention and correctional facilities.
+207.2 Platform Lifts. Standby power shall be provided for platform lifts permitted by section 1003.2.13.4 of the International Building Code (2000 edition and 2001 Supplement) or section 1007.5 of the International Building Code (2003 edition) (incorporated by reference, see “Referenced Standards” in Chapter 1) to serve as a part of an accessible means of egress.

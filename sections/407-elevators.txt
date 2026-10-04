@@ -1,0 +1,119 @@
+407 Elevators
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#407-elevators (fetched 2026-10-04)
+
+407.1 General. Elevators shall comply with 407 and with ASME A17.1 (incorporated by reference, see “Referenced Standards” in Chapter 1). They shall be passenger elevators as classified by ASME A17.1. Elevator operation shall be automatic.
+Advisory 407.1 General.
+The ADA and other Federal civil rights laws require that accessible features be maintained in working order so that they are accessible to and usable by those people they are intended to benefit. Building owners should note that the ASME Safety Code for Elevators and Escalators requires routine maintenance and inspections. Isolated or temporary interruptions in service due to maintenance or repairs may be unavoidable; however, failure to take prompt action to effect repairs could constitute a violation of Federal laws and these requirements.
+407.2 Elevator Landing Requirements. Elevator landings shall comply with 407.2.
+407.2.1 Call Controls. Where elevator call buttons or keypads are provided, they shall comply with 407.2.1 and 309.4. Call buttons shall be raised or flush.
+EXCEPTION: Existing elevators shall be permitted to have recessed call buttons.
+407.2.1.1 Height. Call buttons and keypads shall be located within one of the reach ranges specified in 308, measured to the centerline of the highest operable part.
+EXCEPTION: Existing call buttons and existing keypads shall be permitted to be located at 54 inches (1370 mm) maximum above the finish floor, measured to the centerline of the highest operable part.
+407.2.1.2 Size. Call buttons shall be 3/4 inch (19 mm) minimum in the smallest dimension.
+EXCEPTION: Existing elevator call buttons shall not be required to comply with 407.2.1.2.
+407.2.1.3 Clear Floor or Ground Space. A clear floor or ground space complying with 305 shall be provided at call controls.
+Advisory 407.2.1.3 Clear Floor or Ground Space.
+The clear floor or ground space required at elevator call buttons must remain free of obstructions including ashtrays, plants, and other decorative elements that prevent wheelchair users and others from reaching the call buttons. The height of the clear floor or ground space is considered to be a volume from the floor to 80 inches (2030 mm) above the floor. Recessed ashtrays should not be placed near elevator call buttons so that persons who are blind or visually impaired do not inadvertently contact them or their contents as they reach for the call buttons.
+407.2.1.4 Location. The call button that designates the up direction shall be located above the call button that designates the down direction.
+EXCEPTION: Destination-oriented elevators shall not be required to comply with 407.2.1.4.
+Advisory 407.2.1.4 Location Exception.
+A destination-oriented elevator system provides lobby controls enabling passengers to select floor stops, lobby indicators designating which elevator to use, and a car indicator designating the floors at which the car will stop. Responding cars are programmed for maximum efficiency by reducing the number of stops any passenger experiences.
+407.2.1.5 Signals. Call buttons shall have visible signals to indicate when each call is registered and when each call is answered.
+EXCEPTIONS:
+- Destination-oriented elevators shall not be required to comply with 407.2.1.5 provided that visible and audible signals complying with 407.2.2 indicating which elevator car to enter are provided.
+- Existing elevators shall not be required to comply with 407.2.1.5.
+407.2.1.6 Keypads. Where keypads are provided, keypads shall be in a standard telephone keypad arrangement and shall comply with 407.4.7.2.
+407.2.2 Hall Signals. Hall signals, including in-car signals, shall comply with 407.2.2.
+407.2.2.1 Visible and Audible Signals. A visible and audible signal shall be provided at each hoistway entrance to indicate which car is answering a call and the car’s direction of travel. Where in-car signals are provided, they shall be visible from the floor area adjacent to the hall call buttons.
+EXCEPTIONS:
+- Visible and audible signals shall not be required at each destination-oriented elevator where a visible and audible signal complying with 407.2.2 is provided indicating the elevator car designation information.
+- In existing elevators, a signal indicating the direction of car travel shall not be required.
+407.2.2.2 Visible Signals. Visible signal fixtures shall be centered at 72 inches (1830 mm) minimum above the finish floor or ground. The visible signal elements shall be 2 1/2 inches (64 mm) minimum measured along the vertical centerline of the element. Signals shall be visible from the floor area adjacent to the hall call button.
+EXCEPTIONS:
+- Destination-oriented elevators shall be permitted to have signals visible from the floor area adjacent to the hoistway entrance.
+- Existing elevators shall not be required to comply with 407.2.2.2.
+[Figure: Visible Hall Signals — Visible signals are shown centered at 72 inches (1830 mm) minimum above the floor ground.]
+407.2.2.3 Audible Signals. Audible signals shall sound once for the up direction and twice for the down direction, or shall have verbal annunciators that indicate the direction of elevator car travel. Audible signals shall have a frequency of 1500 Hz maximum. Verbal annunciators shall have a frequency of 300 Hz minimum and 3000 Hz maximum. The audible signal and verbal annunciator shall be 10 dB minimum above ambient, but shall not exceed 80 dB, measured at the hall call button.
+EXCEPTIONS:
+- Destination-oriented elevators shall not be required to comply with 407.2.2.3 provided that the audible tone and verbal announcement is the same as those given at the call button or call button keypad.
+- Existing elevators shall not be required to comply with the requirements for frequency and dB range of audible signals.
+407.2.2.4 Differentiation. Each destination-oriented elevator in a bank of elevators shall have audible and visible means for differentiation.
+407.2.3 Hoistway Signs. Signs at elevator hoistways shall comply with 407.2.3.
+407.2.3.1 Floor Designation. Floor designations complying with 703.2 and 703.4.1 shall be provided on both jambs of elevator hoistway entrances. Floor designations shall be provided in both tactile characters and braille. Tactile characters shall be 2 inches (51 mm) high minimum. A tactile star shall be provided on both jambs at the main entry level.
+[Figure: Floor Designations on Jambs of Elevator Hoistway Entrances — An enlarged detail of a tactile floor designation is shown.  The sign contains a star and the number A1 next to it which is 2 inches (51 mm) high; the braille equivalent is provided below each.]
+407.2.3.2 Car Designations. Destination-oriented elevators shall provide tactile car identification complying with 703.2 on both jambs of the hoistway immediately below the floor designation. Car designations shall be provided in both tactile characters and braille. Tactile characters shall be 2 inches (51 mm) high minimum.
+[Figure: Car Designations on Jambs of Destination-Oriented Elevator Hoistway Entrances — An enlarged detail shows the car designation below the floor designation.  The car designation is 2 inches (51 mm) minimum high with the braille equivalent below it.]
+407.3 Elevator Door Requirements. Hoistway and car doors shall comply with 407.3.
+407.3.1 Type. Elevator doors shall be the horizontal sliding type. Car gates shall be prohibited.
+407.3.2 Operation. Elevator hoistway and car doors shall open and close automatically.
+EXCEPTION: Existing manually operated hoistway swing doors shall be permitted provided that they comply with 404.2.3 and 404.2.9. Car door closing shall not be initiated until the hoistway door is closed.
+407.3.3 Reopening Device. Elevator doors shall be provided with a reopening device complying with 407.3.3 that shall stop and reopen a car door and hoistway door automatically if the door becomes obstructed by an object or person.
+EXCEPTION: Existing elevators with manually operated doors shall not be required to comply with 407.3.3.
+407.3.3.1 Height. The device shall be activated by sensing an obstruction passing through the opening at 5 inches (125 mm) nominal and 29 inches (735 mm) nominal above the finish floor.
+407.3.3.2 Contact. The device shall not require physical contact to be activated, although contact is permitted to occur before the door reverses.
+407.3.3.3 Duration. Door reopening devices shall remain effective for 20 seconds minimum.
+407.3.4 Door and Signal Timing. The minimum acceptable time from notification that a car is answering a call or notification of the car assigned at the means for the entry of destination information until the doors of that car start to close shall be calculated from the following equation:
+T = D/(1.5 ft/s) or T = D/(455 mm/s) = 5 seconds minimum where T equals the total time in seconds and D equals the distance (in feet or millimeters) from the point in the lobby or corridor 60 inches (1525 mm) directly in front of the farthest call button controlling that car to the centerline of its hoistway door.
+EXCEPTIONS:
+- For cars with in-car lanterns, T shall be permitted to begin when the signal is visible from the point 60 inches (1525 mm) directly in front of the farthest hall call button and the audible signal is sounded.
+- Destination-oriented elevators shall not be required to comply with 407.3.4.
+407.3.5 Door Delay. Elevator doors shall remain fully open in response to a car call for 3 seconds minimum.
+407.3.6 Width. The width of elevator doors shall comply with Table 407.4.1.
+EXCEPTION: In existing elevators, a power-operated car door complying with 404.2.3 shall be permitted.
+407.4 Elevator Car Requirements. Elevator cars shall comply with 407.4.
+407.4.1 Car Dimensions. Inside dimensions of elevator cars and clear width of elevator doors shall comply with Table 407.4.1.
+EXCEPTION: Existing elevator car configurations that provide a clear floor area of 16 square feet (1.5 m2) minimum and also provide an inside clear depth 54 inches (1370 mm) minimum and a clear width 36 inches (915 mm) minimum shall be permitted.
+Door Location | Minimum Dimension: Door Clear Width | Minimum Dimension: Inside Car, Side to Side | Minimum Dimension: Inside Car, Back Wall to Front Return | Minimum Dimension: Inside Car, Back Wall to Inside Face of Door
+Centered | 42 inches (1065 mm) | 80 inches (2030 mm) | 51 inches (1295 mm) | 54 inches (1370 mm)
+Side (off-centered) | 36 inches (915 mm) (A tolerance of minus 5/8 inch (16 mm) is permitted.) | 68 inches (1725 mm) | 51 inches (1295 mm) | 54 inches (1370 mm)
+Any | 36 inches (915 mm) (A tolerance of minus 5/8 inch (16 mm) is permitted.) | 54 inches (1370 mm) | 80 inches (2030 mm) | 80 inches (2030 mm)
+Any | 36 inches (915 mm) (A tolerance of minus 5/8 inch (16 mm) is permitted.) | 60 inches (1525 mm) (Other car configurations that provide a turning space complying with 304 with the door closed shall be permitted.) | 60 inches (1525 mm) (Other car configurations that provide a turning space complying with 304 with the door closed shall be permitted.) | 60 inches (1525 mm) (Other car configurations that provide a turning space complying with 304 with the door closed shall be permitted.)
+[Figure: Elevator Car Dimensions — Figure (a) shows an elevator car with a centered door.  The door clear width is 42 inches (1065 mm) minimum and the car width measured side to side is 80 inches (2030 mm) minimum.  The car depth is 51 inches (1295 mm) minimum measured from the back wall to the front return, and 54 inches (1370 mm) minimum measured from the back wall to the inside face of the door.  Figure (b) shows an elevator car with an off-centered door. The door clear width is 36 inches (915 mm) minimum and the car width measured side to side is 68 inches (1725 mm) minimum.  The depth is 51 inches (1295 mm) minimum measured from the back wall to the front return, and 54 inches (1370 mm) minimum measured from the back wall to the inside face of the door.]
+407.4.2 Floor Surfaces. Floor surfaces in elevator cars shall comply with 302 and 303.
+407.4.3 Platform to Hoistway Clearance. The clearance between the car platform sill and the edge of any hoistway landing shall be 1 1/4 inch (32 mm) maximum.
+407.4.4 Leveling. Each car shall be equipped with a self-leveling feature that will automatically bring and maintain the car at floor landings within a tolerance of 1/2 inch (13 mm) under rated loading to zero loading conditions.
+407.4.5 Illumination. The level of illumination at the car controls, platform, car threshold and car landing sill shall be 5 foot candles (54 lux) minimum.
+407.4.6 Elevator Car Controls. Where provided, elevator car controls shall comply with 407.4.6 and 309.4.
+EXCEPTION: In existing elevators, where a new car operating panel complying with 407.4.6 is provided, existing car operating panels shall not be required to comply with 407.4.6.
+407.4.6.1 Location. Controls shall be located within one of the reach ranges specified in 308.
+EXCEPTIONS:
+- Where the elevator panel serves more than 16 openings and a parallel approach is provided, buttons with floor designations shall be permitted to be 54 inches (1370 mm) maximum above the finish floor.
+- In existing elevators, car control buttons with floor designations shall be permitted to be located 54 inches (1370 mm) maximum above the finish floor where a parallel approach is provided.
+407.4.6.2 Buttons. Car control buttons with floor designations shall comply with 407.4.6.2 and shall be raised or flush.
+EXCEPTION: In existing elevators, buttons shall be permitted to be recessed.
+407.4.6.2.1 Size. Buttons shall be 3/4 inch (19 mm) minimum in their smallest dimension.
+407.4.6.2.2 Arrangement. Buttons shall be arranged with numbers in ascending order. When two or more columns of buttons are provided they shall read from left to right.
+407.4.6.3 Keypads. Car control keypads shall be in a standard telephone keypad arrangement and shall comply with 407.4.7.2.
+407.4.6.4 Emergency Controls. Emergency controls shall comply with 407.4.6.4.
+407.4.6.4.1 Height. Emergency control buttons shall have their centerlines 35 inches (890 mm) minimum above the finish floor.
+407.4.6.4.2 Location. Emergency controls, including the emergency alarm, shall be grouped at the bottom of the panel.
+407.4.7 Designations and Indicators of Car Controls. Designations and indicators of car controls shall comply with 407.4.7.
+EXCEPTION: In existing elevators, where a new car operating panel complying with 407.4.7 is provided, existing car operating panels shall not be required to comply with 407.4.7.
+407.4.7.1 Buttons. Car control buttons shall comply with 407.4.7.1.
+407.4.7.1.1 Type. Control buttons shall be identified by tactile characters complying with 703.2.
+407.4.7.1.2 Location. Raised character and braille designations shall be placed immediately to the left of the control button to which the designations apply.
+EXCEPTION: Where space on an existing car operating panel precludes tactile markings to the left of the controls, markings shall be placed as near to the control as possible.
+407.4.7.1.3 Symbols. The control button for the emergency stop, alarm, door open, door close, main entry floor, and phone, shall be identified with tactile symbols as shown in Table 407.4.7.1.3.
+Control Button | Tactile Symbol | Braille Message
+Emergency Stop | "ST"OP Three cells
+Alarm | AL"AR"M Four cells
+Door Open | "OP"EN Three cells
+Door Close | CLOSE Five cells
+Main Entry Floor | MA"IN" Three cells
+Phone | PH"ONE" Four cells
+407.4.7.1.4 Visible Indicators. Buttons with floor designations shall be provided with visible indicators to show that a call has been registered. The visible indication shall extinguish when the car arrives at the designated floor.
+407.4.7.2 Keypads. Keypads shall be identified by characters complying with 703.5 and shall be centered on the corresponding keypad button. The number five key shall have a single raised dot. The dot shall be 0.118 inch (3 mm) to 0.120 inch (3.05 mm) base diameter and in other aspects comply with Table 703.3.1.
+407.4.8 Car Position Indicators. Audible and visible car position indicators shall be provided in elevator cars.
+407.4.8.1 Visible Indicators. Visible indicators shall comply with 407.4.8.1.
+407.4.8.1.1 Size. Characters shall be 1/2 inch (13 mm) high minimum.
+407.4.8.1.2 Location. Indicators shall be located above the car control panel or above the door.
+407.4.8.1.3 Floor Arrival. As the car passes a floor and when a car stops at a floor served by the elevator, the corresponding character shall illuminate.
+EXCEPTION: Destination-oriented elevators shall not be required to comply with 407.4.8.1.3 provided that the visible indicators extinguish when the call has been answered.
+407.4.8.1.4 Destination Indicator. In destination-oriented elevators, a display shall be provided in the car with visible indicators to show car destinations.
+407.4.8.2 Audible Indicators. Audible indicators shall comply with 407.4.8.2.
+407.4.8.2.1 Signal Type. The signal shall be an automatic verbal annunciator which announces the floor at which the car is about to stop.
+EXCEPTION: For elevators other than destination-oriented elevators that have a rated speed of 200 feet per minute (1 m/s) or less, a non-verbal audible signal with a frequency of 1500 Hz maximum which sounds as the car passes or is about to stop at a floor served by the elevator shall be permitted.
+407.4.8.2.2 Signal Level. The verbal annunciator shall be 10 dB minimum above ambient, but shall not exceed 80 dB, measured at the annunciator.
+407.4.8.2.3 Frequency. The verbal annunciator shall have a frequency of 300 Hz minimum to 3000 Hz maximum.
+407.4.9 Emergency Communication. Emergency two-way communication systems shall comply with 308. Tactile symbols and characters shall be provided adjacent to the device and shall comply with 703.2.

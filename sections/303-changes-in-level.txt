@@ -1,0 +1,15 @@
+303 Changes in Level
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#303-changes-in-level (fetched 2026-10-04)
+
+303.1 General. Where changes in level are permitted in floor or ground surfaces, they shall comply with 303.
+EXCEPTIONS:
+- Animal containment areas shall not be required to comply with 303.
+- Areas of sport activity shall not be required to comply with 303.
+303.2 Vertical. Changes in level of 1/4 inch (6.4 mm) high maximum shall be permitted to be vertical.
+[Figure: Vertical Change in Level — Elevation drawing of a change in level between the surfaces of two parallel planes with a vertical edge that is 1/4 inch (6.4 mm) high maximum.]
+303.3 Beveled. Changes in level between 1/4 inch (6.4 mm) high minimum and 1/2 inch (13 mm) high maximum shall be beveled with a slope not steeper than 1:2.
+Advisory 303.3 Beveled.
+A change in level of 1/2 inch (13 mm) is permitted to be 1/4 inch (6.4 mm) vertical plus 1/4 inch (6.4 mm) beveled. However, in no case may the combined change in level exceed 1/2 inch (13 mm). Changes in level exceeding 1/2 inch (13 mm) must comply with 405 (Ramps) or 406 (Curb Ramps).
+[Figure: Beveled Change in Level — Elevation drawing of a change in level 1/4 to 2 inches (6.4 - 13 mm) high that is beveled with a slope of 1:2.]
+303.4 Ramps. Changes in level greater than 1/2 inch (13 mm) high shall be ramped, and shall comply with 405 or 406.

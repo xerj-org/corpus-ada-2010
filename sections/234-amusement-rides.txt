@@ -1,0 +1,26 @@
+234 Amusement Rides
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#234-amusement-rides (fetched 2026-10-04)
+
+234.1 General. Amusement rides shall comply with 234.
+EXCEPTION: Mobile or portable amusement rides shall not be required to comply with 234.
+Advisory 234.1 General.
+These requirements apply generally to newly designed and constructed amusement rides and attractions. A custom designed and constructed ride is new upon its first use, which is the first time amusement park patrons take the ride. With respect to amusement rides purchased from other entities, new refers to the first permanent installation of the ride, whether it is used off the shelf or modified before it is installed. Where amusement rides are moved after several seasons to another area of the park or to another park, the ride would not be considered newly designed or newly constructed.
+Some amusement rides and attractions that have unique designs and features are not addressed by these requirements. In those situations, these requirements are to be applied to the extent possible. An example of an amusement ride not specifically addressed by these requirements includes “virtual reality” rides where the device does not move through a fixed course within a defined area. An accessible route must be provided to these rides. Where an attraction or ride has unique features for which there are no applicable scoping provisions, then a reasonable number, but at least one, of the features must be located on an accessible route. Where there are appropriate technical provisions, they must be applied to the elements that are covered by the scoping provisions.
+Advisory 234.1 General Exception.
+Mobile or temporary rides are those set up for short periods of time such as traveling carnivals, State and county fairs, and festivals. The amusement rides that are covered by 234.1 are ones that are not regularly assembled and disassembled.
+234.2 Load and Unload Areas. Load and unload areas serving amusement rides shall comply with 1002.3.
+234.3 Minimum Number. Amusement rides shall provide at least one wheelchair space complying with 1002.4, or at least one amusement ride seat designed for transfer complying with 1002.5, or at least one transfer device complying with 1002.6.
+EXCEPTIONS:
+- Amusement rides that are controlled or operated by the rider shall not be required to comply with 234.3.
+- Amusement rides designed primarily for children, where children are assisted on and off the ride by an adult, shall not be required to comply with 234.3.
+- Amusement rides that do not provide amusement ride seats shall not be required to comply with 234.3.
+Advisory 234.3 Minimum Number Exceptions 1 through 3.
+Amusement rides controlled or operated by the rider, designed for children, or rides without ride seats are not required to comply with 234.3. These rides are not exempt from the other provisions in 234 requiring an accessible route to the load and unload areas and to the ride. The exception does not apply to those rides where patrons may cause the ride to make incidental movements, but where the patron otherwise has no control over the ride.
+Advisory 234.3 Minimum Number Exception 2.
+The exception is limited to those rides designed “primarily” for children, where children are assisted on and off the ride by an adult. This exception is limited to those rides designed for children and not for the occasional adult user. An accessible route to and turning space in the load and unload area will provide access for adults and family members assisting children on and off these rides.
+234.4 Existing Amusement Rides. Where existing amusement rides are altered, the alteration shall comply with 234.4.
+Advisory 234.4 Existing Amusement Rides.
+Routine maintenance, painting, and changing of theme boards are examples of activities that do not constitute an alteration subject to this section.
+234.4.1 Load and Unload Areas. Where load and unload areas serving existing amusement rides are newly designed and constructed, the load and unload areas shall comply with 1002.3.
+234.4.2 Minimum Number. Where the structural or operational characteristics of an amusement ride are altered to the extent that the amusement ride’s performance differs from that specified by the manufacturer or the original design, the amusement ride shall comply with 234.3.

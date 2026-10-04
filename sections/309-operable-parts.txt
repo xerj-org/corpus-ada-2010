@@ -1,0 +1,9 @@
+309 Operable Parts
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#309-operable-parts (fetched 2026-10-04)
+
+309.1 General. Operable parts shall comply with 309.
+309.2 Clear Floor Space. A clear floor or ground space complying with 305 shall be provided.
+309.3 Height. Operable parts shall be placed within one or more of the reach ranges specified in 308.
+309.4 Operation. Operable parts shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate operable parts shall be 5 pounds (22.2 N) maximum.
+EXCEPTION: Gas pump nozzles shall not be required to provide operable parts that have an activating force of 5 pounds (22.2 N) maximum.

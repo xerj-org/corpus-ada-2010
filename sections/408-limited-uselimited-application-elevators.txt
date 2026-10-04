@@ -1,0 +1,27 @@
+408 Limited-Use/Limited-Application Elevators
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#408-limited-uselimited-application-elevators (fetched 2026-10-04)
+
+408.1 General. Limited-use/limited-application elevators shall comply with 408 and with ASME A17.1 (incorporated by reference, see “Referenced Standards” in Chapter 1). They shall be passenger elevators as classified by ASME A17.1. Elevator operation shall be automatic.
+408.2 Elevator Landings. Landings serving limited-use/limited-application elevators shall comply with 408.2.
+408.2.1 Call Buttons. Elevator call buttons and keypads shall comply with 407.2.1.
+408.2.2 Hall Signals. Hall signals shall comply with 407.2.2.
+408.2.3 Hoistway Signs. Signs at elevator hoistways shall comply with 407.2.3.1.
+408.3 Elevator Doors. Elevator hoistway doors shall comply with 408.3.
+408.3.1 Sliding Doors. Sliding hoistway and car doors shall comply with 407.3.1 through 407.3.3 and 408.4.1.
+408.3.2 Swinging Doors. Swinging hoistway doors shall open and close automatically and shall comply with 404, 407.3.2 and 408.3.2.
+408.3.2.1 Power Operation. Swinging doors shall be power-operated and shall comply with ANSI/BHMA A156.19 (1997 or 2002 edition) (incorporated by reference, see “Referenced Standards” in Chapter 1).
+408.3.2.2 Duration. Power-operated swinging doors shall remain open for 20 seconds minimum when activated.
+408.4 Elevator Cars. Elevator cars shall comply with 408.4.
+408.4.1 Car Dimensions and Doors. Elevator cars shall provide a clear width 42 inches (1065 mm) minimum and a clear depth 54 inches (1370 mm) minimum. Car doors shall be positioned at the narrow ends of cars and shall provide 32 inches (815 mm) minimum clear width.
+EXCEPTIONS:
+- Cars that provide a clear width 51 inches (1295 mm) minimum shall be permitted to provide a clear depth 51 inches (1295 mm) minimum provided that car doors provide a clear opening 36 inches (915 mm) wide minimum.
+- Existing elevator cars shall be permitted to provide a clear width 36 inches (915 mm) minimum, clear depth 54 inches (1370 mm) minimum, and a net clear platform area 15 square feet (1.4 m2) minimum.
+[Figure: Limited-Use/Limited-Application (LULA) Elevator Car Dimensions — Figure (a) shows the configuration for new construction.  The door clear width is 32 inches (815 mm) minimum and the car width measured side to side is 42 inches (1065 mm) minimum.  The car depth is 54 inches (1370 mm) minimum.  Figure (b) illustrates Exception 1.  The door width is 36 inches (815 mm) minimum and the car has a clear interior space 51 by 51 inches (1295 by 1295 mm) minimum.  Figure (c) illustrates Exception 2.  The car width is 36 inches (915 mm) minimum, the depth is 54 inches (1370 mm) minimum, and the net clear car area is 15 square feet (1.4 square m) minimum.]
+408.4.2 Floor Surfaces. Floor surfaces in elevator cars shall comply with 302 and 303.
+408.4.3 Platform to Hoistway Clearance. The platform to hoistway clearance shall comply with 407.4.3.
+408.4.4 Leveling. Elevator car leveling shall comply with 407.4.4.
+408.4.5 Illumination. Elevator car illumination shall comply with 407.4.5.
+408.4.6 Car Controls. Elevator car controls shall comply with 407.4.6. Control panels shall be centered on a side wall.
+408.4.7 Designations and Indicators of Car Controls. Designations and indicators of car controls shall comply with 407.4.7.
+408.4.8 Emergency Communications. Car emergency signaling devices complying with 407.4.9 shall be provided.

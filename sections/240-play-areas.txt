@@ -1,0 +1,43 @@
+240 Play Areas
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#240-play-areas (fetched 2026-10-04)
+
+240.1 General. Play areas for children ages 2 and over shall comply with 240. Where separate play areas are provided within a site for specific age groups, each play area shall comply with 240.
+EXCEPTIONS:
+- Play areas located in family child care facilities where the proprietor actually resides shall not be required to comply with 240.
+- In existing play areas, where play components are relocated for the purposes of creating safe use zones and the ground surface is not altered or extended for more than one use zone, the play area shall not be required to comply with 240.
+- Amusement attractions shall not be required to comply with 240.
+- Where play components are altered and the ground surface is not altered, the ground surface shall not be required to comply with 1008.2.6 unless required by 202.4.
+Advisory 240.1 General.
+Play areas may be located on exterior sites or within a building. Where separate play areas are provided within a site for children in specified age groups (e.g., preschool (ages 2 to 5) and school age (ages 5 to 12)), each play area must comply with this section. Where play areas are provided for the same age group on a site but are geographically separated (e.g., one is located next to a picnic area and another is located next to a softball field), they are considered separate play areas and each play area must comply with this section.
+240.1.1 Additions. Where play areas are designed and constructed in phases, the requirements of 240 shall apply to each successive addition so that when the addition is completed, the entire play area complies with all the applicable requirements of 240.
+Advisory 240.1.1 Additions.
+These requirements are to be applied so that when each successive addition is completed, the entire play area complies with all applicable provisions. For example, a play area is built in two phases. In the first phase, there are 10 elevated play components and 10 elevated play components are added in the second phase for a total of 20 elevated play components in the play area. When the first phase was completed, at least 5 elevated play components, including at least 3 different types, were to be provided on an accessible route. When the second phase is completed, at least 10 elevated play components must be located on an accessible route, and at least 7 ground level play components, including 4 different types, must be provided on an accessible route. At the time the second phase is complete, ramps must be used to connect at least 5 of the elevated play components and transfer systems are permitted to be used to connect the rest of the elevated play components required to be located on an accessible route.
+240.2 Play Components. Where provided, play components shall comply with 240.2.
+240.2.1 Ground Level Play Components. Ground level play components shall be provided in the number and types required by 240.2.1. Ground level play components that are provided to comply with 240.2.1.1 shall be permitted to satisfy the additional number required by 240.2.1.2 if the minimum required types of play components are satisfied. Where two or more required ground level play components are provided, they shall be dispersed throughout the play area and integrated with other play components.
+Advisory 240.2.1 Ground Level Play Components.
+Examples of ground level play components may include spring rockers, swings, diggers, and stand-alone slides. When distinguishing between the different types of ground level play components, consider the general experience provided by the play component. Examples of different types of experiences include, but are not limited to, rocking, swinging, climbing, spinning, and sliding. A spiral slide may provide a slightly different experience from a straight slide, but sliding is the general experience and therefore a spiral slide is not considered a different type of play component from a straight slide.
+Ground level play components accessed by children with disabilities must be integrated into the play area. Designers should consider the optimal layout of ground level play components accessed by children with disabilities to foster interaction and socialization among all children. Grouping all ground level play components accessed by children with disabilities in one location is not considered integrated.
+Where a stand-alone slide is provided, an accessible route must connect the base of the stairs at the entry point to the exit point of the slide. A ramp or transfer system to the top of the slide is not required. Where a sand box is provided, an accessible route must connect to the border of the sand box. Accessibility to the sand box would be enhanced by providing a transfer system into the sand or by providing a raised sand table with knee clearance complying with 1008.4.3.
+Ramps are preferred over transfer systems since not all children who use wheelchairs or other mobility devices may be able to use, or may choose not to use, transfer systems. Where ramps connect elevated play components, the maximum rise of any ramp run is limited to 12 inches (305 mm). Where possible, designers and operators are encouraged to provide ramps with a slope less than the 1:12 maximum. Berms or sculpted dirt may be used to provide elevation and may be part of an accessible route to composite play structures.
+Platform lifts are permitted as a part of an accessible route. Because lifts must be independently operable, operators should carefully consider the appropriateness of their use in unsupervised settings.
+240.2.1.1 Minimum Number and Types. Where ground level play components are provided, at least one of each type shall be on an accessible route and shall comply with 1008.4.
+240.2.1.2 Additional Number and Types. Where elevated play components are provided, ground level play components shall be provided in accordance with Table 240.2.1.2 and shall comply with 1008.4.
+EXCEPTION: If at least 50 percent of the elevated play components are connected by a ramp and at least 3 of the elevated play components connected by the ramp are different types of play components, the play area shall not be required to comply with 240.2.1.2.
+Number of Elevated Play Components Provided | Minimum Number of Ground Level Play Components Required to be on an Accessible Route | Minimum Number of Different Types of Ground Level Play Components Required to be on an Accessible Route
+1 | Not applicable | Not applicable
+2 to 4 | 1 | 1
+5 to 7 | 2 | 2
+8 to 10 | 3 | 3
+11 to 13 | 4 | 3
+14 to 16 | 5 | 3
+17 to 19 | 6 | 3
+20 to 22 | 7 | 4
+23 to 25 | 8 | 4
+Advisory 240.2.1.2 Additional Number and Types.
+Where a large play area includes two or more composite play structures designed for the same age group, the total number of elevated play components on all the composite play structures must be added to determine the additional number and types of ground level play components that must be provided on an accessible route.
+240.2.2 Elevated Play Components. Where elevated play components are provided, at least 50 percent shall be on an accessible route and shall comply with 1008.4.
+Advisory 240.2.2 Elevated Play Components.
+A double or triple slide that is part of a composite play structure is one elevated play component. For purposes of this section, ramps, transfer systems, steps, decks, and roofs are not considered elevated play components. Although socialization and pretend play can occur on these elements, they are not primarily intended for play.
+Some play components that are attached to a composite play structure can be approached or exited at the ground level or above grade from a platform or deck. For example, a climber attached to a composite play structure can be approached or exited at the ground level or above grade from a platform or deck on a composite play structure.
+Play components that are attached to a composite play structure and can be approached from a platform or deck (e.g., climbers and overhead play components) are considered elevated play components. These play components are not considered ground level play components and do not count toward the requirements in 240.2.1.2 regarding the number of ground level play components that must be located on an accessible route.

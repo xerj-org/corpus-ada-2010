@@ -1,0 +1,16 @@
+205 Operable Parts
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#205-operable-parts (fetched 2026-10-04)
+
+205.1 General. Operable parts on accessible elements, accessible routes, and in accessible rooms and spaces shall comply with 309.
+EXCEPTIONS:
+- Operable parts that are intended for use only by service or maintenance personnel shall not be required to comply with 309.
+- Electrical or communication receptacles serving a dedicated use shall not be required to comply with 309.
+- Where two or more outlets are provided in a kitchen above a length of counter top that is uninterrupted by a sink or appliance, one outlet shall not be required to comply with 309.
+- Floor electrical receptacles shall not be required to comply with 309.
+- HVAC diffusers shall not be required to comply with 309.
+- Except for light switches, where redundant controls are provided for a single element, one control in each space shall not be required to comply with 309.
+- Cleats and other boat securement devices shall not be required to comply with 309.3.
+- Exercise machines and exercise equipment shall not be required to comply with 309.
+Advisory 205.1 General.
+Controls covered by 205.1 include, but are not limited to, light switches, circuit breakers, duplexes and other convenience receptacles, environmental and appliance controls, plumbing fixture controls, and security and intercom systems.

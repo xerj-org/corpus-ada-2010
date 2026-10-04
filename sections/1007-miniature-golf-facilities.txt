@@ -1,0 +1,20 @@
+1007 Miniature Golf Facilities
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#1007-miniature-golf-facilities (fetched 2026-10-04)
+
+1007.1 General. Miniature golf facilities shall comply with 1007.
+1007.2 Accessible Routes. Accessible routes serving holes on miniature golf courses shall comply with Chapter 4. Accessible routes located on playing surfaces of miniature golf holes shall be permitted to use the exceptions in 1007.2.
+EXCEPTIONS:
+- Playing surfaces shall not be required to comply with 302.2.
+- Where accessible routes intersect playing surfaces of holes, a 1 inch (25 mm) maximum curb shall be permitted for a width of 32 inches (815 mm) minimum.
+- A slope not steeper than 1:4 for a 4 inch (100 mm) maximum rise shall be permitted.
+- Ramp landing slopes specified by 405.7.1 shall be permitted to be 1:20 maximum.
+- Ramp landing length specified by 405.7.3 shall be permitted to be 48 inches (1220 mm) long minimum.
+- Ramp landing size specified by 405.7.4 shall be permitted to be 48 inches (1220 mm) minimum by 60 inches (1525 mm) minimum.
+- Handrails shall not be required on holes. Where handrails are provided on holes, the handrails shall not be required to comply with 505.
+1007.3 Miniature Golf Holes. Miniature golf holes shall comply with 1007.3.
+1007.3.1 Start of Play. A clear floor or ground space 48 inches (1220 mm) minimum by 60 inches (1525 mm) minimum with slopes not steeper than 1:48 shall be provided at the start of play.
+1007.3.2 Golf Club Reach Range Area. All areas within holes where golf balls rest shall be within 36 inches (915 mm) maximum of a clear floor or ground space 36 inches (915 mm) wide minimum and 48 inches (1220 mm) long minimum having a running slope not steeper than 1:20. The clear floor or ground space shall be served by an accessible route.
+Advisory 1007.3.2 Golf Club Reach Range Area.
+The golf club reach range applies to all holes required to be accessible. This includes accessible routes provided adjacent to or, where provided, on the playing surface of the hole.
+[Figure: Golf Club Reach Range Area — A plan view shows a person using a wheelchair reaching a golf ball.  The wheelchair space is 48 inches (1220 mm) long minimum and 36 inches (915 mm) wide minimum, having a running slope not steeper than 1:20.  The golf ball are is 36 inches (915 mm) maximum from the wheelchair clear space.]

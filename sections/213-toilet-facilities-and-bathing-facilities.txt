@@ -1,0 +1,26 @@
+213 Toilet Facilities and Bathing Facilities
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#213-toilet-facilities-and-bathing-facilities (fetched 2026-10-04)
+
+213.1 General. Where toilet facilities and bathing facilities are provided, they shall comply with 213. Where toilet facilities and bathing facilities are provided in facilities permitted by 206.2.3 Exceptions 1 and 2 not to connect stories by an accessible route, toilet facilities and bathing facilities shall be provided on a story connected by an accessible route to an accessible entrance.
+213.2 Toilet Rooms and Bathing Rooms. Where toilet rooms are provided, each toilet room shall comply with 603. Where bathing rooms are provided, each bathing room shall comply with 603.
+EXCEPTIONS:
+- In alterations where it is technically infeasible to comply with 603, altering existing toilet or bathing rooms shall not be required where a single unisex toilet room or bathing room complying with 213.2.1 is provided and located in the same area and on the same floor as existing inaccessible toilet or bathing rooms.
+- Where exceptions for alterations to qualified historic buildings or facilities are permitted by 202.5, no fewer than one toilet room for each sex complying with 603 or one unisex toilet room complying with 213.2.1 shall be provided.
+- Where multiple single user portable toilet or bathing units are clustered at a single location, no more than 5 percent of the toilet units and bathing units at each cluster shall be required to comply with 603. Portable toilet units and bathing units complying with 603 shall be identified by the International Symbol of Accessibility complying with 703.7.2.1.
+- Where multiple single user toilet rooms are clustered at a single location, no more than 50 percent of the single user toilet rooms for each use at each cluster shall be required to comply with 603.
+Advisory 213.2 Toilet Rooms and Bathing Rooms.
+These requirements allow the use of unisex (or single-user) toilet rooms in alterations when technical infeasibility can be demonstrated. Unisex toilet rooms benefit people who use opposite sex personal care assistants. For this reason, it is advantageous to install unisex toilet rooms in addition to accessible single-sex toilet rooms in new facilities.
+Advisory 213.2 Toilet Rooms and Bathing Rooms Exceptions 3 and 4.
+A “cluster” is a group of toilet rooms proximate to one another. Generally, toilet rooms in a cluster are within sight of, or adjacent to, one another.
+213.2.1 Unisex (Single-Use or Family) Toilet and Unisex Bathing Rooms. Unisex toilet rooms shall contain not more than one lavatory, and two water closets without urinals or one water closet and one urinal. Unisex bathing rooms shall contain one shower or one shower and one bathtub, one lavatory, and one water closet. Doors to unisex toilet rooms and unisex bathing rooms shall have privacy latches.
+213.3 Plumbing Fixtures and Accessories. Plumbing fixtures and accessories provided in a toilet room or bathing room required to comply with 213.2 shall comply with 213.3.
+213.3.1 Toilet Compartments. Where toilet compartments are provided, at least one toilet compartment shall comply with 604.8.1. In addition to the compartment required to comply with 604.8.1, at least one compartment shall comply with 604.8.2 where six or more toilet compartments are provided, or where the combination of urinals and water closets totals six or more fixtures.
+Advisory 213.3.1 Toilet Compartments.
+A toilet compartment is a partitioned space that is located within a toilet room, and that normally contains no more than one water closet. A toilet compartment may also contain a lavatory. A lavatory is a sink provided for hand washing. Full-height partitions and door assemblies can comprise toilet compartments where the minimum required spaces are provided within the compartment.
+213.3.2 Water Closets. Where water closets are provided, at least one shall comply with 604.
+213.3.3 Urinals. Where more than one urinal is provided, at least one shall comply with 605.
+213.3.4 Lavatories. Where lavatories are provided, at least one shall comply with 606 and shall not be located in a toilet compartment.
+213.3.5 Mirrors. Where mirrors are provided, at least one shall comply with 603.3.
+213.3.6 Bathing Facilities. Where bathtubs or showers are provided, at least one bathtub complying with 607 or at least one shower complying with 608 shall be provided.
+213.3.7 Coat Hooks and Shelves. Where coat hooks or shelves are provided in toilet rooms without toilet compartments, at least one of each type shall comply with 603.4. Where coat hooks or shelves are provided in toilet compartments, at least one of each type complying with 604.8.3 shall be provided in toilet compartments required to comply with 213.3.1. Where coat hooks or shelves are provided in bathing facilities, at least one of each type complying with 603.4 shall serve fixtures required to comply with 213.3.6.

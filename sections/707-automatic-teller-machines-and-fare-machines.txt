@@ -1,0 +1,45 @@
+707 Automatic Teller Machines and Fare Machines
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#707-automatic-teller-machines-and-fare-machines (fetched 2026-10-04)
+
+Advisory 707 Automatic Teller Machines and Fare Machines.
+Interactive transaction machines (ITMs), other than ATMs, are not covered by Section 707. However, for entities covered by the ADA, the Department of Justice regulations that implement the ADA provide additional guidance regarding the relationship between these requirements and elements that are not directly addressed by these requirements. Federal procurement law requires that ITMs purchased by the Federal government comply with standards issued by the Access Board under Section 508 of the Rehabilitation Act of 1973, as amended. This law covers a variety of products, including computer hardware and software, websites, phone systems, fax machines, copiers, and similar technologies. For more information on Section 508 consult the Access Board’s website at www.access-board.gov .
+707.1 General. Automatic teller machines and fare machines shall comply with 707.
+Advisory 707.1 General.
+If farecards have one tactually distinctive corner they can be inserted with greater accuracy. Token collection devices that are designed to accommodate tokens which are perforated can allow a person to distinguish more readily between tokens and common coins. Place accessible gates and fare vending machines in close proximity to other accessible elements when feasible so the facility is easier to use.
+707.2 Clear Floor or Ground Space. A clear floor or ground space complying with 305 shall be provided.
+EXCEPTION: Clear floor or ground space shall not be required at drive-up only automatic teller machines and fare machines.
+707.3 Operable Parts. Operable parts shall comply with 309. Unless a clear or correct key is provided, each operable part shall be able to be differentiated by sound or touch, without activation.
+EXCEPTION: Drive-up only automatic teller machines and fare machines shall not be required to comply with 309.2 and 309.3.
+707.4 Privacy. Automatic teller machines shall provide the opportunity for the same degree of privacy of input and output available to all individuals.
+Advisory 707.4 Privacy.
+In addition to people who are blind or visually impaired, people with limited reach who use wheelchairs or have short stature, who cannot effectively block the ATM screen with their bodies, may prefer to use speech output. Speech output users can benefit from an option to render the visible screen blank, thereby affording them greater personal security and privacy.
+707.5 Speech Output. Machines shall be speech enabled. Operating instructions and orientation, visible transaction prompts, user input verification, error messages, and all displayed information for full use shall be accessible to and independently usable by individuals with vision impairments. Speech shall be delivered through a mechanism that is readily available to all users, including but not limited to, an industry standard connector or a telephone handset. Speech shall be recorded or digitized human, or synthesized.
+EXCEPTIONS:
+- Audible tones shall be permitted instead of speech for visible output that is not displayed for security purposes, including but not limited to, asterisks representing personal identification numbers.
+- Advertisements and other similar information shall not be required to be audible unless they convey information that can be used in the transaction being conducted.
+- Where speech synthesis cannot be supported, dynamic alphabetic output shall not be required to be audible.
+Advisory 707.5 Speech Output.
+If an ATM provides additional functions such as dispensing coupons, selling theater tickets, or providing copies of monthly statements, all such functions must be available to customers using speech output. To avoid confusion at the ATM, the method of initiating the speech mode should be easily discoverable and should not require specialized training. For example, if a telephone handset is provided, lifting the handset can initiate the speech mode.
+707.5.1 User Control. Speech shall be capable of being repeated or interrupted. Volume control shall be provided for the speech function.
+EXCEPTION: Speech output for any single function shall be permitted to be automatically interrupted when a transaction is selected.
+707.5.2 Receipts. Where receipts are provided, speech output devices shall provide audible balance inquiry information, error messages, and all other information on the printed receipt necessary to complete or verify the transaction.
+EXCEPTIONS:
+- Machine location, date and time of transaction, customer account number, and the machine identifier shall not be required to be audible.
+- Information on printed receipts that duplicates information available on-screen shall not be required to be presented in the form of an audible receipt.
+- Printed copies of bank statements and checks shall not be required to be audible.
+707.6 Input. Input devices shall comply with 707.6.
+707.6.1 Input Controls. At least one tactilely discernible input control shall be provided for each function. Where provided, key surfaces not on active areas of display screens, shall be raised above surrounding surfaces. Where membrane keys are the only method of input, each shall be tactilely discernable from surrounding surfaces and adjacent keys.
+707.6.2 Numeric Keys. Numeric keys shall be arranged in a 12-key ascending or descending telephone keypad layout. The number five key shall be tactilely distinct from the other keys.
+Advisory 707.6.2 Numeric Keys.
+Telephone keypads and computer keyboards differ in one significant feature, ascending versus descending numerical order. Both types of keypads are acceptable, provided the computer-style keypad is organized similarly to the number pad located at the right on most computer keyboards, and does not resemble the line of numbers located above the computer keys.
+[Figure: Numeric Key Layout — Figure(a) shows a 12-key number pad ascending layout. Figure (b) shows a 12-key descending number pad layout]
+707.6.3 Function Keys. Function keys shall comply with 707.6.3.
+707.6.3.1 Contrast. Function keys shall contrast visually from background surfaces. Characters and symbols on key surfaces shall contrast visually from key surfaces. Visual contrast shall be either light-on-dark or dark-on-light.
+EXCEPTION: Tactile symbols required by 707.6.3.2 shall not be required to comply with 707.6.3.1.
+707.6.3.2 Tactile Symbols. Function key surfaces shall have tactile symbols as follows: Enter or Proceed key: raised circle; Clear or Correct key: raised left arrow; Cancel key: raised letter ex; Add Value key: raised plus sign; Decrease Value key: raised minus sign.
+707.7 Display Screen. The display screen shall comply with 707.7.
+EXCEPTION: Drive-up only automatic teller machines and fare machines shall not be required to comply with 707.7.1.
+707.7.1 Visibility. The display screen shall be visible from a point located 40 inches (1015 mm) above the center of the clear floor space in front of the machine.
+707.7.2 Characters. Characters displayed on the screen shall be in a sans serif font. Characters shall be 3/16 inch (4.8 mm) high minimum based on the uppercase letter “I”. Characters shall contrast with their background with either light characters on a dark background or dark characters on a light background.
+707.8 Braille Instructions. Braille instructions for initiating the speech mode shall be provided. Braille shall comply with 703.3.

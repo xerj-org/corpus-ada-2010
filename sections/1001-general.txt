@@ -1,0 +1,7 @@
+1001 General
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#1001-general (fetched 2026-10-04)
+
+1001.1 Scope. The provisions of Chapter 10 shall apply where required by Chapter 2 or where referenced by a requirement in this document.
+Advisory 1001.1 Scope.
+Unless otherwise modified or specifically addressed in Chapter 10, all other ADAAG provisions apply to the design and construction of recreation facilities and elements. The provisions in Section 1001.1 apply wherever these elements are provided. For example, office buildings may contain a room with exercise equipment to which these sections would apply.

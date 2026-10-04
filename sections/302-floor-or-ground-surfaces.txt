@@ -1,0 +1,16 @@
+302 Floor or Ground Surfaces
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#302-floor-or-ground-surfaces (fetched 2026-10-04)
+
+302.1 General. Floor and ground surfaces shall be stable, firm, and slip resistant and shall comply with 302.
+EXCEPTIONS:
+- Within animal containment areas, floor and ground surfaces shall not be required to be stable, firm, and slip resistant.
+- Areas of sport activity shall not be required to comply with 302.
+Advisory 302.1 General.
+A stable surface is one that remains unchanged by contaminants or applied force, so that when the contaminant or force is removed, the surface returns to its original condition. A firm surface resists deformation by either indentations or particles moving on its surface. A slip-resistant surface provides sufficient frictional counterforce to the forces exerted in walking to permit safe ambulation.
+302.2 Carpet. Carpet or carpet tile shall be securely attached and shall have a firm cushion, pad, or backing or no cushion or pad. Carpet or carpet tile shall have a level loop, textured loop, level cut pile, or level cut/uncut pile texture. Pile height shall be 1/2 inch (13 mm) maximum. Exposed edges of carpet shall be fastened to floor surfaces and shall have trim on the entire length of the exposed edge. Carpet edge trim shall comply with 303.
+Advisory 302.2 Carpet.
+Carpets and permanently affixed mats can significantly increase the amount of force (roll resistance) needed to propel a wheelchair over a surface. The firmer the carpeting and backing, the lower the roll resistance. A pile thickness up to 1/2 inch (13 mm) (measured to the backing, cushion, or pad) is allowed, although a lower pile provides easier wheelchair maneuvering. If a backing, cushion or pad is used, it must be firm. Preferably, carpet pad should not be used because the soft padding increases roll resistance.
+[Figure: Carpet Pile Height — Carpet is shown in cross section with a pile height of 1/2 inch (13 mm) maximum, measured from the backing.]
+302.3 Openings. Openings in floor or ground surfaces shall not allow passage of a sphere more than 1/2 inch (13 mm) diameter except as allowed in 407.4.3, 409.4.3, 410.4, 810.5.3 and 810.10. Elongated openings shall be placed so that the long dimension is perpendicular to the dominant direction of travel.
+[Figure: Elongated Openings in Floor or Ground Surfaces — Elongated openings, such as in a grating, are shown in plan view with openings 1/2 inch (13 mm) maximum in one dimension. The other dimension is longer (unspecified) and is perpendicular to the dominant direction of travel.]

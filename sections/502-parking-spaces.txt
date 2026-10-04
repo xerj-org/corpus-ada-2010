@@ -1,0 +1,34 @@
+502 Parking Spaces
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#502-parking-spaces (fetched 2026-10-04)
+
+502.1 General. Car and van parking spaces shall comply with 502. Where parking spaces are marked with lines, width measurements of parking spaces and access aisles shall be made from the centerline of the markings.
+EXCEPTION: Where parking spaces or access aisles are not adjacent to another parking space or access aisle, measurements shall be permitted to include the full width of the line defining the parking space or access aisle.
+502.2 Vehicle Spaces. Car parking spaces shall be 96 inches (2440 mm) wide minimum and van parking spaces shall be 132 inches (3350 mm) wide minimum, shall be marked to define the width, and shall have an adjacent access aisle complying with 502.3.
+EXCEPTION: Van parking spaces shall be permitted to be 96 inches (2440 mm) wide minimum where the access aisle is 96 inches (2440 mm) wide minimum.
+[Figure: Vehicle Parking Spaces — Two marked parking spaces are shown in plan view.  The car space is 96 inches (2440 mm) wide minimum and the van space is 132 inches (3350 mm) wide minimum, with an access aisle between them.]
+502.3 Access Aisle. Access aisles serving parking spaces shall comply with 502.3. Access aisles shall adjoin an accessible route. Two parking spaces shall be permitted to share a common access aisle.
+Advisory 502.3 Access Aisle.
+Accessible routes must connect parking spaces to accessible entrances. In parking facilities where the accessible route must cross vehicular traffic lanes, marked crossings enhance pedestrian safety, particularly for people using wheelchairs and other mobility aids. Where possible, it is preferable that the accessible route not pass behind parked vehicles.
+[Figure: Parking Space Access Aisle — A van and a car parking space are shown in plan view sharing an access aisle.  The access aisle is shown to be 60 inches (1525 mm) wide minimum and as long as the parking space.  The entire length of the aisle area is to be marked.]
+502.3.1 Width. Access aisles serving car and van parking spaces shall be 60 inches (1525 mm) wide minimum.
+502.3.2 Length. Access aisles shall extend the full length of the parking spaces they serve.
+502.3.3 Marking. Access aisles shall be marked so as to discourage parking in them.
+Advisory 502.3.3 Marking.
+The method and color of marking are not specified by these requirements but may be addressed by State or local laws or regulations. Because these requirements permit the van access aisle to be as wide as a parking space, it is important that the aisle be clearly marked.
+502.3.4 Location. Access aisles shall not overlap the vehicular way. Access aisles shall be permitted to be placed on either side of the parking space except for angled van parking spaces which shall have access aisles located on the passenger side of the parking spaces.
+Advisory 502.3.4 Location.
+Wheelchair lifts typically are installed on the passenger side of vans. Many drivers, especially those who operate vans, find it more difficult to back into parking spaces than to back out into comparatively unrestricted vehicular lanes. For this reason, where a van and car share an access aisle, consider locating the van space so that the access aisle is on the passenger side of the van space.
+502.4 Floor or Ground Surfaces. Parking spaces and access aisles serving them shall comply with 302. Access aisles shall be at the same level as the parking spaces they serve. Changes in level are not permitted.
+EXCEPTION: Slopes not steeper than 1:48 shall be permitted.
+Advisory 502.4 Floor or Ground Surfaces.
+Access aisles are required to be nearly level in all directions to provide a surface for wheelchair transfer to and from vehicles. The exception allows sufficient slope for drainage. Built-up curb ramps are not permitted to project into access aisles and parking spaces because they would create slopes greater than 1:48.
+502.5 Vertical Clearance. Parking spaces for vans and access aisles and vehicular routes serving them shall provide a vertical clearance of 98 inches (2490 mm) minimum.
+Advisory 502.5 Vertical Clearance.
+Signs provided at entrances to parking facilities informing drivers of clearances and the location of van accessible parking spaces can provide useful customer assistance.
+502.6 Identification. Parking space identification signs shall include the International Symbol of Accessibility complying with 703.7.2.1. Signs identifying van parking spaces shall contain the designation “van accessible.” Signs shall be 60 inches (1525 mm) minimum above the finish floor or ground surface measured to the bottom of the sign.
+Advisory 502.6 Identification.
+The required “van accessible” designation is intended to be informative, not restrictive, in identifying those spaces that are better suited for van use. Enforcement of motor vehicle laws, including parking privileges, is a local matter.
+502.7 Relationship to Accessible Routes. Parking spaces and access aisles shall be designed so that cars and vans, when parked, cannot obstruct the required clear width of adjacent accessible routes.
+Advisory 502.7 Relationship to Accessible Routes.
+Wheel stops are an effective way to prevent vehicle overhangs from reducing the clear width of accessible routes.

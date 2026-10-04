@@ -1,0 +1,9 @@
+222 Dressing, Fitting, and Locker Rooms
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#222-dressing-fitting-and-locker-rooms (fetched 2026-10-04)
+
+222.1 General. Where dressing rooms, fitting rooms, or locker rooms are provided, at least 5 percent, but no fewer than one, of each type of use in each cluster provided shall comply with 803.
+EXCEPTION: In alterations, where it is technically infeasible to provide rooms in accordance with 222.1, one room for each sex on each level shall comply with 803. Where only unisex rooms are provided, unisex rooms shall be permitted.
+Advisory 222.1 General.
+A “cluster” is a group of rooms proximate to one another. Generally, rooms in a cluster are within sight of, or adjacent to, one another. Different styles of design provide users varying levels of privacy and convenience. Some designs include private changing facilities that are close to core areas of the facility, while other designs use space more economically and provide only group dressing facilities. Regardless of the type of facility, dressing, fitting, and locker rooms should provide people with disabilities rooms that are equally private and convenient to those provided others. For example, in a physician’s office, if people without disabilities must traverse the full length of the office suite in clothing other than their street clothes, it is acceptable for people with disabilities to be asked to do the same.
+222.2 Coat Hooks and Shelves. Where coat hooks or shelves are provided in dressing, fitting or locker rooms without individual compartments, at least one of each type shall comply with 803.5. Where coat hooks or shelves are provided in individual compartments at least one of each type complying with 803.5 shall be provided in individual compartments in dressing, fitting, or locker rooms required to comply with 222.1.

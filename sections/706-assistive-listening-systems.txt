@@ -1,0 +1,16 @@
+706 Assistive Listening Systems
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#706-assistive-listening-systems (fetched 2026-10-04)
+
+706.1 General. Assistive listening systems required in assembly areas shall comply with 706.
+Advisory 706.1 General.
+Assistive listening systems are generally categorized by their mode of transmission. There are hard-wired systems and three types of wireless systems: induction loop, infrared, and FM radio transmission. Each has different advantages and disadvantages that can help determine which system is best for a given application. For example, an FM system may be better than an infrared system in some open-air assemblies since infrared signals are less effective in sunlight. On the other hand, an infrared system is typically a better choice than an FM system where confidential transmission is important because it will be contained within a given space.
+The technical standards for assistive listening systems describe minimum performance levels for volume, interference, and distortion. Sound pressure levels (SPL), expressed in decibels, measure output sound volume. Signal-to-noise ratio (SNR or S/N), also expressed in decibels, represents the relationship between the loudness of a desired sound (the signal) and the background noise in a space or piece of equipment. The higher the SNR, the more intelligible the signal. The peak clipping level limits the distortion in signal output produced when high-volume sound waves are manipulated to serve assistive listening devices.
+Selecting or specifying an effective assistive listening system for a large or complex venue requires assistance from a professional sound engineer. The Access Board has published technical assistance on assistive listening devices and systems.
+706.2 Receiver Jacks. Receivers required for use with an assistive listening system shall include a 1/8 inch (3.2 mm) standard mono jack.
+706.3 Receiver Hearing-Aid Compatibility. Receivers required to be hearing-aid compatible shall interface with telecoils in hearing aids through the provision of neckloops.
+Advisory 706.3 Receiver Hearing-Aid Compatibility.
+Neckloops and headsets that can be worn as neckloops are compatible with hearing aids. Receivers that are not compatible include earbuds, which may require removal of hearing aids, earphones, and headsets that must be worn over the ear, which can create disruptive interference in the transmission and can be uncomfortable for people wearing hearing aids.
+706.4 Sound Pressure Level. Assistive listening systems shall be capable of providing a sound pressure level of 110 dB minimum and 118 dB maximum with a dynamic range on the volume control of 50 dB.
+706.5 Signal-to-Noise Ratio. The signal-to-noise ratio for internally generated noise in assistive listening systems shall be 18 dB minimum.
+706.6 Peak Clipping Level. Peak clipping shall not exceed 18 dB of clipping relative to the peaks of speech.

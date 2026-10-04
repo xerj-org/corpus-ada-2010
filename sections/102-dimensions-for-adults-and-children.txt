@@ -1,0 +1,5 @@
+102 Dimensions for Adults and Children
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#102-dimensions-for-adults-and-children (fetched 2026-10-04)
+
+The technical requirements are based on adult dimensions and anthropometrics. In addition, this document includes technical requirements based on children’s dimensions and anthropometrics for drinking fountains, water closets, toilet compartments, lavatories and sinks, dining surfaces, and work surfaces.

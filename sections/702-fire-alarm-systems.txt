@@ -1,0 +1,6 @@
+702 Fire Alarm Systems
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#702-fire-alarm-systems (fetched 2026-10-04)
+
+702.1 General. Fire alarm systems shall have permanently installed audible and visible alarms complying with NFPA 72 (1999 or 2002 edition) (incorporated by reference, see “Referenced Standards” in Chapter 1), except that the maximum allowable sound level of audible notification appliances complying with section 4-3.2.1 of NFPA 72 (1999 edition) shall have a sound level no more than 110 dB at the minimum hearing distance from the audible appliance. In addition, alarms in guest rooms required to provide communication features shall comply with sections 4-3 and 4-4 of NFPA 72 (1999 edition) or sections 7.4 and 7.5 of NFPA 72 (2002 edition).
+EXCEPTION: Fire alarm systems in medical care facilities shall be permitted to be provided in accordance with industry practice.

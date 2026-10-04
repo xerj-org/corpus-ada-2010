@@ -1,0 +1,34 @@
+217 Telephones
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#217-telephones (fetched 2026-10-04)
+
+217.1 General. Where coin-operated public pay telephones, coinless public pay telephones, public closed-circuit telephones, public courtesy phones, or other types of public telephones are provided, public telephones shall be provided in accordance with 217 for each type of public telephone provided. For purposes of this section, a bank of telephones shall be considered to be two or more adjacent telephones.
+Advisory 217.1 General.
+These requirements apply to all types of public telephones including courtesy phones at airports and rail stations that provide a free direct connection to hotels, transportation services, and tourist attractions.
+217.2 Wheelchair Accessible Telephones. Where public telephones are provided, wheelchair accessible telephones complying with 704.2 shall be provided in accordance with Table 217.2.
+Number of Telephones Provided on a Floor, Level, or Exterior Site | Minimum Number of Required Wheelchair Accessible Telephones
+1 or more single units | 1 per floor, level, and exterior site
+1 bank | 1 per floor, level, and exterior site
+2 or more banks | 1 per bank
+EXCEPTION: Drive-up only public telephones shall not be required to comply with 217.2.
+217.3 Volume Controls. All public telephones shall have volume controls complying with 704.3.
+217.4 TTYs. TTYs complying with 704.4 shall be provided in accordance with 217.4.
+Advisory 217.4 TTYs.
+Separate requirements are provided based on the number of public pay telephones provided at a bank of telephones, within a floor, a building, or on a site. In some instances one TTY can be used to satisfy more than one of these requirements. For example, a TTY required for a bank can satisfy the requirements for a building. However, the requirement for at least one TTY on an exterior site cannot be met by installing a TTY in a bank inside a building. Consideration should be given to phone systems that can accommodate both digital and analog transmissions for compatibility with digital and analog TTYs.
+217.4.1 Bank Requirement. Where four or more public pay telephones are provided at a bank of telephones, at least one public TTY complying with 704.4 shall be provided at that bank.
+EXCEPTION: TTYs shall not be required at banks of telephones located within 200 feet (61 m) of, and on the same floor as, a bank containing a public TTY.
+217.4.2 Floor Requirement. TTYs in public buildings shall be provided in accordance with 217.4.2.1. TTYs in private buildings shall be provided in accordance with 217.4.2.2.
+217.4.2.1 Public Buildings. Where at least one public pay telephone is provided on a floor of a public building, at least one public TTY shall be provided on that floor.
+217.4.2.2 Private Buildings. Where four or more public pay telephones are provided on a floor of a private building, at least one public TTY shall be provided on that floor.
+217.4.3 Building Requirement. TTYs in public buildings shall be provided in accordance with 217.4.3.1. TTYs in private buildings shall be provided in accordance with 217.4.3.2.
+217.4.3.1 Public Buildings. Where at least one public pay telephone is provided in a public building, at least one public TTY shall be provided in the building. Where at least one public pay telephone is provided in a public use area of a public building, at least one public TTY shall be provided in the public building in a public use area.
+217.4.3.2 Private Buildings. Where four or more public pay telephones are provided in a private building, at least one public TTY shall be provided in the building.
+217.4.4 Exterior Site Requirement. Where four or more public pay telephones are provided on an exterior site, at least one public TTY shall be provided on the site.
+217.4.5 Rest Stops, Emergency Roadside Stops, and Service Plazas. Where at least one public pay telephone is provided at a public rest stop, emergency roadside stop, or service plaza, at least one public TTY shall be provided.
+217.4.6 Hospitals. Where at least one public pay telephone is provided serving a hospital emergency room, hospital recovery room, or hospital waiting room, at least one public TTY shall be provided at each location.
+217.4.7 Transportation Facilities. In transportation facilities, in addition to the requirements of 217.4.1 through 217.4.4, where at least one public pay telephone serves a particular entrance to a bus or rail facility, at least one public TTY shall be provided to serve that entrance. In airports, in addition to the requirements of 217.4.1 through 217.4.4, where four or more public pay telephones are located in a terminal outside the security areas, a concourse within the security areas, or a baggage claim area in a terminal, at least one public TTY shall be provided in each location.
+217.4.8 Detention and Correctional Facilities. In detention and correctional facilities, where at least one pay telephone is provided in a secured area used only by detainees or inmates and security personnel, at least one TTY shall be provided in at least one secured area.
+217.5 Shelves for Portable TTYs. Where a bank of telephones in the interior of a building consists of three or more public pay telephones, at least one public pay telephone at the bank shall be provided with a shelf and an electrical outlet in accordance with 704.5.
+EXCEPTIONS:
+- Secured areas of detention and correctional facilities where shelves and outlets are prohibited for purposes of security or safety shall not be required to comply with 217.5.
+- The shelf and electrical outlet shall not be required at a bank of telephones with a TTY.

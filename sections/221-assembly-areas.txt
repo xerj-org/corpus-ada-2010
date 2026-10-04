@@ -1,0 +1,51 @@
+221 Assembly Areas
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#221-assembly-areas (fetched 2026-10-04)
+
+221.1 General. Assembly areas shall provide wheelchair spaces, companion seats, and designated aisle seats complying with 221 and 802 . In addition, lawn seating shall comply with 221.5. See additional requirements at 28 CFR 35.151(g) and 28 CFR 36.406(f) .
+221.2 Wheelchair Spaces. Wheelchair spaces complying with 221.2 shall be provided in assembly areas with fixed seating.
+221.2.1 Number and Location. Wheelchair spaces shall be provided complying with 221.2.1.
+221.2.1.1 General Seating. Wheelchair spaces complying with 802.1 shall be provided in accordance with Table 221.2.1.1.
+Number of Seats | Minimum Number of Required Wheelchair Spaces
+4 to 25 | 1
+26 to 50 | 2
+51 to 150 | 4
+151 to 300 | 5
+301 to 500 | 6
+501 to 5000 | 6, plus 1 for each 150, or fraction thereof, between 501 through 5000
+5001 and over | 36, plus 1 for each 200, or fraction thereof, over 5000
+221.2.1.2 Luxury Boxes, Club Boxes, and Suites in Arenas, Stadiums, and Grandstands. In each luxury box, club box, and suite within arenas, stadiums, and grandstands, wheelchair spaces complying with 802.1 shall be provided in accordance with Table 221.2.1.1.
+Advisory 221.2.1.2 Luxury Boxes, Club Boxes, and Suites in Arenas, Stadiums, and Grandstands.
+The number of wheelchair spaces required in luxury boxes, club boxes, and suites within an arena, stadium, or grandstand is to be calculated box by box and suite by suite.
+221.2.1.3 Other Boxes. In boxes other than those required to comply with 221.2.1.2, the total number of wheelchair spaces required shall be determined in accordance with Table 221.2.1.1. Wheelchair spaces shall be located in not less than 20 percent of all boxes provided. Wheelchair spaces shall comply with 802.1.
+Advisory 221.2.1.3 Other Boxes.
+The provision for seating in “other boxes” includes box seating provided in facilities such as performing arts auditoria where tiered boxes are designed for spatial and acoustical purposes. The number of wheelchair spaces required in boxes covered by 221.2.1.3 is calculated based on the total number of seats provided in these other boxes. The resulting number of wheelchair spaces must be located in no fewer than 20% of the boxes covered by this section. For example, a concert hall has 20 boxes, each of which contains 10 seats, totaling 200 seats. In this example, 5 wheelchair spaces would be required, and they must be placed in at least 4 of the boxes. Additionally, because the wheelchair spaces must also meet the dispersion requirements of 221.2.3, the boxes containing these wheelchair spaces cannot all be located in one area unless an exception to the dispersion requirements applies.
+221.2.1.4 Team or Player Seating. At least one wheelchair space complying with 802.1 shall be provided in team or player seating areas serving areas of sport activity.
+EXCEPTION: Wheelchair spaces shall not be required in team or player seating areas serving bowling lanes not required to comply with 206.2.11.
+221.2.2 Integration. Wheelchair spaces shall be an integral part of the seating plan.
+Advisory 221.2.2 Integration.
+The requirement that wheelchair spaces be an “integral part of the seating plan” means that wheelchair spaces must be placed within the footprint of the seating area. Wheelchair spaces cannot be segregated from seating areas. For example, it would be unacceptable to place only the wheelchair spaces, or only the wheelchair spaces and their associated companion seats, outside the seating areas defined by risers in an assembly area.
+221.2.3 Lines of Sight and Dispersion. Wheelchair spaces shall provide lines of sight complying with 802.2 and shall comply with 221.2.3. In providing lines of sight, wheelchair spaces shall be dispersed. Wheelchair spaces shall provide spectators with choices of seating locations and viewing angles that are substantially equivalent to, or better than, the choices of seating locations and viewing angles available to all other spectators. When the number of wheelchair spaces required by 221.2.1 has been met, further dispersion shall not be required.
+EXCEPTION: Wheelchair spaces in team or player seating areas serving areas of sport activity shall not be required to comply with 221.2.3.
+Advisory 221.2.3 Lines of Sight and Dispersion.
+Consistent with the overall intent of the ADA, individuals who use wheelchairs must be provided equal access so that their experience is substantially equivalent to that of other members of the audience. Thus, while individuals who use wheelchairs need not be provided with the best seats in the house, neither may they be relegated to the worst.
+221.2.3.1 Horizontal Dispersion. Wheelchair spaces shall be dispersed horizontally.
+EXCEPTIONS:
+- Horizontal dispersion shall not be required in assembly areas with 300 or fewer seats if the companion seats required by 221.3 and wheelchair spaces are located within the 2nd or 3rd quartile of the total row length. Intermediate aisles shall be included in determining the total row length. If the row length in the 2nd and 3rd quartile of a row is insufficient to accommodate the required number of companion seats and wheelchair spaces, the additional companion seats and wheelchair spaces shall be permitted to be located in the 1st and 4th quartile of the row.
+- In row seating, two wheelchair spaces shall be permitted to be located side-by-side.
+Advisory 221.2.3.1 Horizontal Dispersion.
+Horizontal dispersion of wheelchair spaces is the placement of spaces in an assembly facility seating area from side-to-side or, in the case of an arena or stadium, around the field of play or performance area.
+221.2.3.2 Vertical Dispersion. Wheelchair spaces shall be dispersed vertically at varying distances from the screen, performance area, or playing field. In addition, wheelchair spaces shall be located in each balcony or mezzanine that is located on an accessible route.
+EXCEPTIONS:
+- Vertical dispersion shall not be required in assembly areas with 300 or fewer seats if the wheelchair spaces provide viewing angles that are equivalent to, or better than, the average viewing angle provided in the facility.
+- In bleachers, wheelchair spaces shall not be required to be provided in rows other than rows at points of entry to bleacher seating.
+Advisory 221.2.3.2 Vertical Dispersion.
+When wheelchair spaces are dispersed vertically in an assembly facility they are placed at different locations within the seating area from front-to-back so that the distance from the screen, stage, playing field, area of sports activity, or other focal point is varied among wheelchair spaces.
+Advisory 221.2.3.2 Vertical Dispersion Exception 2.
+Points of entry to bleacher seating may include, but are not limited to, cross aisles, concourses, vomitories, and entrance ramps and stairs. Vertical, center, or side aisles adjoining bleacher seating that are stepped or tiered are not considered entry points.
+221.3 Companion Seats. At least one companion seat complying with 802.3 shall be provided for each wheelchair space required by 221.2.1.
+221.4 Designated Aisle Seats. At least 5 percent of the total number of aisle seats provided shall comply with 802.4 and shall be the aisle seats located closest to accessible routes.
+EXCEPTION: Team or player seating areas serving areas of sport activity shall not be required to comply with 221.4.
+Advisory 221.4 Designated Aisle Seats.
+When selecting which aisle seats will meet the requirements of 802.4, those aisle seats which are closest to, not necessarily on, accessible routes must be selected first. For example, an assembly area has two aisles (A and B) serving seating areas with an accessible route connecting to the top and bottom of Aisle A only. The aisle seats chosen to meet 802.4 must be those at the top and bottom of Aisle A, working toward the middle. Only when all seats on Aisle A would not meet the five percent minimum would seats on Aisle B be designated.
+221.5 Lawn Seating. Lawn seating areas and exterior overflow seating areas, where fixed seats are not provided, shall connect to an accessible route.

@@ -1,0 +1,8 @@
+204 Protruding Objects
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#204-protruding-objects (fetched 2026-10-04)
+
+204.1 General. Protruding objects on circulation paths shall comply with 307.
+EXCEPTIONS:
+- Within areas of sport activity, protruding objects on circulation paths shall not be required to comply with 307.
+- Within play areas, protruding objects on circulation paths shall not be required to comply with 307 provided that ground level accessible routes provide vertical clearance in compliance with 1008.2.

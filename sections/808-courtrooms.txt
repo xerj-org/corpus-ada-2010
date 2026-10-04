@@ -1,0 +1,9 @@
+808 Courtrooms
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#808-courtrooms (fetched 2026-10-04)
+
+808.1 General. Courtrooms shall comply with 808.
+808.2 Turning Space. Where provided, areas that are raised or depressed and accessed by ramps or platform lifts with entry ramps shall provide unobstructed turning space complying with 304.
+808.3 Clear Floor Space. Each jury box and witness stand shall have, within its defined area, clear floor space complying with 305.
+EXCEPTION: In alterations, wheelchair spaces are not required to be located within the defined area of raised jury boxes or witness stands and shall be permitted to be located outside these spaces where ramp or platform lift access poses a hazard by restricting or projecting into a means of egress required by the appropriate administrative authority.
+808.4 Judges’ Benches and Courtroom Stations. Judges’ benches, clerks’ stations, bailiffs’ stations, deputy clerks’ stations, court reporters’ stations and litigants’ and counsel stations shall comply with 902.

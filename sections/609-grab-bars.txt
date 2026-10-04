@@ -1,0 +1,17 @@
+609 Grab Bars
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#609-grab-bars (fetched 2026-10-04)
+
+609.1 General. Grab bars in toilet facilities and bathing facilities shall comply with 609.
+609.2 Cross Section. Grab bars shall have a cross section complying with 609.2.1 or 609.2.2.
+609.2.1 Circular Cross Section. Grab bars with circular cross sections shall have an outside diameter of 1 1/4 inches (32 mm) minimum and 2 inches (51 mm) maximum.
+609.2.2 Non-Circular Cross Section. Grab bars with non-circular cross sections shall have a cross-section dimension of 2 inches (51 mm) maximum and a perimeter dimension of 4 inches (100 mm) minimum and 4.8 inches (120 mm) maximum.
+[Figure: Grab Bar Non-Circular Cross Section — Figure (a) shows a handrail with an approximately square cross section and figure (c) shows an elliptical cross section.  The largest cross section dimension is 2 inches (51 mm) maximum.  The perimeter dimension must be 4 to 4.8 inches (100 to 120 mm).]
+609.3 Spacing. The space between the wall and the grab bar shall be 1 1/2 inches (38 mm). The space between the grab bar and projecting objects below and at the ends shall be 1 1/2 inches (38 mm) minimum. The space between the grab bar and projecting objects above shall be 12 inches (305 mm) minimum.
+EXCEPTION: The space between the grab bars and shower controls, shower fittings, and other grab bars above shall be permitted to be 1 1/2 inches (38 mm) minimum.
+[Figure: Spacing of Grab Bars — A grab bar is shown with a projecting object mounted above and below it.  Projecting objects must spaced 1 ½ inch (38 mm) minimum below and 12 inches (305 mm) minimum above the grab bar.  Recessed objects can be spaced immediately above and below.]
+609.4 Position of Grab Bars. Grab bars shall be installed in a horizontal position, 33 inches (840 mm) minimum and 36 inches (915 mm) maximum above the finish floor measured to the top of the gripping surface, except that at water closets for children’s use complying with 604.9, grab bars shall be installed in a horizontal position 18 inches (455 mm) minimum and 27 inches (685 mm) maximum above the finish floor measured to the top of the gripping surface. The height of the lower grab bar on the back wall of a bathtub shall comply with 607.4.1.1 or 607.4.2.1.
+609.5 Surface Hazards. Grab bars and any wall or other surfaces adjacent to grab bars shall be free of sharp or abrasive elements and shall have rounded edges.
+609.6 Fittings. Grab bars shall not rotate within their fittings.
+609.7 Installation. Grab bars shall be installed in any manner that provides a gripping surface at the specified locations and that does not obstruct the required clear floor space.
+609.8 Structural Strength. Allowable stresses shall not be exceeded for materials used when a vertical or horizontal force of 250 pounds (1112 N) is applied at any point on the grab bar, fastener, mounting device, or supporting structure.

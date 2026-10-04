@@ -1,0 +1,29 @@
+704 Telephones
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#704-telephones (fetched 2026-10-04)
+
+704.1 General. Public telephones shall comply with 704.
+704.2 Wheelchair Accessible Telephones. Wheelchair accessible telephones shall comply with 704.2.
+704.2.1 Clear Floor or Ground Space. A clear floor or ground space complying with 305 shall be provided. The clear floor or ground space shall not be obstructed by bases, enclosures, or seats.
+Advisory 704.2.1 Clear Floor or Ground Space.
+Because clear floor and ground space is required to be unobstructed, telephones, enclosures and related telephone book storage cannot encroach on the required clear floor or ground space and must comply with the provisions for protruding objects. (See Section 307).
+704.2.1.1 Parallel Approach. Where a parallel approach is provided, the distance from the edge of the telephone enclosure to the face of the telephone unit shall be 10 inches (255 mm) maximum.
+[Figure: Parallel Approach to Telephone — The maximum distance from the face of the telephone to the edge of the telephone enclosure is 10 inches (255 mm).  Clear floor space for a parallel approach is located in front of the enclosure.]
+704.2.1.2 Forward Approach. Where a forward approach is provided, the distance from the front edge of a counter within the telephone enclosure to the face of the telephone unit shall be 20 inches (510 mm) maximum.
+[Figure: Forward Approach to Telephone — The maximum distance from the front edge of a counter within the telephone enclosure to the face of the telephone is 20 inches (510 mm).  The telephone enclosure overlaps the clear floor space for a forward approach.]
+704.2.2 Operable Parts. Operable parts shall comply with 309. Telephones shall have push-button controls where such service is available.
+704.2.3 Telephone Directories. Telephone directories, where provided, shall be located in accordance with 309.
+704.2.4 Cord Length. The cord from the telephone to the handset shall be 29 inches (735 mm) long minimum.
+704.3 Volume Control Telephones. Public telephones required to have volume controls shall be equipped with a receive volume control that provides a gain adjustable up to 20 dB minimum. For incremental volume control, provide at least one intermediate step of 12 dB of gain minimum. An automatic reset shall be provided.
+Advisory 704.3 Volume Control Telephones.
+Amplifiers on pay phones are located in the base or the handset or are built into the telephone. Most are operated by pressing a button or key. If the microphone in the handset is not being used, a mute button that temporarily turns off the microphone can also reduce the amount of background noise which the person hears in the earpiece. If a volume adjustment is provided that allows the user to set the level anywhere from the base volume to the upper requirement of 20 dB, there is no need to specify a lower limit. If a stepped volume control is provided, one of the intermediate levels must provide 12 dB of gain. Consider compatibility issues when matching an amplified handset with a phone or phone system. Amplified handsets that can be switched with pay telephone handsets are available. Portable and in-line amplifiers can be used with some phones but are not practical at most public phones covered by these requirements.
+704.4 TTYs. TTYs required at a public pay telephone shall be permanently affixed within, or adjacent to, the telephone enclosure. Where an acoustic coupler is used, the telephone cord shall be sufficiently long to allow connection of the TTY and the telephone receiver.
+Advisory 704.4 TTYs.
+Ensure that sufficient electrical service is available where TTYs are to be installed.
+704.4.1 Height. When in use, the touch surface of TTY keypads shall be 34 inches (865 mm) minimum above the finish floor.
+EXCEPTION: Where seats are provided, TTYs shall not be required to comply with 704.4.1.
+Advisory 704.4.1 Height.
+A telephone with a TTY installed underneath cannot also be a wheelchair accessible telephone because the required 34 inches (865 mm) minimum keypad height can causes the highest operable part of the telephone, usually the coin slot, to exceed the maximum permitted side and forward reach ranges. (See Section 308).
+Advisory 704.4.1 Height Exception.
+While seats are not required at TTYs, reading and typing at a TTY is more suited to sitting than standing. Facilities that often provide seats at TTY’s include, but are not limited to, airports and other passenger terminals or stations, courts, art galleries, and convention centers.
+704.5 TTY Shelf. Public pay telephones required to accommodate portable TTYs shall be equipped with a shelf and an electrical outlet within or adjacent to the telephone enclosure. The telephone handset shall be capable of being placed flush on the surface of the shelf. The shelf shall be capable of accommodating a TTY and shall have 6 inches (150 mm) minimum vertical clearance above the area where the TTY is to be placed.

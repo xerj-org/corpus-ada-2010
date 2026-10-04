@@ -1,0 +1,22 @@
+1005 Fishing Piers and Platforms
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#1005-fishing-piers-and-platforms (fetched 2026-10-04)
+
+1005.1 Accessible Routes. Accessible routes serving fishing piers and platforms, including gangways and floating piers, shall comply with Chapter 4.
+EXCEPTIONS:
+- Accessible routes serving floating fishing piers and platforms shall be permitted to use Exceptions 1, 2, 5, 6, 7 and 8 in 1003.2.1.
+- Where the total length of the gangway or series of gangways serving as part of a required accessible route is 30 feet (9145 mm) minimum, gangways shall not be required to comply with 405.2.
+1005.2 Railings. Where provided, railings, guards, or handrails shall comply with 1005.2.
+1005.2.1 Height. At least 25 percent of the railings, guards, or handrails shall be 34 inches (865 mm) maximum above the ground or deck surface.
+EXCEPTION: Where a guard complying with sections 1003.2.12.1 and 1003.2.12.2 of the International Building Code (2000 edition) or sections 1012.2 and 1012.3 of the International Building Code (2003 edition) (incorporated by reference, see “Referenced Standards” in Chapter 1) is provided, the guard shall not be required to comply with 1005.2.1.
+1005.2.1.1 Dispersion. Railings, guards, or handrails required to comply with 1005.2.1 shall be dispersed throughout the fishing pier or platform.
+Advisory 1005.2.1.1 Dispersion.
+Portions of the railings that are lowered to provide fishing opportunities for persons with disabilities must be located in a variety of locations on the fishing pier or platform to give people a variety of locations to fish. Different fishing locations may provide varying water depths, shade (at certain times of the day), vegetation, and proximity to the shoreline or bank.
+1005.3 Edge Protection. Where railings, guards, or handrails complying with 1005.2 are provided, edge protection complying with 1005.3.1 or 1005.3.2 shall be provided.
+Advisory 1005.3 Edge Protection.
+Edge protection is required only where railings, guards, or handrails are provided on a fishing pier or platform. Edge protection will prevent wheelchairs or other mobility devices from slipping off the fishing pier or platform. Extending the deck of the fishing pier or platform 12 inches (305 mm) where the 34 inch (865 mm) high railing is provided is an alternative design, permitting individuals using wheelchairs or other mobility devices to pull into a clear space and move beyond the face of the railing. In such a design, curbs or barriers are not required.
+1005.3.1 Curb or Barrier. Curbs or barriers shall extend 2 inches (51 mm) minimum above the surface of the fishing pier or platform.
+1005.3.2 Extended Ground or Deck Surface. The ground or deck surface shall extend 12 inches (305 mm) minimum beyond the inside face of the railing. Toe clearance shall be provided and shall be 30 inches (760 mm) wide minimum and 9 inches (230 mm) minimum above the ground or deck surface beyond the railing.
+[Figure: Extended Ground or Deck Surface at Fishing Piers and Platforms — Figure (a) is a side elevation drawing and figure (b) is a front elevation drawing of edge protection at fishing piers. Where a railing or guard is 34 inches (865 mm) high maximum, edge protection is not required if the deck surface extends 12 inches (305 mm) minimum beyond the inside face of the railing.  Toe clearance must be at least 9 inches (230 mm) high beyond the railing and at least 30 inches (760 mm) wide.]
+1005.4 Clear Floor or Ground Space. At each location where there are railings, guards, or handrails complying with 1005.2.1, a clear floor or ground space complying with 305 shall be provided. Where there are no railings, guards, or handrails, at least one clear floor or ground space complying with 305 shall be provided on the fishing pier or platform.
+1005.5 Turning Space. At least one turning space complying with 304.3 shall be provided on fishing piers and platforms.

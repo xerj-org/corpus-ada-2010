@@ -1,0 +1,11 @@
+238 Golf Facilities
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#238-golf-facilities (fetched 2026-10-04)
+
+238.1 General. Golf facilities shall comply with 238.
+238.2 Golf Courses. Golf courses shall comply with 238.2.
+238.2.1 Teeing Grounds. Where one teeing ground is provided for a hole, the teeing ground shall be designed and constructed so that a golf car can enter and exit the teeing ground. Where two teeing grounds are provided for a hole, the forward teeing ground shall be designed and constructed so that a golf car can enter and exit the teeing ground. Where three or more teeing grounds are provided for a hole, at least two teeing grounds, including the forward teeing ground, shall be designed and constructed so that a golf car can enter and exit each teeing ground.
+EXCEPTION: In existing golf courses, the forward teeing ground shall not be required to be one of the teeing grounds on a hole designed and constructed so that a golf car can enter and exit the teeing ground where compliance is not feasible due to terrain.
+238.2.2 Putting Greens. Putting greens shall be designed and constructed so that a golf car can enter and exit the putting green.
+238.2.3 Weather Shelters. Where provided, weather shelters shall be designed and constructed so that a golf car can enter and exit the weather shelter and shall comply with 1006.4.
+238.3 Practice Putting Greens, Practice Teeing Grounds, and Teeing Stations at Driving Ranges. At least 5 percent, but no fewer than one, of practice putting greens, practice teeing grounds, and teeing stations at driving ranges shall be designed and constructed so that a golf car can enter and exit the practice putting greens, practice teeing grounds, and teeing stations at driving ranges.

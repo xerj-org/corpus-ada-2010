@@ -1,0 +1,12 @@
+239 Miniature Golf Facilities
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#239-miniature-golf-facilities (fetched 2026-10-04)
+
+239.1 General. Miniature golf facilities shall comply with 239.
+239.2 Minimum Number. At least 50 percent of holes on miniature golf courses shall comply with 1007.3.
+Advisory 239.2 Minimum Number.
+Where possible, providing access to all holes on a miniature golf course is recommended. If a course is designed with the minimum 50 percent accessible holes, designers or operators are encouraged to select holes which provide for an equivalent experience to the maximum extent possible.
+239.3 Miniature Golf Course Configuration. Miniature golf courses shall be configured so that the holes complying with 1007.3 are consecutive. Miniature golf courses shall provide an accessible route from the last hole complying with 1007.3 to the course entrance or exit without requiring travel through any other holes on the course.
+EXCEPTION: One break in the sequence of consecutive holes shall be permitted provided that the last hole on the miniature golf course is the last hole in the sequence.
+Advisory 239.3 Miniature Golf Course Configuration.
+Where only the minimum 50 percent of the holes are accessible, an accessible route from the last accessible hole to the course exit or entrance must not require travel back through other holes. In some cases, this may require an additional accessible route. Other options include increasing the number of accessible holes in a way that limits the distance needed to connect the last accessible hole with the course exit or entrance.

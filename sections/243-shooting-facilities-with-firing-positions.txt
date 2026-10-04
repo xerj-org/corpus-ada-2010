@@ -1,0 +1,5 @@
+243 Shooting Facilities with Firing Positions
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#243-shooting-facilities-with-firing-positions (fetched 2026-10-04)
+
+243.1 General. Where shooting facilities with firing positions are designed and constructed at a site, at least 5 percent, but no fewer than one, of each type of firing position shall comply with 1010.

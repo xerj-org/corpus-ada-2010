@@ -1,0 +1,18 @@
+219 Assistive Listening Systems
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#219-assistive-listening-systems (fetched 2026-10-04)
+
+219.1 General. Assistive listening systems shall be provided in accordance with 219 and shall comply with 706.
+219.2 Required Systems. In each assembly area where audible communication is integral to the use of the space, an assistive listening system shall be provided.
+EXCEPTION: Other than in courtrooms, assistive listening systems shall not be required where audio amplification is not provided.
+219.3 Receivers. Receivers complying with 706.2 shall be provided for assistive listening systems in each assembly area in accordance with Table 219.3. Twenty-five percent minimum of receivers provided, but no fewer than two, shall be hearing-aid compatible in accordance with 706.3.
+Capacity of Seating in Assembly Area | Minimum Number ofRequired Receivers | Minimum Number of Required Receivers Required to be Hearing-aid Compatible
+50 or less | 2 | 2
+51 to 200 | 2, plus 1 per 25 seats over 50 seats (or fraction thereof) | 2
+201 to 500 | 2, plus 1 per 25 seats over 50 seats (or fraction thereof) | 1 per 4 receivers (or fraction thereof)
+501 to 1000 | 20, plus 1 per 33 seats over 500 seats (or fraction thereof) | 1 per 4 receivers (or fraction thereof)
+1001 to 2000 | 35, plus 1 per 50 seats over 1000 seats (or fraction thereof) | 1 per 4 receivers (or fraction thereof)
+2001 and over | 55 plus 1 per 100 seats over 2000 seats (or fraction thereof) | 1 per 4 receivers (or fraction thereof)
+EXCEPTIONS:
+- Where a building contains more than one assembly area and the assembly areas required to provide assistive listening systems are under one management, the total number of required receivers shall be permitted to be calculated according to the total number of seats in the assembly areas in the building provided that all receivers are usable with all systems.
+- Where all seats in an assembly area are served by an induction loop assistive listening system, the minimum number of receivers required by Table 219.3 to be hearing-aid compatible shall not be required to be provided.

@@ -1,0 +1,25 @@
+606 Lavatories and Sinks
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#606-lavatories-and-sinks (fetched 2026-10-04)
+
+606.1 General. Lavatories and sinks shall comply with 606.
+Advisory 606.1 General.
+If soap and towel dispensers are provided, they must be located within the reach ranges specified in 308. Locate soap and towel dispensers so that they are conveniently usable by a person at the accessible lavatory.
+606.2 Clear Floor Space. A clear floor space complying with 305, positioned for a forward approach, and knee and toe clearance complying with 306 shall be provided.
+EXCEPTIONS:
+- A parallel approach complying with 305 shall be permitted to a kitchen sink in a space where a cook top or conventional range is not provided and to wet bars.
+- A lavatory in a toilet room or bathing facility for a single occupant accessed only through a private office and not for common use or public use shall not be required to provide knee and toe clearance complying with 306.
+In residential dwelling units, cabinetry shall be permitted under lavatories and kitchen sinks provided that all of the following conditions are met:
+(a) the cabinetry can be removed without removal or replacement of the fixture;
+(b) the finish floor extends under the cabinetry; and
+(c)the walls behind and surrounding the cabinetry are finished.
+- A knee clearance of 24 inches (610 mm) minimum above the finish floor or ground shall be permitted at lavatories and sinks used primarily by children 6 through 12 years where the rim or counter surface is 31 inches (785 mm) maximum above the finish floor or ground.
+- A parallel approach complying with 305 shall be permitted to lavatories and sinks used primarily by children 5 years and younger.
+- The dip of the overflow shall not be considered in determining knee and toe clearances.
+- No more than one bowl of a multi-bowl sink shall be required to provide knee and toe clearance complying with 306.
+606.3 Height. Lavatories and sinks shall be installed with the front of the higher of the rim or counter surface 34 inches (865 mm) maximum above the finish floor or ground.
+EXCEPTIONS:
+- A lavatory in a toilet or bathing facility for a single occupant accessed only through a private office and not for common use or public use shall not be required to comply with 606.3.
+- In residential dwelling unit kitchens, sinks that are adjustable to variable heights, 29 inches (735 mm) minimum and 36 inches (915 mm) maximum, shall be permitted where rough-in plumbing permits connections of supply and drain pipes for sinks mounted at the height of 29 inches (735 mm).
+606.4 Faucets. Controls for faucets shall comply with 309. Hand-operated metering faucets shall remain open for 10 seconds minimum.
+606.5 Exposed Pipes and Surfaces. Water supply and drain pipes under lavatories and sinks shall be insulated or otherwise configured to protect against contact. There shall be no sharp or abrasive surfaces under lavatories and sinks.

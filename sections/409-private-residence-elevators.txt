@@ -1,0 +1,26 @@
+409 Private Residence Elevators
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#409-private-residence-elevators (fetched 2026-10-04)
+
+409.1 General. Private residence elevators that are provided within a residential dwelling unit required to provide mobility features complying with 809.2 through 809.4 shall comply with 409 and with ASME A17.1 (incorporated by reference, see “Referenced Standards” in Chapter 1). They shall be passenger elevators as classified by ASME A17.1. Elevator operation shall be automatic.
+409.2 Call Buttons. Call buttons shall be 3/4 inch (19 mm) minimum in the smallest dimension and shall comply with 309.
+409.3 Elevator Doors. Hoistway doors, car doors, and car gates shall comply with 409.3 and 404.
+EXCEPTION: Doors shall not be required to comply with the maneuvering clearance requirements in 404.2.4.1 for approaches to the push side of swinging doors.
+409.3.1 Power Operation. Elevator car and hoistway doors and gates shall be power operated and shall comply with ANSI/BHMA A156.19 (1997 or 2002 edition) (incorporated by reference, see “Referenced Standards” in Chapter 1). Power operated doors and gates shall remain open for 20 seconds minimum when activated.
+EXCEPTION: In elevator cars with more than one opening, hoistway doors and gates shall be permitted to be of the manual-open, self-close type.
+409.3.2 Location. Elevator car doors or gates shall be positioned at the narrow end of the clear floor spaces required by 409.4.1.
+409.4 Elevator Cars. Private residence elevator cars shall comply with 409.4.
+409.4.1 Inside Dimensions of Elevator Cars. Elevator cars shall provide a clear floor space of 36 inches (915 mm) minimum by 48 inches (1220 mm) minimum and shall comply with 305.
+409.4.2 Floor Surfaces. Floor surfaces in elevator cars shall comply with 302 and 303.
+409.4.3 Platform to Hoistway Clearance. The clearance between the car platform and the edge of any landing sill shall be 1 1/2 inch (38 mm) maximum.
+409.4.4 Leveling. Each car shall automatically stop at a floor landing within a tolerance of 1/2 inch (13 mm) under rated loading to zero loading conditions.
+409.4.5 Illumination Levels. Elevator car illumination shall comply with 407.4.5.
+409.4.6 Car Controls. Elevator car control buttons shall comply with 409.4.6, 309.3, 309.4, and shall be raised or flush.
+409.4.6.1 Size. Control buttons shall be 3/4 inch (19 mm) minimum in their smallest dimension.
+409.4.6.2 Location. Control panels shall be on a side wall, 12 inches (305 mm) minimum from any adjacent wall.
+[Figure: Location of Private Residence Elevator Control Panel — A plan view shows an elevator with an out-swinging hoistway door.  The control panel is shown on the car side wall 12 inches (305 mm) minimum from the front.]
+409.4.7 Emergency Communications. Emergency two-way communication systems shall comply with 409.4.7.
+409.4.7.1 Type. A telephone and emergency signal device shall be provided in the car.
+409.4.7.2 Operable Parts. The telephone and emergency signaling device shall comply with 309.3 and 309.4.
+409.4.7.3 Compartment. If the telephone or device is in a closed compartment, the compartment door hardware shall comply with 309.
+409.4.7.4 Cord. The telephone cord shall be 29 inches (735 mm) long minimum.

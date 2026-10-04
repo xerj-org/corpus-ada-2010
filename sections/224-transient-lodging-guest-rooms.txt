@@ -1,0 +1,45 @@
+224 Transient Lodging Guest Rooms
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#224-transient-lodging-guest-rooms (fetched 2026-10-04)
+
+224.1 General. Transient lodging facilities shall provide guest rooms in accordance with 224. See additional requirements for places of lodging at 28 CFR 36.406(c) and for housing at a place of education at 28 CFR 35.151(f) and 28 CFR 36.406(e) .
+Advisory 224.1 General.
+Certain facilities used for transient lodging, including time shares, dormitories, and town homes may be covered by both these requirements and the Fair Housing Amendments Act. The Fair Housing Amendments Act requires that certain residential structures having four or more multi-family dwelling units, regardless of whether they are privately owned or federally assisted, include certain features of accessible and adaptable design according to guidelines established by the U.S. Department of Housing and Urban Development (HUD). This law and the appropriate regulations should be consulted before proceeding with the design and construction of residential housing.
+224.1.1 Alterations. Where guest rooms are altered or added, the requirements of 224 shall apply only to the guest rooms being altered or added until the number of guest rooms complies with the minimum number required for new construction.
+Advisory 224.1.1 Alterations.
+In alterations and additions, the minimum required number of accessible guest rooms is based on the total number of guest rooms altered or added instead of the total number of guest rooms provided in a facility. Typically, each alteration of a facility is limited to a particular portion of the facility. When accessible guest rooms are added as a result of subsequent alterations, compliance with 224.5 (Dispersion) is more likely to be achieved if all of the accessible guest rooms are not provided in the same area of the facility.
+224.1.2 Guest Room Doors and Doorways. Entrances, doors, and doorways providing user passage into and within guest rooms that are not required to provide mobility features complying with 806.2 shall comply with 404.2.3.
+EXCEPTION: Shower and sauna doors in guest rooms that are not required to provide mobility features complying with 806.2 shall not be required to comply with 404.2.3.
+Advisory 224.1.2 Guest Room Doors and Doorways.
+Because of the social interaction that often occurs in lodging facilities, an accessible clear opening width is required for doors and doorways to and within all guest rooms, including those not required to be accessible. This applies to all doors, including bathroom doors, that allow full user passage. Other requirements for doors and doorways in Section 404 do not apply to guest rooms not required to provide mobility features.
+224.2 Guest Rooms with Mobility Features.
+In transient lodging facilities, guest rooms with mobility features complying with 806.2 shall be provided in accordance with Table 224.2.
+Total Number of Guest Rooms Provided | Minimum Number of Required Rooms Without Roll-in Showers | Minimum Number of Required Rooms With Roll-in Showers | Total Number of Required Rooms
+1 to 25 | 1 | 0 | 1
+26 to 50 | 2 | 0 | 2
+51 to 75 | 3 | 1 | 4
+76 to 100 | 4 | 1 | 5
+101 to 150 | 5 | 2 | 7
+151 to 200 | 6 | 2 | 8
+201 to 300 | 7 | 3 | 10
+301 to 400 | 8 | 4 | 12
+401 to 500 | 9 | 4 | 13
+501 to 1000 | 2 percent of total | 1 percent of total | 3 percent of total
+1001 and over | 20, plus 1 for each 100, or fraction thereof, over 1000 | 10, plus 1 for each 100, or fraction thereof, over 1000 | 30, plus 2 for each 100, or fraction thereof, over 1000
+224.3 Beds. In guest rooms having more than 25 beds, 5 percent minimum of the beds shall have clear floor space complying with 806.2.3 .
+224.4 Guest Rooms with Communication Features. In transient lodging facilities, guest rooms with communication features complying with 806.3 shall be provided in accordance with Table 224.4.
+Total Number of Guest Rooms Provided | Minimum Number of Required Guest Rooms With Communication Features
+2 to 25 | 2
+26 to 50 | 4
+51 to 75 | 7
+76 to 100 | 9
+101 to 150 | 12
+151 to 200 | 14
+201 to 300 | 17
+301 to 400 | 20
+401 to 500 | 22
+501 to 1000 | 5 percent of total
+1001 and over | 50, plus 3 for each 100 over 1000
+224.5 Dispersion. Guest rooms required to provide mobility features complying with 806.2 and guest rooms required to provide communication features complying with 806.3 shall be dispersed among the various classes of guest rooms, and shall provide choices of types of guest rooms, number of beds, and other amenities comparable to the choices provided to other guests. Where the minimum number of guest rooms required to comply with 806 is not sufficient to allow for complete dispersion, guest rooms shall be dispersed in the following priority: guest room type, number of beds, and amenities. At least one guest room required to provide mobility features complying with 806.2 shall also provide communication features complying with 806.3. Not more than 10 percent of guest rooms required to provide mobility features complying with 806.2 shall be used to satisfy the minimum number of guest rooms required to provide communication features complying with 806.3.
+Advisory 224.5 Dispersion.
+Factors to be considered in providing an equivalent range of options may include, but are not limited to, room size, bed size, cost, view, bathroom fixtures such as hot tubs and spas, smoking and nonsmoking, and the number of rooms provided.

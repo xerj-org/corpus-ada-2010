@@ -1,0 +1,23 @@
+232 Detention Facilities and Correctional Facilities
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#232-detention-facilities-and-correctional-facilities (fetched 2026-10-04)
+
+232.1 General. Buildings, facilities, or portions thereof, in which people are detained for penal or correction purposes, or in which the liberty of the inmates is restricted for security reasons shall comply with 232. See additional requirements at 28 CFR 35.151(k) .
+Advisory 232.1 General.
+Detention facilities include, but are not limited to, jails, detention centers, and holding cells in police stations. Correctional facilities include, but are not limited to, prisons, reformatories, and correctional centers.
+232.2 General Holding Cells and General Housing Cells. General holding cells and general housing cells shall be provided in accordance with 232.2.
+EXCEPTION: Alterations to cells shall not be required to comply except to the extent determined by the Attorney General.
+Advisory 232.2 General Holding Cells and General Housing Cells.
+Accessible cells or rooms should be dispersed among different levels of security, housing categories, and holding classifications (e.g., male/female and adult/juvenile) to facilitate access. Many detention and correctional facilities are designed so that certain areas (e.g., “shift” areas) can be adapted to serve as different types of housing according to need. For example, a shift area serving as a medium-security housing unit might be redesignated for a period of time as a high-security housing unit to meet capacity needs. Placement of accessible cells or rooms in shift areas may allow additional flexibility in meeting requirements for dispersion of accessible cells or rooms.
+Advisory 232.2 General Holding Cells and General Housing Cells Exception.
+Although these requirements do not specify that cells be accessible as a consequence of an alteration, Title II of the ADA requires that each service, program, or activity conducted by a public entity, when viewed in its entirety, be readily accessible to and usable by individuals with disabilities. This requirement must be met unless doing so would fundamentally alter the nature of a service, program, or activity or would result in undue financial and administrative burdens.
+232.2.1 Cells with Mobility Features . At least 2 percent, but no fewer than one, of the total number of cells in a facility shall provide mobility features complying with 807.2.
+232.2.1.1 Beds. In cells having more than 25 beds, at least 5 percent of the beds shall have clear floor space complying with 807.2.3.
+232.2.2 Cells with Communication Features. At least 2 percent, but no fewer than one, of the total number of general holding cells and general housing cells equipped with audible emergency alarm systems and permanently installed telephones within the cell shall provide communication features complying with 807.3.
+232.3 Special Holding Cells and Special Housing Cells. Where special holding cells or special housing cells are provided, at least one cell serving each purpose shall provide mobility features complying with 807.2. Cells subject to this requirement include, but are not limited to, those used for purposes of orientation, protective custody, administrative or disciplinary detention or segregation, detoxification, and medical isolation.
+EXCEPTION: Alterations to cells shall not be required to comply except to the extent determined by the Attorney General.
+232.4 Medical Care Facilities. Patient bedrooms or cells required to comply with 223 shall be provided in addition to any medical isolation cells required to comply with 232.3.
+232.5 Visiting Areas. Visiting areas shall comply with 232.5.
+232.5.1 Cubicles and Counters. At least 5 percent, but no fewer than one, of cubicles shall comply with 902 on both the visitor and detainee sides. Where counters are provided, at least one shall comply with 904.4.2 on both the visitor and detainee or inmate sides.
+EXCEPTION: The inmate or detainee side of cubicles or counters at non-contact visiting areas not serving holding cells or housing cells required to comply with 232 shall not be required to comply with 902 or 904.4.2.
+232.5.2 Partitions. Where solid partitions or security glazing separate visitors from detainees or inmates at least one of each type of cubicle or counter partition shall comply with 904.6.

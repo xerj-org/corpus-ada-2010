@@ -1,0 +1,10 @@
+211 Drinking Fountains
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#211-drinking-fountains (fetched 2026-10-04)
+
+211.1 General. Where drinking fountains are provided on an exterior site, on a floor, or within a secured area they shall be provided in accordance with 211.
+EXCEPTION: In detention or correctional facilities, drinking fountains only serving holding or housing cells not required to comply with 232 shall not be required to comply with 211.
+211.2 Minimum Number. No fewer than two drinking fountains shall be provided. One drinking fountain shall comply with 602.1 through 602.6 and one drinking fountain shall comply with 602.7.
+EXCEPTION: Where a single drinking fountain complies with 602.1 through 602.6 and 602.7, it shall be permitted to be substituted for two separate drinking fountains.
+211.3 More Than Minimum Number. Where more than the minimum number of drinking fountains specified in 211.2 are provided, 50 percent of the total number of drinking fountains provided shall comply with 602.1 through 602.6, and 50 percent of the total number of drinking fountains provided shall comply with 602.7.
+EXCEPTION: Where 50 percent of the drinking fountains yields a fraction, 50 percent shall be permitted to be rounded up or down provided that the total number of drinking fountains complying with 211 equals 100 percent of drinking fountains.

@@ -1,0 +1,5 @@
+501 General
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#501-general (fetched 2026-10-04)
+
+501.1 Scope. The provisions of Chapter 5 shall apply where required by Chapter 2 or where referenced by a requirement in this document.

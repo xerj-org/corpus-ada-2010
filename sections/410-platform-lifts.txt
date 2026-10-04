@@ -1,0 +1,15 @@
+410 Platform Lifts
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#410-platform-lifts (fetched 2026-10-04)
+
+410.1 General. Platform lifts shall comply with ASME A18.1 (1999 edition or 2003 edition) (incorporated by reference, see “Referenced Standards” in Chapter 1). Platform lifts shall not be attendant-operated and shall provide unassisted entry and exit from the lift.
+Advisory 410.1 General.
+Inclined stairway chairlifts and inclined and vertical platform lifts are available for short-distance vertical transportation. Because an accessible route requires an 80 inch (2030 mm) vertical clearance, care should be taken in selecting lifts as they may not be equally suitable for use by people using wheelchairs and people standing. If a lift does not provide 80 inch (2030 mm) vertical clearance, it cannot be considered part of an accessible route in new construction.
+The ADA and other Federal civil rights laws require that accessible features be maintained in working order so that they are accessible to and usable by those people they are intended to benefit. Building owners are reminded that the ASME A18 Safety Standard for Platform Lifts and Stairway Chairlifts requires routine maintenance and inspections. Isolated or temporary interruptions in service due to maintenance or repairs may be unavoidable; however, failure to take prompt action to effect repairs could constitute a violation of Federal laws and these requirements.
+410.2 Floor Surfaces. Floor surfaces in platform lifts shall comply with 302 and 303.
+410.3 Clear Floor Space. Clear floor space in platform lifts shall comply with 305.
+410.4 Platform to Runway Clearance. The clearance between the platform sill and the edge of any runway landing shall be 1 inch (32 mm) maximum.
+410.5 Operable Parts. Controls for platform lifts shall comply with 309.
+410.6 Doors and Gates. Platform lifts shall have low-energy power-operated doors or gates complying with 404.3. Doors shall remain open for 20 seconds minimum. End doors and gates shall provide a clear width 32 inches (815 mm) minimum. Side doors and gates shall provide a clear width 42 inches (1065 mm) minimum.
+EXCEPTION: Platform lifts serving two landings maximum and having doors or gates on opposite sides shall be permitted to have self-closing manual doors or gates.
+[Figure: Platform Lift Doors and Gates — A rectangular lift platform is shown in plan view with an end door 32 inches (815 mm) minimum, and a side door 42 inches (1065 mm) minimum.]

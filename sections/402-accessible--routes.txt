@@ -1,0 +1,8 @@
+402 Accessible Routes
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#402-accessible--routes (fetched 2026-10-04)
+
+402.1 General. Accessible routes shall comply with 402.
+402.2 Components. Accessible routes shall consist of one or more of the following components: walking surfaces with a running slope not steeper than 1:20, doorways, ramps, curb ramps excluding the flared sides, elevators, and platform lifts. All components of an accessible route shall comply with the applicable requirements of Chapter 4.
+Advisory 402.2 Components.
+Walking surfaces must have running slopes not steeper than 1:20, see 403.3. Other components of accessible routes, such as ramps (405) and curb ramps (406), are permitted to be more steeply sloped.

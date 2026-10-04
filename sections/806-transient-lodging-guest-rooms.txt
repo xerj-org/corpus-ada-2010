@@ -1,0 +1,23 @@
+806 Transient Lodging Guest Rooms
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#806-transient-lodging-guest-rooms (fetched 2026-10-04)
+
+806.1 General. Transient lodging guest rooms shall comply with 806 . Guest rooms required to provide mobility features shall comply with 806.2. Guest rooms required to provide communication features shall comply with 806.3.
+806.2 Guest Rooms with Mobility Features. Guest rooms required to provide mobility features shall comply with 806.2.
+Advisory 806.2 Guest Rooms.
+The requirements in Section 806.2 do not include requirements that are common to all accessible spaces. For example, closets in guest rooms must comply with the applicable provisions for storage specified in scoping.
+806.2.1 Living and Dining Areas. Living and dining areas shall be accessible.
+806.2.2 Exterior Spaces. Exterior spaces, including patios, terraces and balconies, that serve the guest room shall be accessible.
+806.2.3 Sleeping Areas. At least one sleeping area shall provide a clear floor space complying with 305 on both sides of a bed. The clear floor space shall be positioned for parallel approach to the side of the bed.
+EXCEPTION: Where a single clear floor space complying with 305 positioned for parallel approach is provided between two beds, a clear floor or ground space shall not be required on both sides of a bed.
+806.2.4 Toilet and Bathing Facilities. At least one bathroom that is provided as part of a guest room shall comply with 603. No fewer than one water closet, one lavatory, and one bathtub or shower shall comply with applicable requirements of 603 through 610. In addition, required roll-in shower compartments shall comply with 608.2.2 or 608.2.3. Toilet and bathing fixtures required to comply with 603 through 610 shall be permitted to be located in more than one toilet or bathing area, provided that travel between fixtures does not require travel between other parts of the guest room.
+806.2.4.1 Vanity Counter Top Space. If vanity counter top space is provided in non-accessible guest toilet or bathing rooms, comparable vanity counter top space, in terms of size and proximity to the lavatory, shall also be provided in accessible guest toilet or bathing rooms.
+Advisory 806.2.4.1 Vanity Counter Top Space.
+This provision is intended to ensure that accessible guest rooms are provided with comparable vanity counter top space.
+806.2.5 Kitchens and Kitchenettes. Kitchens and kitchenettes shall comply with 804.
+806.2.6 Turning Space. Turning space complying with 304 shall be provided within the guest room.
+806.3 Guest Rooms with Communication Features. Guest rooms required to provide communication features shall comply with 806.3.
+Advisory 806.3 Guest Rooms with Communication Features.
+In guest rooms required to have accessible communication features, consider ensuring compatibility with adaptive equipment used by people with hearing impairments. To ensure communication within the facility, as well as on commercial lines, provide telephone interface jacks that are compatible with both digital and analog signal use. If an audio headphone jack is provided on a speaker phone, a cutoff switch can be included in the jack so that insertion of the jack cuts off the speaker. If a telephone-like handset is used, the external speakers can be turned off when the handset is removed from the cradle. For headset or external amplification system compatibility, a standard subminiature jack installed in the telephone will provide the most flexibility.
+806.3.1 Alarms. Where emergency warning systems are provided, alarms complying with 702 shall be provided.
+806.3.2 Notification Devices. Visible notification devices shall be provided to alert room occupants of incoming telephone calls and a door knock or bell. Notification devices shall not be connected to visible alarm signal appliances. Telephones shall have volume controls compatible with the telephone system and shall comply with 704.3. Telephones shall be served by an electrical outlet complying with 309 located within 48 inches (1220 mm) of the telephone to facilitate the use of a TTY.

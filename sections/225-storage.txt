@@ -1,0 +1,21 @@
+225 Storage
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#225-storage (fetched 2026-10-04)
+
+225.1 General. Storage facilities shall comply with 225.
+225.2 Storage. Where storage is provided in accessible spaces, at least one of each type shall comply with 811.
+Advisory 225.2 Storage.
+Types of storage include, but are not limited to, closets, cabinets, shelves, clothes rods, hooks, and drawers. Where provided, at least one of each type of storage must be within the reach ranges specified in 308; however, it is permissible to install additional storage outside the reach ranges.
+225.2.1 Lockers. Where lockers are provided, at least 5 percent, but no fewer than one of each type, shall comply with 811.
+Advisory 225.2.1 Lockers.
+Different types of lockers may include full-size and half-size lockers, as well as those specifically designed for storage of various sports equipment.
+225.2.2 Self-Service Shelving. Self-service shelves shall be located on an accessible route complying with 402. Self-service shelving shall not be required to comply with 308.
+Advisory 225.2.2 Self-Service Shelving.
+Self-service shelves include, but are not limited to, library, store, or post office shelves.
+225.3 Self-Service Storage Facilities. Self-service storage facilities shall provide individual self-service storage spaces complying with these requirements in accordance with Table 225.3.
+Total Spaces in Facility | Minimum Number of Spaces Required to be Accessible
+1 to 200 | 5 percent, but no fewer than 1
+201 and over | 10, plus 2 percent of total number of units over 200
+Advisory 225.3 Self-Service Storage Facilities.
+Although there are no technical requirements that are unique to self-service storage facilities, elements and spaces provided in facilities containing self-service storage spaces required to comply with these requirements must comply with this document where applicable. For example: the number of storage spaces required to comply with these requirements must provide Accessible Routes complying with Section 206; Accessible Means of Egress complying with Section 207; Parking Spaces complying with Section 208; and, where provided, other public use or common use elements and facilities such as toilet rooms, drinking fountains, and telephones must comply with the applicable requirements of this document.
+225.3.1 Dispersion. Individual self-service storage spaces shall be dispersed throughout the various classes of spaces provided. Where more classes of spaces are provided than the number required to be accessible, the number of spaces shall not be required to exceed that required by Table 225.3. Self-service storage spaces complying with Table 225.3 shall not be required to be dispersed among buildings in a multi-building facility.

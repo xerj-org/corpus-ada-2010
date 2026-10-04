@@ -1,0 +1,11 @@
+226 Dining Surfaces and Work Surfaces
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#226-dining-surfaces-and-work-surfaces (fetched 2026-10-04)
+
+226.1 General. Where dining surfaces are provided for the consumption of food or drink, at least 5 percent of the seating spaces and standing spaces at the dining surfaces shall comply with 902. In addition, where work surfaces are provided for use by other than employees, at least 5 percent shall comply with 902.
+EXCEPTIONS:
+- Sales counters and service counters shall not be required to comply with 902.
+- Check writing surfaces provided at check-out aisles not required to comply with 904.3 shall not be required to comply with 902.
+Advisory 226.1 General.
+In facilities covered by the ADA, this requirement does not apply to work surfaces used only by employees. However, the ADA and, where applicable, Section 504 of the Rehabilitation Act of 1973, as amended, provide that employees are entitled to “reasonable accommodations.” With respect to work surfaces, this means that employers may need to procure or adjust work stations such as desks, laboratory and work benches, fume hoods, reception counters, teller windows, study carrels, commercial kitchen counters, and conference tables to accommodate the individual needs of employees with disabilities on an “as needed” basis. Consider work surfaces that are flexible and permit installation at variable heights and clearances.
+226.2 Dispersion. Dining surfaces and work surfaces required to comply with 902 shall be dispersed throughout the space or facility containing dining surfaces and work surfaces.

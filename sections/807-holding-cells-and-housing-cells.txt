@@ -1,0 +1,16 @@
+807 Holding Cells and Housing Cells
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#807-holding-cells-and-housing-cells (fetched 2026-10-04)
+
+807.1 General. Holding cells and housing cells shall comply with 807.
+807.2 Cells with Mobility Features. Cells required to provide mobility features shall comply with 807.2.
+807.2.1 Turning Space. Turning space complying with 304 shall be provided within the cell.
+807.2.2 Benches. Where benches are provided, at least one bench shall comply with 903.
+807.2.3 Beds. Where beds are provided, clear floor space complying with 305 shall be provided on at least one side of the bed. The clear floor space shall be positioned for parallel approach to the side of the bed.
+807.2.4 Toilet and Bathing Facilities. Toilet facilities or bathing facilities that are provided as part of a cell shall comply with 603. Where provided, no fewer than one water closet, one lavatory, and one bathtub or shower shall comply with the applicable requirements of 603 through 610.
+Advisory 807.2.4 Toilet and Bathing Facilities.
+In holding cells, housing cells, or rooms required to be accessible, these requirements do not require a separate toilet room.
+807.3 Cells with Communication Features. Cells required to provide communication features shall comply with 807.3.
+807.3.1 Alarms. Where audible emergency alarm systems are provided to serve the occupants of cells, visible alarms complying with 702 shall be provided.
+EXCEPTION: Visible alarms shall not be required where inmates or detainees are not allowed independent means of egress.
+807.3.2 Telephones. Telephones, where provided within cells, shall have volume controls complying with 704.3.

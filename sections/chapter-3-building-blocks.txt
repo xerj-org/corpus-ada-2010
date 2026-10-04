@@ -1,0 +1,15 @@
+CHAPTER 3: BUILDING BLOCKS
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#chapter-3-building-blocks (fetched 2026-10-04)
+
+Index of subsections in this division:
+
+  301 General
+  302 Floor or Ground Surfaces
+  303 Changes in Level
+  304 Turning Space
+  305 Clear Floor or Ground Space
+  306 Knee and Toe Clearance
+  307 Protruding Objects
+  308 Reach Ranges
+  309 Operable Parts

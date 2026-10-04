@@ -1,0 +1,11 @@
+201 Application
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#201-application (fetched 2026-10-04)
+
+201.1 Scope. All areas of newly designed and newly constructed buildings and facilities and altered portions of existing buildings and facilities shall comply with these requirements.
+Advisory 201.1 Scope.
+These requirements are to be applied to all areas of a facility unless exempted, or where scoping limits the number of multiple elements required to be accessible. For example, not all medical care patient rooms are required to be accessible; those that are not required to be accessible are not required to comply with these requirements. However, common use and public use spaces such as recovery rooms, examination rooms, and cafeterias are not exempt from these requirements and must be accessible.
+201.2 Application Based on Building or Facility Use. Where a site, building, facility, room, or space contains more than one use, each portion shall comply with the applicable requirements for that use.
+201.3 Temporary and Permanent Structures. These requirements shall apply to temporary and permanent buildings and facilities.
+Advisory 201.3 Temporary and Permanent Structures.
+Temporary buildings or facilities covered by these requirements include, but are not limited to, reviewing stands, temporary classrooms, bleacher areas, stages, platforms and daises, fixed furniture systems, wall systems, and exhibit areas, temporary banking facilities, and temporary health screening facilities. Structures and equipment directly associated with the actual processes of construction are not required to be accessible as permitted in 203.2.

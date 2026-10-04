@@ -1,0 +1,43 @@
+208 Parking Spaces
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#208-parking-spaces (fetched 2026-10-04)
+
+208.1 General. Where parking spaces are provided, parking spaces shall be provided in accordance with 208.
+EXCEPTION: Parking spaces used exclusively for buses, trucks, other delivery vehicles, law enforcement vehicles, or vehicular impound shall not be required to comply with 208 provided that lots accessed by the public are provided with a passenger loading zone complying with 503.
+208.2 Minimum Number. Parking spaces complying with 502 shall be provided in accordance with Table 208.2 except as required by 208.2.1, 208.2.2, and 208.2.3. Where more than one parking facility is provided on a site, the number of accessible spaces provided on the site shall be calculated according to the number of spaces required for each parking facility.
+Total Number of Parking Spaces Provided in Parking Facility | Minimum Number of Required Accessible Parking Spaces
+1 to 25 | 1
+26 to 50 | 2
+51 to 75 | 3
+76 to 100 | 4
+101 to 150 | 5
+151 to 200 | 6
+201 to 300 | 7
+301 to 400 | 8
+401 to 500 | 9
+501 to 1000 | 2 percent of total
+1001 and over | 20, plus 1 for each 100, or fraction thereof, over 1000
+Advisory 208.2 Minimum Number.
+The term “parking facility” is used Section 208.2 instead of the term “parking lot” so that it is clear that both parking lots and parking structures are required to comply with this section. The number of parking spaces required to be accessible is to be calculated separately for each parking facility; the required number is not to be based on the total number of parking spaces provided in all of the parking facilities provided on the site.
+208.2.1 Hospital Outpatient Facilities. Ten percent of patient and visitor parking spaces provided to serve hospital outpatient facilities shall comply with 502.
+Advisory 208.2.1
+Hospital Outpatient Facilities. The term “outpatient facility” is not defined in this document but is intended to cover facilities or units that are located in hospitals and that provide regular and continuing medical treatment without an overnight stay. Doctors’ offices, independent clinics, or other facilities not located in hospitals are not considered hospital outpatient facilities for purposes of this document.
+208.2.2 Rehabilitation Facilities and Outpatient Physical Therapy Facilities. Twenty percent of patient and visitor parking spaces provided to serve rehabilitation facilities specializing in treating conditions that affect mobility and outpatient physical therapy facilities shall comply with 502.
+Advisory 208.2.2 Rehabilitation Facilities and Outpatient Physical Therapy Facilities.
+Conditions that affect mobility include conditions requiring the use or assistance of a brace, cane, crutch, prosthetic device, wheelchair, or powered mobility aid; arthritic, neurological, or orthopedic conditions that severely limit one’s ability to walk; respiratory diseases and other conditions which may require the use of portable oxygen; and cardiac conditions that impose significant functional limitations.
+208.2.3 Residential Facilities. Parking spaces provided to serve residential facilities shall comply with 208.2.3.
+208.2.3.1 Parking for Residents. Where at least one parking space is provided for each residential dwelling unit, at least one parking space complying with 502 shall be provided for each residential dwelling unit required to provide mobility features complying with 809.2 through 809.4 .
+208.2.3.2 Additional Parking Spaces for Residents. Where the total number of parking spaces provided for each residential dwelling unit exceeds one parking space per residential dwelling unit, 2 percent, but no fewer than one space, of all the parking spaces not covered by 208.2.3.1 shall comply with 502.
+208.2.3.3 Parking for Guests, Employees, and Other Non-Residents. Where parking spaces are provided for persons other than residents, parking shall be provided in accordance with Table 208.2.
+208.2.4 Van Parking Spaces. For every six or fraction of six parking spaces required by 208.2 to comply with 502, at least one shall be a van parking space complying with 502.
+208.3 Location. Parking facilities shall comply with 208.3
+208.3.1 General. Parking spaces complying with 502 that serve a particular building or facility shall be located on the shortest accessible route from parking to an entrance complying with 206.4. Where parking serves more than one accessible entrance, parking spaces complying with 502 shall be dispersed and located on the shortest accessible route to the accessible entrances. In parking facilities that do not serve a particular building or facility, parking spaces complying with 502 shall be located on the shortest accessible route to an accessible pedestrian entrance of the parking facility.
+EXCEPTIONS:
+- All van parking spaces shall be permitted to be grouped on one level within a multi-story parking facility.
+- Parking spaces shall be permitted to be located in different parking facilities if substantially equivalent or greater accessibility is provided in terms of distance from an accessible entrance or entrances, parking fee, and user convenience.
+Advisory 208.3.1 General Exception 2.
+Factors that could affect “user convenience” include, but are not limited to, protection from the weather, security, lighting, and comparative maintenance of the alternative parking site.
+208.3.2 Residential Facilities. In residential facilities containing residential dwelling units required to provide mobility features complying with 809.2 through 809.4 , parking spaces provided in accordance with 208.2.3.1 shall be located on the shortest accessible route to the residential dwelling unit entrance they serve. Spaces provided in accordance with 208.2.3.2 shall be dispersed throughout all types of parking provided for the residential dwelling units.
+EXCEPTION: Parking spaces provided in accordance with 208.2.3.2 shall not be required to be dispersed throughout all types of parking if substantially equivalent or greater accessibility is provided in terms of distance from an accessible entrance, parking fee, and user convenience.
+Advisory 208.3.2 Residential Facilities Exception.
+Factors that could affect “user convenience” include, but are not limited to, protection from the weather, security, lighting, and comparative maintenance of the alternative parking site.

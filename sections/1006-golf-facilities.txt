@@ -1,0 +1,14 @@
+1006 Golf Facilities
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#1006-golf-facilities (fetched 2026-10-04)
+
+1006.1 General. Golf facilities shall comply with 1006.
+1006.2 Accessible Routes. Accessible routes serving teeing grounds, practice teeing grounds, putting greens, practice putting greens, teeing stations at driving ranges, course weather shelters, golf car rental areas, bag drop areas, and course toilet rooms shall comply with Chapter 4 and shall be 48 inches (1220 mm) wide minimum. Where handrails are provided, accessible routes shall be 60 inches (1525 mm) wide minimum.
+EXCEPTION: Handrails shall not be required on golf courses. Where handrails are provided on golf courses, the handrails shall not be required to comply with 505.
+Advisory 1006.2 Accessible Routes.
+The 48 inch (1220 mm) minimum width for the accessible route is necessary to ensure passage of a golf car on either the accessible route or the golf car passage. This is important where the accessible route is used to connect the golf car rental area, bag drop areas, practice putting greens, practice teeing grounds, course toilet rooms, and course weather shelters. These are areas outside the boundary of the golf course, but are areas where an individual using an adapted golf car may travel. A golf car passage may not be substituted for other accessible routes to be located outside the boundary of the course. For example, an accessible route connecting an accessible parking space to the entrance of a golf course clubhouse is not covered by this provision.
+Providing a golf car passage will permit a person that uses a golf car to practice driving a golf ball from the same position and stance used when playing the game. Additionally, the space required for a person using a golf car to enter and maneuver within the teeing stations required to be accessible should be considered.
+1006.3 Golf Car Passages. Golf car passages shall comply with 1006.3.
+1006.3.1 Clear Width. The clear width of golf car passages shall be 48 inches (1220 mm) minimum.
+1006.3.2 Barriers. Where curbs or other constructed barriers prevent golf cars from entering a fairway, openings 60 inches (1525 mm) wide minimum shall be provided at intervals not to exceed 75 yards (69 m).
+1006.4 Weather Shelters. A clear floor or ground space 60 inches (1525 mm) minimum by 96 inches (2440 mm) minimum shall be provided within weather shelters.

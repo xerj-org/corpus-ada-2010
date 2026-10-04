@@ -1,0 +1,11 @@
+803 Dressing, Fitting, and Locker Rooms
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#803-dressing-fitting-and-locker-rooms (fetched 2026-10-04)
+
+803.1 General. Dressing, fitting, and locker rooms shall comply with 803.
+Advisory 803.1 General.
+Partitions and doors should be designed to ensure people using accessible dressing and fitting rooms privacy equivalent to that afforded other users of the facility. Section 903.5 requires dressing room bench seats to be installed so that they are at the same height as a typical wheelchair seat, 17 inches (430 mm) to 19 inches (485 mm). However, wheelchair seats can be lower than dressing room benches for people of short stature or children using wheelchairs.
+803.2 Turning Space. Turning space complying with 304 shall be provided within the room.
+803.3 Door Swing. Doors shall not swing into the room unless a clear floor or ground space complying with 305.3 is provided beyond the arc of the door swing.
+803.4 Benches. A bench complying with 903 shall be provided within the room.
+803.5 Coat Hooks and Shelves. Coat hooks provided within the room shall be located within one of the reach ranges specified in 308. Shelves shall be 40 inches (1015 mm) minimum and 48 inches (1220 mm) maximum above the finish floor or ground.

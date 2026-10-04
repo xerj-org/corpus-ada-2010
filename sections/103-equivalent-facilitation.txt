@@ -1,0 +1,7 @@
+103 Equivalent Facilitation
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#103-equivalent-facilitation (fetched 2026-10-04)
+
+Nothing in these requirements prevents the use of designs, products, or technologies as alternatives to those prescribed, provided they result in substantially equivalent or greater accessibility and usability.
+Advisory 103 Equivalent Facilitation.
+The responsibility for demonstrating equivalent facilitation in the event of a challenge rests with the covered entity. With the exception of transit facilities, which are covered by regulations issued by the Department of Transportation, there is no process for certifying that an alternative design provides equivalent facilitation.

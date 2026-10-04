@@ -1,0 +1,5 @@
+1010 Shooting Facilities with Firing Positions
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#1010-shooting-facilities-with-firing-positions (fetched 2026-10-04)
+
+1010.1 Turning Space. A circular turning space 60 inches (1525 mm) diameter minimum with slopes not steeper than 1:48 shall be provided at shooting facilities with firing positions.

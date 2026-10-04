@@ -1,0 +1,14 @@
+503 Passenger Loading Zones
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#503-passenger-loading-zones (fetched 2026-10-04)
+
+503.1 General. Passenger loading zones shall comply with 503.
+503.2 Vehicle Pull-Up Space. Passenger loading zones shall provide a vehicular pull-up space 96 inches (2440 mm) wide minimum and 20 feet (6100 mm) long minimum.
+503.3 Access Aisle. Passenger loading zones shall provide access aisles complying with 503 adjacent to the vehicle pull-up space. Access aisles shall adjoin an accessible route and shall not overlap the vehicular way.
+503.3.1 Width. Access aisles serving vehicle pull-up spaces shall be 60 inches (1525 mm) wide minimum.
+503.3.2 Length. Access aisles shall extend the full length of the vehicle pull-up spaces they serve.
+503.3.3 Marking. Access aisles shall be marked so as to discourage parking in them.
+[Figure: Passenger Loading Zone Access Aisle — An access aisle at a passenger loading zone is shown to be the full length of the vehicle pull-up space and 60 inches (1525 mm) wide minimum.  The aisle area is to be marked.]
+503.4 Floor and Ground Surfaces. Vehicle pull-up spaces and access aisles serving them shall comply with 302. Access aisles shall be at the same level as the vehicle pull-up space they serve. Changes in level are not permitted.
+EXCEPTION: Slopes not steeper than 1:48 shall be permitted.
+503.5 Vertical Clearance. Vehicle pull-up spaces, access aisles serving them, and a vehicular route from an entrance to the passenger loading zone, and from the passenger loading zone to a vehicular exit shall provide a vertical clearance of 114 inches (2895 mm) minimum.

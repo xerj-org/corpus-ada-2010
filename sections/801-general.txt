@@ -1,0 +1,7 @@
+801 General
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#801-general (fetched 2026-10-04)
+
+801.1 Scope. The provisions of Chapter 8 shall apply where required by Chapter 2 or where referenced by a requirement in this document.
+Advisory 801.1 Scope.
+Facilities covered by these requirements are also subject to the requirements of the other chapters. For example, 806 addresses guest rooms in transient lodging facilities while 902 contains the technical specifications for dining surfaces. If a transient lodging facility contains a restaurant, the restaurant must comply with requirements in other chapters such as those applicable to certain dining surfaces.

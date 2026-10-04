@@ -1,0 +1,8 @@
+612 Saunas and Steam Rooms
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#612-saunas-and-steam-rooms (fetched 2026-10-04)
+
+612.1 General. Saunas and steam rooms shall comply with 612.
+612.2 Bench. Where seating is provided in saunas and steam rooms, at least one bench shall comply with 903. Doors shall not swing into the clear floor space required by 903.2.
+EXCEPTION: A readily removable bench shall be permitted to obstruct the turning space required by 612.3 and the clear floor or ground space required by 903.2.
+612.3 Turning Space. A turning space complying with 304 shall be provided within saunas and steam rooms.

@@ -1,0 +1,9 @@
+228 Depositories, Vending Machines, Change Machines, Mail Boxes, and Fuel Dispensers
+ADA 2010 Standards for Accessible Design, 28 CFR Parts 35 & 36 (US DOJ)
+Source: https://www.ada.gov/law-and-regs/design-standards/2010-stds/#228-depositories-vending-machines-change-machines-mail-boxes-and-fuel-dispensers (fetched 2026-10-04)
+
+228.1 General. Where provided, at least one of each type of depository, vending machine, change machine, and fuel dispenser shall comply with 309.
+EXCEPTION: Drive-up only depositories shall not be required to comply with 309.
+Advisory 228.1 General.
+Depositories include, but are not limited to, night receptacles in banks, post offices, video stores, and libraries.
+228.2 Mail Boxes. Where mail boxes are provided in an interior location, at least 5 percent, but no fewer than one, of each type shall comply with 309. In residential facilities, where mail boxes are provided for each residential dwelling unit, mail boxes complying with 309 shall be provided for each residential dwelling unit required to provide mobility features complying with 809.2 through 809.4 .
